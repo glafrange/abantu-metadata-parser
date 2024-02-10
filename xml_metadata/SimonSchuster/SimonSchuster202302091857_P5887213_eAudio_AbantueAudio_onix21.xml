@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230209</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781797160757</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797160753</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797160757</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797160757</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797160757</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>Foul Lady Fortune</TitleOfSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Foul Heart Huntsman</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>185024153</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Chloe Gong</PersonName>
+      <PersonNameInverted>Gong, Chloe</PersonNameInverted>
+      <NamesBeforeKey>Chloe</NamesBeforeKey>
+      <KeyNames>Gong</KeyNames>
+      <BiographicalNote><![CDATA[Chloe Gong is the #1&nbsp;<i>New York Times</i>&nbsp;bestselling author of the critically acclaimed Secret Shanghai novels, as well as the Flesh and False Gods trilogy. Her books have been published in over twenty countries and have been featured in&nbsp;<i>The</i>&nbsp;<i>New York Times</i>,&nbsp;<i>People</i>,&nbsp;<i>Forbes</i>, and more. She is a recent graduate of the University of Pennsylvania, where she double-majored in English and international relations. Born in Shanghai and raised in Auckland, New Zealand, Chloe is now located in New York City, pretending to be a real adult.]]></BiographicalNote>
+    </Contributor>
+    <ContributorStatement>Chloe Gong</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0183000</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>YAF019040</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF052030</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF024030</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>romance; end of series; historical fantasy; speculative; thriller; retelling; Shakespeare retellings; enemies to lovers; fake dating; betrayal; compromised; media circus; memory wipe; rescue mission; chemical weapon; fake marriage; spies; assassins; noir; Shanghai; Japanese Imperialism; Communism; China; books set in the 1930s; strong female characters; POC heroine; Chinese heroine; duology; undercover investigation; undead immortal character; double agents; for 14 15 16 17 18 year olds grades 9 10 11 12; Asian; AAPI; Asian American Pacific Islander; New York Times bestselling author; #ownvoices; We Need Diverse Books; Shakespeare; As You Like It; The Last Magician; Six Crimson Cranes; Westworld; Serpent &amp; Dove;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>9</AudienceRangeValue>
+    </AudienceRange>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>14</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>99</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>From the #1 <I>New York Times</I> bestselling author of <I>These Violent Delights </I>and <I>Our Violent Ends </I>comes the second book in the captivating Foul Lady Fortune duology following an immortal assassin in 1930s Shanghai as she races to save her country and her love.</B><BR><BR>Winter is drawing thick in 1932 Shanghai, as is the ever-nearing threat of a Japanese invasion.<BR> <BR>Rosalind Lang has suffered the worst possible fate for a national spy: she&rsquo;s been exposed. With the media storm camped outside her apartment for the infamous Lady Fortune, she&rsquo;s barely left her bedroom in weeks, plotting her next course of action after Orion was taken and his memories of Rosalind wiped. Though their marriage might have been a sham, his absence hurts her more than any physical wound. She won&rsquo;t rest until she gets him back.<BR> <BR>But with her identity in the open, the task is near impossible. The only way to leave the city and rescue Orion is under the guise of a national tour. It&rsquo;s easy to convince her superiors that the countryside needs unity more than ever, and who better than an immortal girl to stir pride and strength into the people?<BR> <BR>When the tour goes wrong, however, everything Rosalind once knew is thrown up in the air. Taking refuge outside Shanghai, old ghosts come into the open and adversaries turn to allies. To save Orion, they must find a cure to his mother&rsquo;s traitorous invention and take this dangerous chemical weapon away from impending foreign invasion&#8212;but the clock is ticking, and if Rosalind fails, it&rsquo;s not only Orion she loses, but her nation itself.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Chloe Gong is the #1&nbsp;<i>New York Times</i>&nbsp;bestselling author of the critically acclaimed Secret Shanghai novels, as well as the Flesh and False Gods trilogy. Her books have been published in over twenty countries and have been featured in&nbsp;<i>The</i>&nbsp;<i>New York Times</i>,&nbsp;<i>People</i>,&nbsp;<i>Forbes</i>, and more. She is a recent graduate of the University of Pennsylvania, where she double-majored in English and international relations. Born in Shanghai and raised in Auckland, New Zealand, Chloe is now located in New York City, pretending to be a real adult.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>44</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[From the #1&nbsp;<I>New York Times</I>&nbsp;bestselling author of&nbsp;<I>These Violent Delights</I>&nbsp;and&nbsp;<I>Our Violent Ends</I>&nbsp;comes a captivating young adult duology following an ill-matched pair of spies posing as a married couple to investigate a series of brutal murders in 1930s Shanghai.&nbsp;]]></Text>
+    </OtherText>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230926</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX MY NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230904</ExpectedShipDate>
+      <OnSaleDate>20230926</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>29.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230208</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

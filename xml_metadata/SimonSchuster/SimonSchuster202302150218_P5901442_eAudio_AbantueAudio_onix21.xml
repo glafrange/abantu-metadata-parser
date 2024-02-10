@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230215</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398505131</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398505137</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398505131</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398505131</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398505131</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Onyeka and the Rise of the Rebels</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>182738457</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Tol&#225; Okogwu</PersonName>
+      <PersonNameInverted>Okogwu, Tol&#225;</PersonNameInverted>
+      <NamesBeforeKey>Tol&#225;</NamesBeforeKey>
+      <KeyNames>Okogwu</KeyNames>
+      <BiographicalNote><![CDATA[Tol&aacute; Okogwu is a British Nigerian author, journalist, and hair care educator. Born in Nigeria but raised in London, she holds a Bachelor of Arts degree in journalism. Having spent several years exploring the world of blogging, haircare, and freelance writing, she finally returned to her first love&hellip;fiction. She is the author of the Onyeka middle grade series, the self-published picture book series Daddy Do My Hair, and&nbsp;<I>Aziza&rsquo;s Secret Fairy Door</I>&nbsp;under the name Lola Morayo. Tola lives in Kent, England, with her husband and two daughters. An avid reader and lover of music, she&rsquo;s also a sucker for melted cheese. Learn more at TolaOkogwu.com.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Nneka Okoye</PersonName>
+      <PersonNameInverted>Okoye, Nneka</PersonNameInverted>
+      <NamesBeforeKey>Nneka</NamesBeforeKey>
+      <KeyNames>Okoye</KeyNames>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0071141</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>JUV000000</BASICMainSubject>
+    <BICMainSubject>YFB</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV037000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV071000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV001000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV035000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039140</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039090</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039050</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV013060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV030010</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC083020</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFH</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YNX</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFC</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFS</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YXL</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>black panther; percy jackson; nigeria; futuristic; solar power; energy; magic; magic school; academy; superpower; superhero; mutant; afro; black hair; black girl magic; own voices; action; adventure; good and evil; baddie; villain; friendship; family; middle grade; lola morayo; books for 8 year olds; books for 9 year olds; books for 10 year olds; books for 11 year olds; childrens books age 9-11; marvel; mcu; dc; single parent; amari and the night brothers; harry potter; braids; twist out; cornrows; africa; colonialism; girl power; feminism; technology; netflix; film; movie; adaptation; will smith; westbrook studios; david oyelowo ; yoruba saxon;&#160;b b alston; j k rowling; rick riordan; katie and kevin tsang; dragon mountain; last bear; skandar; unicorn thief; a f steadman; loki; louie stowell; wonder woman; spiderman; spider-man; waterstones; book of the month; childrens book of the month&#160;</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+      <SubjectCode>D3F79</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFB</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFH</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YNX</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFC</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFS</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YXD</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YXHB</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YXE</SubjectCode>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>02</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>8</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>12</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>The epic second book in the action-packed and empowering middle-grade superhero series. Perfect for 8+ fans of Percy Jackson, <I>Amari and the Night Brothers</I> and <I>Black Panther</I>. Soon to be a feature film with a major streamer!</B><BR> &#160;<BR><I>Power bursts through my body, and I gasp as my hair shoots out like an avenging sword. It slashes a line through the wooden decking of the walkway. With a deafening crack, the wood breaks apart, splintering with the force of the impact.</I><BR> &#160;<BR> Having uncovered head teacher Dr D&ograve;y&igrave;nb&oacute;&rsquo;s hidden agenda behind the Academy of the Sun, Onyeka and her friends are on the run. But they&rsquo;ve got bigger problems to worry about &ndash; they desperately need to find a way to restore Niy&igrave;&#39;s Ike superpower <I>and</I> they need to locate Onyeka&rsquo;s missing parents.<BR> &#160;<BR> When their last safe house is uncovered, Onyeka turns to the only potential allies they have left; the Rogues, a group of rebels that have been trying to expose Dr D&ograve;y&igrave;nb&oacute;&rsquo;s lies for years. Joining forces, will the two groups be able to defeat their shared nemesis, or is there a new danger on the horizon for the Solari?<BR><BR><B>Praise for&#160;<I>Onyeka and the Academy of the Sun</I>:</B><BR><BR> &lsquo;Exhilarating and original, Onyeka is the superhero you&rsquo;ve been waiting for.&rsquo;&#160;<B>Kiran Millwood Hargrave, author of&#160;<I>The Girl of Ink and Stars</I></B><BR><BR> &lsquo;Brilliant characters, action-packed plot, heartfelt themes of identity, family and friendship. A DAZZLING story about finding your power.&rsquo;&#160;<B>Sophie Anderson, author of&#160;<I>The House with Chicken Legs</I></B><BR> &#160;<BR> &lsquo;An incredible story that reinvents the concept of a school for magical kids. So inspiring and creatively original.&rsquo;&#160;<B>L. D. Lapinski, author of&#160;<I>The Strangeworlds Travel Agency</I></B><BR> &#160;<BR> &lsquo;Fast-paced, action-packed and empowering. T&#7885;l&aacute; Okogwu&rsquo;s storytelling shines so bright you&rsquo;ll want the next instalment immediately.&rsquo;&#160;<B>A. F. Steadman, author of&#160;<I>Skandar and the Unicorn Thief</I></B><BR><BR> &lsquo;An inspiring, original and exciting roller coaster of a book.&rsquo;&#160;<B>Katie Tsang, co-author of&#160;<I>Dragon Mountain</I></B><BR> &#160;<BR> &lsquo;A rich and gripping story of discovering that your greatest power can come from within. I loved it!&rsquo;&#160;<B>Lisa Thompson, author of&#160;<I>The Goldfish Boy</I></B><BR><BR> &lsquo;Brilliant, witty writing and spot-on characterisation.&rsquo;<B>&#160;Louie Stowell, author of&#160;<I>Loki: A Bad God&rsquo;s Guide to Being Good</I></B><BR><BR> &lsquo;A thrilling, magical page-turner. Children will fall in love with this story.&rsquo;&#160;<B>Jenny McLachlan, author of&#160;<I>The Land of Roar</I></B><BR><BR> &#39;Wildly fun and a huge breath of invigorating fresh air.&rsquo;&#160;<B>Sam Copeland, author of&#160;<I>Charlie Changes Into a Chicken</I></B><BR><BR> &lsquo;A thrilling, action-packed adventure full of heart. Onyeka is sure to be everyone&#39;s new favourite superhero.&rsquo;&#160;<B>Hannah Gold, author of&#160;<I>The Last Bear</I></B>]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/77e63c1a-652d-4c46-9ca0-afa90133ef95</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230302</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023&#160;Tol&aacute; Okogwu. All rights reserved<BR /> (P)2023 Simon &amp; Schuster, UK. All Rights Reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FO FR GA GB GD GE GF GH GI GL GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MK ML MM MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PS PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <OnSaleDate>20230302</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>13.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20180220</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781398519954</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398519952</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398519954</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398519954</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398519954</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Hard Parts</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Hard Parts</TitleWithoutPrefix>
+      <Subtitle>A Story of Courage and Triumph</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>184069859</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Oksana Masters</PersonName>
+      <PersonNameInverted>Masters, Oksana</PersonNameInverted>
+      <NamesBeforeKey>Oksana</NamesBeforeKey>
+      <KeyNames>Masters</KeyNames>
+      <BiographicalNote><![CDATA[Oksana Masters was born in Ukraine in 1989 and faced numerous physical challenges due to in utero radiation poisoning from Chernobyl. After living in three orphanages, she was adopted by an American mother at the age of seven. She is America&rsquo;s most decorated Winter Paralympian&mdash;a winner of seventeen medals in four sports.&nbsp;In 2020, she won the Laureus World Sports Award in the category of &ldquo;Sportsperson of the Year with a Disability.&rdquo; Her story has appeared in numerous media outlets&mdash;from <i>Sports Illustrated</i> to <I>The</I> <i>New York Times</i> to the<i> Players</i><I>&rsquo;</I><i>&nbsp;Tribune</i>&mdash;and she has participated in high fashion shoots for cosmetic and clothing lines created by such stars as Rihanna and Kim Kardashian.<i>&nbsp;</i>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>A32</ContributorRole>
+      <PersonName>Cassidy Randall</PersonName>
+      <PersonNameInverted>Randall, Cassidy</PersonNameInverted>
+      <NamesBeforeKey>Cassidy</NamesBeforeKey>
+      <KeyNames>Randall</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Emily Tremaine</PersonName>
+      <PersonNameInverted>Tremaine, Emily</PersonNameInverted>
+      <NamesBeforeKey>Emily</NamesBeforeKey>
+      <KeyNames>Tremaine</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>4</SequenceNumber>
+      <ContributorRole>A02</ContributorRole>
+      <PersonName>Oksana Masters</PersonName>
+      <PersonNameInverted>Masters, Oksana</PersonNameInverted>
+      <NamesBeforeKey>Oksana</NamesBeforeKey>
+      <KeyNames>Masters</KeyNames>
+      <BiographicalNote><![CDATA[Oksana Masters was born in Ukraine in 1989 and faced numerous physical challenges due to in utero radiation poisoning from Chernobyl. After living in three orphanages, she was adopted by an American mother at the age of seven. She is America&rsquo;s most decorated Winter Paralympian&mdash;a winner of seventeen medals in four sports.&nbsp;In 2020, she won the Laureus World Sports Award in the category of &ldquo;Sportsperson of the Year with a Disability.&rdquo; Her story has appeared in numerous media outlets&mdash;from <i>Sports Illustrated</i> to <I>The</I> <i>New York Times</i> to the<i> Players</i><I>&rsquo;</I><i>&nbsp;Tribune</i>&mdash;and she has participated in high fashion shoots for cosmetic and clothing lines created by such stars as Rihanna and Kim Kardashian.<i>&nbsp;</i>]]></BiographicalNote>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0105737</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO016000</BASICMainSubject>
+    <BICMainSubject>BGA</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>WSC</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Inspirational memoir; inspirational books; triumph over adversity; Oksana Masters; Paralympian; paralympics; books by paralympians; gold-medalist; Chernobyl radiation effects; in-utero radiation; biathlon; cross-country skiing; road cycling; rowing; Tokyo 2021; Tokyo Paralympics; Beijing Paralympics; Ukraine athlete; Laureus World Sports Award</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>&#39;Gripping, powerful and inspiring&#39; - TONY HAWK<BR><BR> &#39;Heart-wrenching and extraordinary&#39; - ARIANA NEUMANN<BR><BR> The remarkable and inspirational story of Oksana Masters, who was born with radiation-induced birth defects and suffered appalling abuse as an orphan, before being adopted and moving to the US, where she went on to triumph over her challenges to win ten Paralympic medals in four different sports.</B><BR><BR> Oksana Masters was born in the shadow of Chernobyl, with one kidney, a partial stomach, six toes on each foot, webbed fingers, no right bicep and no thumbs. Her left leg was six inches shorter than her right, and she was missing both tibias.&#160;Relinquished to the orphanage system by birth parents daunted by the staggering cost of their child&rsquo;s medical care, Oksana encountered numerous abuses, some horrifying. Salvation came at the age of seven when Gay Masters, an unmarried American professor who saw a photo of the little girl and became haunted by her eyes, waged a two-year war against stubborn adoption authorities to rescue Oksana from her circumstances.<BR><BR> In America, Oksana endured years of operations that included a double leg amputation. Still, how could she hope to fit in when there were so many things making her different?&#160;As it turned out, she would do much <I>more </I>than fit in. Determined to prove herself and fuelled by a drive to succeed that still smouldered from childhood, Oksana triumphed in not just one sport but four - winning against the world&rsquo;s best in rowing, biathlon, cross-country skiing and road cycling competitions.&#160;<BR><BR><B>This is Oksana&rsquo;s astonishing story of journeying through a series of dark tunnels - and how, with her mother&rsquo;s love, she finally found her way into the light. Her message to anyone who doesn&rsquo;t fit in: you <I>can </I>find a place where you excel and where you have worth.</B>]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;<b>Unexpectedly powerful</b>...I couldn&#39;t put this memoir down. It&#39;s <b>as true a tale of grit as I&#39;ve ever heard</b>, with a message filled with triumph and beauty - that what doesn&#39;t kill us makes us stronger,&nbsp;<i>if&nbsp;</i>we are loved.&#39;]]></Text>
+      <TextAuthor>Angela Duckworth, internationally bestselling author of Grit</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;<i>The Hard Parts </i>takes us <b>from heartache to courage</b>, from crushing disabilities to exemplary talents, from hopelessness to sky-high aspiration. Here is a young woman who persists with a fierce, undeniable optimism, no matter how devastating the challenges she has faced. Add to this timely story Oksana&rsquo;s beginnings within the tragic backdrop of a Ukrainian orphanage. <b>A hero lives among us</b>.&#39;]]></Text>
+      <TextAuthor>Diana Nyad, author of Find a Way</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;<b>Heart wrenching and extraordinary</b>.&nbsp;<i>The Hard Parts</i> is a remarkable memoir of coping with trauma, but it&#39;s mostly about courage and achieving the impossible.&nbsp;I&#39;m completely in awe of Oksana and her resilience &ndash; what an inspiration.&#39;]]></Text>
+      <TextAuthor>Ariana Neumann, author of When Time Stopped</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;<b>A gut-wrenching, wildly inspiring story</b> about overcoming the most daunting obstacles through steely tenacity, sheer will&nbsp;and a great big dose of motherly love.&#39;]]></Text>
+      <TextAuthor>Jeannette Walls, bestselling author of The Glass Castle</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;<b>Gripping, powerful&nbsp;and inspiring</b>. As a fellow athlete, I appreciate the commitment and discipline it takes to succeed, but <b>Oksana is on another level altogether</b>.&#39;]]></Text>
+      <TextAuthor>Tony Hawk, 16-time X Game Medallist in skateboarding</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;Like all the greats, Oksana lives on the edge of fear and uses every setback she&rsquo;s ever had to ask more of herself. A revealing parting of the curtain, <i>The Hard Parts</i> is a candid - and often poignant - account of the challenges Oksana overcame along the way to becoming the best ever, and it&rsquo;s <b>more inspiring than words could ever convey</b>.&#39;]]></Text>
+      <TextAuthor>Mikaela Shiffrin, two-time Olympic Gold Meda&#39;list and four-time Overall World Cup Ski Champion</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;A book of <b>rare quality</b>... In these pages, not only does Oksana Masters triumph over tremendous odds but her victories are so multiple and her courage crosses so many different fronts that she forces us to rethink the term &quot;Greatest Ever&quot;.&nbsp;Move aside GOATS and make a place for her.&#39;]]></Text>
+      <TextAuthor>Sally Jenkins, sports columnist for the Washington Post</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;Oksana Masters&rsquo; <b>riveting journey of survival</b>,&nbsp;perseverance&nbsp;and triumph is much more than an uplifting sports story. From the darkness and despair of life in a Ukrainian orphanage to the top of the Paralympic medal podium, Masters has written a story for our times. She is a remarkable athlete. She is a <b>heroic and trailblazing</b> woman.&#39;]]></Text>
+      <TextAuthor>Christine Brennan, USA Today columnist, author of Best Seat in the House</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&#39;Oksana&#39;s story is <b>emotionally pounding</b>, from her Dickensian childhood in Ukraine&#39;s orphanages to promising her mother a gold medal in the Paralympics. <i>T</i><i>he Hard Parts</i> is a street-fight for survival, then success.&nbsp;And it stretches our own notions of just how much we can take.&#39;]]></Text>
+      <TextAuthor>Lesley Visser, Hall of Fame Sportscaster</TextAuthor>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/9218ea92-f0b2-4ea0-bdc7-af36002474fa</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20230221</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[<DIV> &copy; 2023 Oksana Masters.&#160;All rights reserved.<BR /> (P) 2023&#160;Simon &amp; Schuster, Inc. All Rights Reserved. </DIV>]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MK ML MM MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PS PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>IP</AvailabilityCode>
+      <ProductAvailability>20</ProductAvailability>
+      <OnSaleDate>20230221</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797123288</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797123289</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797123288</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797123288</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797123288</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Strange</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Strange</TitleWithoutPrefix>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>157045704</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Nathan Ballingrud</PersonName>
+      <PersonNameInverted>Ballingrud, Nathan</PersonNameInverted>
+      <NamesBeforeKey>Nathan</NamesBeforeKey>
+      <KeyNames>Ballingrud</KeyNames>
+      <BiographicalNote><![CDATA[Nathan Ballingrud&nbsp;was born in Massachusetts in 1970, but spent most of his life in the South. Ballingrud is the author of the collections <I>North American Lake Monsters</I> and <I>Wounds: Six stories from the Border of Hell</I>. He&rsquo;s been awarded two Shirley Jackson Awards, and have shortlisted for the World Fantasy, British Fantasy, and Bram Stoker Awards. Among other things, he has been a cook on oil rigs and barges, a waiter, and a bartender in New Orleans. He now lives in North Carolina.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Sophie Amoss</PersonName>
+      <PersonNameInverted>Amoss, Sophie</PersonNameInverted>
+      <NamesBeforeKey>Sophie</NamesBeforeKey>
+      <KeyNames>Amoss</KeyNames>
+    </Contributor>
+    <ContributorStatement>Nathan Ballingrud</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0083000</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC028030</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC040000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC033000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>literary science fiction; deep science fiction; thoughtful science fiction; literary sci fi; deep sci fi; thoughtful sci-fi; throught provoking books; thought-provoking books; thought provoking sci fi; alternate history; revisionist history; sci fi western; true grit; western set in space; historical reimagining; father daughter story; father daughter book; father daughter relationship; revenge story; revenge book; books about revenge; cycle of vioence; frontier fiction; books like true grit; wounds; visible filth; north american lake monsters; monsters of heaven; book adaptations; firefly; westworld; the mandalorian</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<b>1931, New </b><B>Galveston</B><b>, Mars: Fourteen-year-old Anabelle Crisp sets off through the wastelands of the Strange to find Silas Mundt&rsquo;s gang who have stolen her mother&rsquo;s voice, destroyed her father, and left her solely with a need for vengeance.</b><BR><BR>Since Anabelle&rsquo;s mother left for Earth to care for her own ailing mother, her days in New Galveston have been spent at school and her nights at her laconic father&rsquo;s diner with Watson, the family Kitchen Engine and dishwasher as her only companion. When the Silence came, and communication and shipments from Earth to its colonies on Mars stopped, life seemed stuck in foreboding stasis until the night Silas Mundt and his gang attacked.<BR> <BR>At once evoking the dreams of an America explored in Ray Bradbury&rsquo;s <i>The Martian Chronicles </i>and the harder realities of frontier life in Charles Portis <i>True Grit</i>, Ballingrud&rsquo;s novel is haunting in its evocation of Anabelle&rsquo;s quest for revenge amidst a spent and angry world accompanied by a domestic Engine, a drunken space pilot, and the toughest woman on Mars.<BR> <BR>Nathan Ballingrud&rsquo;s stories have been adapted into the film <i>Wounds</i> and the Hulu series <i>Monsterland</i>, <i>The Strange</i> is his first novel.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Nathan Ballingrud&nbsp;was born in Massachusetts in 1970, but spent most of his life in the South. Ballingrud is the author of the collections <I>North American Lake Monsters</I> and <I>Wounds: Six stories from the Border of Hell</I>. He&rsquo;s been awarded two Shirley Jackson Awards, and have shortlisted for the World Fantasy, British Fantasy, and Bram Stoker Awards. Among other things, he has been a cook on oil rigs and barges, a waiter, and a bartender in New Orleans. He now lives in North Carolina.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>&ldquo;Ballingrud stretches the boundaries of the genre by employing these grand worlds.&rdquo;</B>]]></Text>
+      <TextSourceTitle>&lt;B&gt;—&lt;/B&gt;&lt;B&gt;&lt;I&gt;The New York Times&lt;/I&gt;&lt;/B&gt;</TextSourceTitle>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&ldquo;<B>The most enjoyable novel I&rsquo;ve read in years, no contest.&nbsp;</B>Before&nbsp;<I>The Strange</I>, I never realized I wanted to be marooned on the dustbowl of Mars, joining an epic quest through ghost towns haunted by the living. Ballingrud is already a master of literary horror, his short stories consistently brilliant. But in his page-turner of a debut novel, that talent radiates brighter than ever before.&rdquo;]]></Text>
+      <TextAuthor>&#160;––Mat Johnson, author of&#160;&lt;I&gt;Invisible Things&lt;/I&gt;&#160;and&#160;&lt;I&gt;Pym&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&ldquo;Ballingrud&rsquo;s brilliant fiction brims with imagination, integrity (I do not use that term lightly), and an authentic world-weary dread that bores directly into your heart.&rdquo;]]></Text>
+      <TextAuthor>—Paul Tremblay,&#160;&lt;I&gt;New York Times&lt;/I&gt;&#160;bestselling author of&#160;&lt;I&gt;The Cabin at the End of the World&#160;&lt;/I&gt;and&lt;I&gt;&#160;The Pallbearers Club&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&ldquo;Ballingrud is one of my favorite contemporary authors. His work is elegant and troublingly, wonderfully disturbing.]]></Text>
+      <TextAuthor>&#160;—Victor LaValle, award-winning author of&#160;&lt;I&gt;The Changeling&#160;&lt;/I&gt;and&lt;I&gt;&#160;Lone Women&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&ldquo;A definite page-turner. The writing is lovely and poetic and a perfect mix of well-written action and character.&rdquo;]]></Text>
+      <TextAuthor>—Rebecca Roanhorse,&#160;&lt;I&gt;New York Times&lt;/I&gt;&#160;bestselling author of&#160;&lt;I&gt;Black Sun&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&quot;<I>The Strange</I> conjures a Bradbury-esque sense of childhood longing and creates a scrappy heroine that brings to mind <I>True Grit</I>, and yet it is&nbsp;utterly original and surprising. His wonderfully&nbsp;lyric work always feels as if it&#39;s part of a dream you once had&nbsp;and never told to anyone&mdash;yet somehow Ballingrud knows.&quot;]]></Text>
+      <TextAuthor>—Dan Chaon, author of&#160;&lt;I&gt;Sleepwalk&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<I>The Strange</I> is an adventure tale of the best kind: an unusual setting with vivid characters and an unpredictable ending. With every turn of the page, I wondered what would happen next.&rdquo;]]></Text>
+      <TextAuthor>—Charlaine Harris,&#160;&lt;I&gt;New York Times&lt;/I&gt;&#160;bestselling author of&#160;&lt;I&gt;An Easy Death&lt;/I&gt;&#160;and the Sookie Stackhouse series.</TextAuthor>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&ldquo;A surprising, thrilling, emotionally powerful bildungsroman. <I>The Strange</I> is an instant classic.&rdquo;]]></Text>
+      <TextAuthor>—Gwenda Bond,&#160;&lt;I&gt;New York Times&#160;&lt;/I&gt;bestselling author of&lt;I&gt;&#160;Stranger Things: Suspicious Minds&lt;/I&gt;</TextAuthor>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/9e4fc86a-ce15-44cb-b7dd-aed40026d92a</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230321</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Nathan Ballingrud. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230227</ExpectedShipDate>
+      <OnSaleDate>20230321</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797139074</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>179713907X</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797139074</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797139074</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797139074</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>Ali Reynolds Series</TitleOfSeries>
+      <NumberWithinSeries>17</NumberWithinSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Collateral Damage</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>186071947</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>J.A. Jance</PersonName>
+      <PersonNameInverted>Jance, J.A.</PersonNameInverted>
+      <NamesBeforeKey>J.A.</NamesBeforeKey>
+      <KeyNames>Jance</KeyNames>
+      <BiographicalNote><![CDATA[J.A. Jance is the&nbsp;<i>New York Times&nbsp;</i>bestselling author of the Ali Reynolds series, the J.P. Beaumont series, and the Joanna Brady series, as well as five Southwestern thrillers featuring the Walker family. Born in South Dakota and raised in Bisbee, Arizona, Jance lives with her husband in Seattle, Washington. Visit her online at JAJance.com.&nbsp;&nbsp;]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Karen Ziemba</PersonName>
+      <PersonNameInverted>Ziemba, Karen</PersonNameInverted>
+      <NamesBeforeKey>Karen</NamesBeforeKey>
+      <KeyNames>Ziemba</KeyNames>
+    </Contributor>
+    <ContributorStatement>J.A. Jance</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0114830</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC031010</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC022040</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC022090</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>best thrillers of the summer; suspense novels; pageturners; murder mystery; Ali Reynolds; Unfinished Business; Credible Threat; A List; Duel to the Death; Clawback; Cold Betrayal; Murder; New York Times Bestseller; J.P. Beaumont; High Noon; Moving Target; arizona mystery books; female sleuths; detectives; kindle; AudioFile Earphones Award; prison; Catherine Coulter; falsely accused; revenge; Seattle; dementia; bitcoin; Sedona; weddings; brides; revenge; former cop; bad cop; private investigator; revenge thriller; parole; Christmas; London; conference</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<b>Ali Reynolds and High Noon Enterprises face the dangerous consequences of one man&rsquo;s desperate search for revenge in this unputdownable thriller from J.A. Jance, the <i>New York Times</i> bestselling author who &ldquo;has been delivering must-read books for a long time&rdquo; (<i>The Real Book Spy</i>).</b><BR><BR>After spending twenty years behind bars, Frank Mu&#241;oz, a disgraced former cop, is out on parole and focused on just one thing: revenge. The wife who abandoned him after his arrest, the mistress who ratted him out for abetting a money-laundering scheme, the detectives who presided over his case all those years ago&#8212;they all have targets on their backs.<BR> <BR> For Ali Reynolds, the first Christmas without her father is riddled with grief and uncertainty. And with her husband and founding partner of High Noon Enterprises, B. Simpson, preoccupied by an upcoming New Year&rsquo;s trip to London, she is ready for a break. But when Stu Ramey barges into her home with grave news about a serious&#8212;and suspicious&#8212;accident on the highway to Phoenix involving B.&rsquo;s car, things reach a breaking point.<BR> <BR> At the hospital, a groggy, post-op B. insists that Ali take his place at a ransomware conference in London, as troubles brimming around High Noon come to light. But questions remain: Who would go to such lengths to cut the tech company from the picture? And what if Ali and the rest of the team are also in danger?]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[J.A. Jance is the&nbsp;<i>New York Times&nbsp;</i>bestselling author of the Ali Reynolds series, the J.P. Beaumont series, and the Joanna Brady series, as well as five Southwestern thrillers featuring the Walker family. Born in South Dakota and raised in Bisbee, Arizona, Jance lives with her husband in Seattle, Washington. Visit her online at JAJance.com.&nbsp;&nbsp;]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>44</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[The &ldquo;engaging and entertaining&rdquo; <i>(Los Angeles Times) </i>series follows Ali Reynolds, an unrelenting ex-television journalist, in a collection of electrifying, heart-pounding, and suspenseful adventures.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/37cba834-653a-4a09-accf-adc000418c7d</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230314</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230213</ExpectedShipDate>
+      <OnSaleDate>20230314</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>24.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797150130</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797150138</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797150130</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797150130</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797150130</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Hard Parts</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Hard Parts</TitleWithoutPrefix>
+      <Subtitle>A Memoir of Courage and Triumph</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>184069859</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Oksana Masters</PersonName>
+      <PersonNameInverted>Masters, Oksana</PersonNameInverted>
+      <NamesBeforeKey>Oksana</NamesBeforeKey>
+      <KeyNames>Masters</KeyNames>
+      <BiographicalNote><![CDATA[Oksana Masters was born in Ukraine in 1989 and faced numerous physical challenges due to in utero radiation poisoning from Chernobyl. After living in three orphanages, she was adopted by an American mother at the age of seven. She is America&rsquo;s most decorated Winter Paralympian&mdash;a winner of seventeen medals in four sports.&nbsp;In 2020, she won the Laureus World Sports Award in the category of &ldquo;Sportsperson of the Year with a Disability.&rdquo; Her story has appeared in numerous media outlets&mdash;from <i>Sports Illustrated</i> to <I>The</I> <i>New York Times</i> to the<i> Players</i><I>&rsquo;</I><i>&nbsp;Tribune</i>&mdash;and she has participated in high fashion shoots for cosmetic and clothing lines created by such stars as Rihanna and Kim Kardashian.<i>&nbsp;</i>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>A32</ContributorRole>
+      <PersonName>Cassidy Randall</PersonName>
+      <PersonNameInverted>Randall, Cassidy</PersonNameInverted>
+      <NamesBeforeKey>Cassidy</NamesBeforeKey>
+      <KeyNames>Randall</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Emily Tremaine</PersonName>
+      <PersonNameInverted>Tremaine, Emily</PersonNameInverted>
+      <NamesBeforeKey>Emily</NamesBeforeKey>
+      <KeyNames>Tremaine</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>4</SequenceNumber>
+      <ContributorRole>A02</ContributorRole>
+      <PersonName>Oksana Masters</PersonName>
+      <PersonNameInverted>Masters, Oksana</PersonNameInverted>
+      <NamesBeforeKey>Oksana</NamesBeforeKey>
+      <KeyNames>Masters</KeyNames>
+      <BiographicalNote><![CDATA[Oksana Masters was born in Ukraine in 1989 and faced numerous physical challenges due to in utero radiation poisoning from Chernobyl. After living in three orphanages, she was adopted by an American mother at the age of seven. She is America&rsquo;s most decorated Winter Paralympian&mdash;a winner of seventeen medals in four sports.&nbsp;In 2020, she won the Laureus World Sports Award in the category of &ldquo;Sportsperson of the Year with a Disability.&rdquo; Her story has appeared in numerous media outlets&mdash;from <i>Sports Illustrated</i> to <I>The</I> <i>New York Times</i> to the<i> Players</i><I>&rsquo;</I><i>&nbsp;Tribune</i>&mdash;and she has participated in high fashion shoots for cosmetic and clothing lines created by such stars as Rihanna and Kim Kardashian.<i>&nbsp;</i>]]></BiographicalNote>
+    </Contributor>
+    <ContributorStatement>Oksana Masters; Contributor, Cassidy Randall</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0105737</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO026000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>BIO033000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>SPO058000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Inspirational memoir; inspirational books; triumph over adversity; Oksana Masters; Paralympian; paralympics; books by paralympians; gold-medalist; Chernobyl radiation effects; in-utero radiation; biathlon; cross-country skiing; road cycling; rowing; Tokyo 2021; Tokyo Paralympics; Beijing Paralympics; Ukraine athlete; Laureus World Sports Award</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><b >Oksana Masters, the United States&rsquo; most decorated winter Paralympic or Olympic athlete, tells her jaw-dropping story of triumphing over extraordinary Chernobyl disaster-caused physical challenges to create a life that, by example, challenges everyone to push through what is holding them back.</b></B><BR><BR>Oksana Masters was born in Ukraine&#8212;in the shadow of Chernobyl&#8212;seemingly with the world against her. She was born with one kidney, a partial stomach, six toes on each foot, webbed fingers, no right bicep, and no thumbs. Her left leg was six inches shorter than her right, and she was missing both tibias.<BR> <BR>Relinquished to the orphanage system by birth parents daunted by the staggering cost of what would be their child&rsquo;s medical care, Oksana encountered numerous abuses, some horrifying. Salvation came at age seven when Gay Masters, an unmarried American professor who saw a photo of the little girl and became haunted by her eyes, waged a two-year war against stubborn adoption authorities to rescue Oksana from her circumstances.<BR> <BR>In America, Oksana endured years of operations that included a double leg amputation. Still, how could she hope to fit in when there were so many things making her different?<BR> <BR>As it turned out, she would do much more than fit in. Determined to prove herself and fueled by a drive to succeed that still smoldered from childhood, Oksana triumphed in not just one sport but four&#8212;winning against the world&rsquo;s best in elite rowing, biathlon, cross-country skiing, and road cycling competitions. Now considered one of the world&rsquo;s top athletes, she is the recipient of seventeen Paralympic medals, the most of any US athlete of the Winter Games, Paralympic <I>or </I>Olympic.<BR> <BR>This is Oksana&rsquo;s astonishing story of journeying through a series of dark tunnels&#8212;and how, with her mother&rsquo;s love, she finally found her way into the light. Her message to anyone who doesn&rsquo;t fit in: you can find a place where you excel&#8212;where you have worth.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Oksana Masters was born in Ukraine in 1989 and faced numerous physical challenges due to in utero radiation poisoning from Chernobyl. After living in three orphanages, she was adopted by an American mother at the age of seven. She is America&rsquo;s most decorated Winter Paralympian&mdash;a winner of seventeen medals in four sports.&nbsp;In 2020, she won the Laureus World Sports Award in the category of &ldquo;Sportsperson of the Year with a Disability.&rdquo; Her story has appeared in numerous media outlets&mdash;from <i>Sports Illustrated</i> to <I>The</I> <i>New York Times</i> to the<i> Players</i><I>&rsquo;</I><i>&nbsp;Tribune</i>&mdash;and she has participated in high fashion shoots for cosmetic and clothing lines created by such stars as Rihanna and Kim Kardashian.<i>&nbsp;</i>]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/20edb4f9-f118-417a-b1a3-aeaa002f9b4b</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20230221</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Oksana Masters. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>IP</AvailabilityCode>
+      <ProductAvailability>20</ProductAvailability>
+      <OnSaleDate>20230221</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>23.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797154060</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797154060</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797154060</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797154060</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797154060</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>An Agents of the Crown Novel</TitleOfSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>All the Queen&#39;s Spies</TitleText>
+      <Subtitle>A Novel</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>188735154</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Oliver Clements</PersonName>
+      <PersonNameInverted>Clements, Oliver</PersonNameInverted>
+      <NamesBeforeKey>Oliver</NamesBeforeKey>
+      <KeyNames>Clements</KeyNames>
+      <BiographicalNote><![CDATA[Oliver Clements is a novelist and screenwriter based in Mortlake, London.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Matthew Lloyd Davies</PersonName>
+      <PersonNameInverted>Davies, Matthew Lloyd</PersonNameInverted>
+      <NamesBeforeKey>Matthew Lloyd</NamesBeforeKey>
+      <KeyNames>Davies</KeyNames>
+    </Contributor>
+    <ContributorStatement>Oliver Clements</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0122128</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC014000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC031020</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC014030</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>James Bond; 007; historical thriller; Queen Elizabeth; Queen Elizabeth I; historical fiction; best historical fiction; John Dee; Leopoldo Gout; Toby Clements; Philippa Gregory; The Tudor Novels; The Spanish Princess; The White Queen; historical series; Bernard Cornwall; Ken Follett; Dan Brown; Umberto Eco; historical mystery; Voynich Manuscript; Christopher Marlowe; William Shakespeare; Rudolf II; Europe; renaissance England; renaissance Europe; Poland</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>The &ldquo;lively&rdquo; (<I>The New York Times</I>) Agents of the Crown series continues with this thriller about Queen Elizabeth I&rsquo;s advisor John Dee in a race to save the Empire with the help of a mysterious manuscript that offers global power.</B><BR><BR>With rumors of the end times swirling, philosopher and astronomer John Dee travels to Prague in an effort to prevent one of Catherine de Medici&rsquo;s seductive ladies-in-waiting from luring the Holy Roman Emperor into a crusade against England.<BR> <BR>To convince the famously occult-loving Emperor to join his side, Dee entices him with the esoteric Book of Secrets, a volume that, if decoded, could provide the chance to control the levers of heaven and earth. But Dee faces enemies at every turn, including a female codebreaker who could be the undoing of Dee and the British Empire.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Oliver Clements is a novelist and screenwriter based in Mortlake, London.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>44</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[John Dee, court advisor to Queen Elizabeth I, is the original MI6 agent in this &ldquo;twisty, fast-paced&rdquo; (<i>Publishers Weekly</i>) series filled with political intrigue, deadly mysteries, and heart-pounding adventures.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/51e633df-ed43-431c-bfb1-aecd002499b9</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230314</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230220</ExpectedShipDate>
+      <OnSaleDate>20230314</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>23.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797155692</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797155695</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797155692</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797155692</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797155692</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>What Looks Like Bravery</TitleText>
+      <Subtitle>An Epic Journey Through Loss to Love</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>199906983</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Laurel Braitman</PersonName>
+      <PersonNameInverted>Braitman, Laurel</PersonNameInverted>
+      <NamesBeforeKey>Laurel</NamesBeforeKey>
+      <KeyNames>Braitman</KeyNames>
+      <BiographicalNote><![CDATA[Laurel Braitman is the&nbsp;<I>New York Times&nbsp;</I>bestselling author of&nbsp;<I>Animal Madness.&nbsp;</I>She has a PhD from MIT in the history and anthropology of science and is the Director of the Writing and Storytelling Program at the Stanford University School of Medicine. Her writing has appeared in&nbsp;<I>The New York Times</I>,<I>&nbsp;The Wall Street Journal</I>,&nbsp;<I>The Guardian</I>,&nbsp;<I>Wired</I>, and a variety of other publications. She lives between rural Alaska and her family&rsquo;s citrus and avocado ranch in Southern California. She can be reached at LaurelBraitman.com.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Laurel Braitman</PersonName>
+      <PersonNameInverted>Braitman, Laurel</PersonNameInverted>
+      <NamesBeforeKey>Laurel</NamesBeforeKey>
+      <KeyNames>Braitman</KeyNames>
+      <BiographicalNote><![CDATA[Laurel Braitman is the&nbsp;<I>New York Times&nbsp;</I>bestselling author of&nbsp;<I>Animal Madness.&nbsp;</I>She has a PhD from MIT in the history and anthropology of science and is the Director of the Writing and Storytelling Program at the Stanford University School of Medicine. Her writing has appeared in&nbsp;<I>The New York Times</I>,<I>&nbsp;The Wall Street Journal</I>,&nbsp;<I>The Guardian</I>,&nbsp;<I>Wired</I>, and a variety of other publications. She lives between rural Alaska and her family&rsquo;s citrus and avocado ranch in Southern California. She can be reached at LaurelBraitman.com.]]></BiographicalNote>
+    </Contributor>
+    <ContributorStatement>Laurel Braitman</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0080326</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO026000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FAM014000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>BIO022000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>grief memoir; cancer; family memoir; animal madness; osteogenic sarcoma; healing; recovery; overcoming grief; overcoming death; in love; amy bloom; a memoir of grief; crying in h mart; michelle zauner; notes on grief; chimamanda ngozi; bereavement; year of magical thinking; pet grief; california; country life; travel book; childhood trauma; self help; self development; health; wellness; mental health; mental healing</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><b >A true story about the ways loss can transform us into the people we want to become.</b></B><BR><BR>Laurel Braitman spent her childhood learning how to outfish grown men, keep bees, and fix carburetors from her larger-than-life dad. Diagnosed with terminal cancer, he went to spectacular lengths to teach her the skills she&rsquo;d need to survive without him. But by her mid-thirties she is a ship about to splinter on the rocks, exhausted by running from her own bad feelings. We follow as Laurel changes course, navigating multiple wildernesses&#8212;from northern New Mexico and western Alaska to her own Tinder app. She learns the hard way that no achievement, no matter how shiny, can protect her from pain, and works to transform guilt and regret into gold: learning from a badass birder in the Bering Sea, a few dozen grieving kids in a support group, a pile of smoking ashes, and countless online dates. Along the way, she faces a wildfire that threatens everyone and everything she cares about, a grueling test of her own survival skills, and the fact that we often have to say our hardest goodbyes before we&rsquo;re ready. In the end Laurel realizes that being open to love after loss is not only possible, it can set us free.<BR><BR><i>What Looks Like Bravery</i> is a hero&rsquo;s journey for our times. Laurel teaches us that hope is a form of courage, one that can work as an all- purpose key to the locked doors of your dreams.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Laurel Braitman is the&nbsp;<I>New York Times&nbsp;</I>bestselling author of&nbsp;<I>Animal Madness.&nbsp;</I>She has a PhD from MIT in the history and anthropology of science and is the Director of the Writing and Storytelling Program at the Stanford University School of Medicine. Her writing has appeared in&nbsp;<I>The New York Times</I>,<I>&nbsp;The Wall Street Journal</I>,&nbsp;<I>The Guardian</I>,&nbsp;<I>Wired</I>, and a variety of other publications. She lives between rural Alaska and her family&rsquo;s citrus and avocado ranch in Southern California. She can be reached at LaurelBraitman.com.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/7713f5fc-e6c2-46d8-a369-aef00024a506</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230314</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Laurel Braitman. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230220</ExpectedShipDate>
+      <OnSaleDate>20230314</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797158600</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797158600</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797158600</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797158600</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797158600</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>Children of the Black Glass</TitleOfSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Children of the Black Glass</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>187109168</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Anthony Peckham</PersonName>
+      <PersonNameInverted>Peckham, Anthony</PersonNameInverted>
+      <NamesBeforeKey>Anthony</NamesBeforeKey>
+      <KeyNames>Peckham</KeyNames>
+      <BiographicalNote><![CDATA[Anthony (Tony) Peckham is a South African&ndash;born screenwriter, surfer, and farmer who now lives on an island in the Pacific. Decades ago, while exploring a remote, high-altitude landscape with his children, he came upon a mountain made of black glass which inspired his debut novel. His other work includes Clint Eastwood&rsquo;s&nbsp;<i >Invictus</i>&nbsp;and Guy Ritchie&rsquo;s&nbsp;<i >Sherlock Holmes.</i><i >&nbsp;</i>He&nbsp;is a Writers Guild of America Award winner and an NAACP Image Award nominee.&nbsp;<i >Children of the Black Glass</i>&nbsp;is his novel-writing debut.<BR> <BR>&nbsp;<BR> <BR>&nbsp;]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Peter Noble</PersonName>
+      <PersonNameInverted>Noble, Peter</PersonNameInverted>
+      <NamesBeforeKey>Peter</NamesBeforeKey>
+      <KeyNames>Noble</KeyNames>
+    </Contributor>
+    <ContributorStatement>Anthony Peckham</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0093819</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>JUV037000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV001000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>debut; first in a series; paperback; trilogy; Middle grade; fantasy; sorcerers; sorcerer; magic; orphans; motherless; slavery; compassion; adventure; ableism; brother-sister relationship; mining; tragic accident; small town; big city; coup; agendas; machinations; for 10 11 12 13 14 year olds grades 5 6 7 8 9; Howl’s Moving Castle; Children of Blood and Bone; Girl Who Drank the Moon; Neil Gaiman; Terry Pratchett;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>02</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>5</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>9</AudienceRangeValue>
+    </AudienceRange>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>10</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>14</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><I>Howl&rsquo;s Moving Castle</I> meets Neil Gaiman in this middle grade fantasy, set in a world as mesmerizing as it is menacing, following children on a quest to save their father who get embroiled in the sinister agendas of rival sorcerers.</B><BR><BR>In an unkind alternate past, somewhere between the Stone Age and a Metal Age, Tell and his sister Wren live in a small mountain village that makes its living off black glass mines and runs on brutal laws. When their father is blinded in a mining accident, the law dictates he has thirty days to regain his sight and be capable of working at the same level as before or be put to death.<BR> <BR>Faced with this dire future, Tell and Wren make the forbidden treacherous journey to the legendary city of Halfway, halfway down the mountain, to trade their father&rsquo;s haul of the valuable black glass for the medicine to cure him. The city, ruled by five powerful female sorcerers, at first dazzles the siblings. But beneath Halfway&rsquo;s glittery surface seethes ambition, violence, prejudice, blackmail, and impending chaos.<BR> <BR>Without knowing it, Tell and Wren have walked straight into a sorcerers&rsquo; coup. Over the next twelve days they must scramble first to save themselves, then their new friends, as allegiances shift and prejudices crack open to show who has true power.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Anthony (Tony) Peckham is a South African&ndash;born screenwriter, surfer, and farmer who now lives on an island in the Pacific. Decades ago, while exploring a remote, high-altitude landscape with his children, he came upon a mountain made of black glass which inspired his debut novel. His other work includes Clint Eastwood&rsquo;s&nbsp;<i >Invictus</i>&nbsp;and Guy Ritchie&rsquo;s&nbsp;<i >Sherlock Holmes.</i><i >&nbsp;</i>He&nbsp;is a Writers Guild of America Award winner and an NAACP Image Award nominee.&nbsp;<i >Children of the Black Glass</i>&nbsp;is his novel-writing debut.<BR> <BR>&nbsp;<BR> <BR>&nbsp;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/bf35bc87-61cb-4082-927b-af3300246de4</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230307</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Anthony Peckham. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230213</ExpectedShipDate>
+      <OnSaleDate>20230307</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797162133</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797162136</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797162133</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797162133</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797162133</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Miracle of Flexibility</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Miracle of Flexibility</TitleWithoutPrefix>
+      <Subtitle>A Head-to-Toe Program to Increase Strength, Improve Mobility, and Become Pain Free</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>190026671</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Miranda Esmonde-White</PersonName>
+      <PersonNameInverted>Esmonde-White, Miranda</PersonNameInverted>
+      <NamesBeforeKey>Miranda</NamesBeforeKey>
+      <KeyNames>Esmonde-White</KeyNames>
+      <BiographicalNote><![CDATA[Miranda Esmonde-White&nbsp;is a&nbsp;former&nbsp;ballerina&nbsp;with the National Ballet of Canada;&nbsp;owner of&nbsp;Essentrics,&nbsp;a&nbsp;fitness company; and&nbsp;host&nbsp;of the long-running&nbsp;PBS&nbsp;fitness TV shows,&nbsp;<i>Classical Stretch&nbsp;</i>and The Aging Backwards<i> </i>series<i>.</i> She is&nbsp;the&nbsp;<i>New York Times&nbsp;</i>bestselling&nbsp;author of&nbsp;<i>Aging Backwards</i>&nbsp;and other books, <i>Forever Painless</i>, <i>Aging&nbsp;Backwards: Fast&nbsp;Track</i>, and&nbsp;<i>The&nbsp;Miracle&nbsp;of Flexibility</i>.&nbsp;She is the creator of&nbsp;Essentrics,&nbsp;which&nbsp;has helped thousands of devoted&nbsp;followers&nbsp;worldwide&nbsp;gain&nbsp;strength and mobility while healing old wounds and relieving chronic pain.&nbsp;She is a successful author,&nbsp;teacher,&nbsp;and TV Host.&nbsp;]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Miranda Esmonde-White</PersonName>
+      <PersonNameInverted>Esmonde-White, Miranda</PersonNameInverted>
+      <NamesBeforeKey>Miranda</NamesBeforeKey>
+      <KeyNames>Esmonde-White</KeyNames>
+      <BiographicalNote><![CDATA[Miranda Esmonde-White&nbsp;is a&nbsp;former&nbsp;ballerina&nbsp;with the National Ballet of Canada;&nbsp;owner of&nbsp;Essentrics,&nbsp;a&nbsp;fitness company; and&nbsp;host&nbsp;of the long-running&nbsp;PBS&nbsp;fitness TV shows,&nbsp;<i>Classical Stretch&nbsp;</i>and The Aging Backwards<i> </i>series<i>.</i> She is&nbsp;the&nbsp;<i>New York Times&nbsp;</i>bestselling&nbsp;author of&nbsp;<i>Aging Backwards</i>&nbsp;and other books, <i>Forever Painless</i>, <i>Aging&nbsp;Backwards: Fast&nbsp;Track</i>, and&nbsp;<i>The&nbsp;Miracle&nbsp;of Flexibility</i>.&nbsp;She is the creator of&nbsp;Essentrics,&nbsp;which&nbsp;has helped thousands of devoted&nbsp;followers&nbsp;worldwide&nbsp;gain&nbsp;strength and mobility while healing old wounds and relieving chronic pain.&nbsp;She is a successful author,&nbsp;teacher,&nbsp;and TV Host.&nbsp;]]></BiographicalNote>
+    </Contributor>
+    <ContributorStatement>Miranda Esmonde-White</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0023555</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>HEA007000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>HEA036000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>HEA049000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Essentrics; Aging backwards; supple leopard; aging gracefully; lean muscle; bone density; brittle bones; maintaining balance; bone health; injury recovery; avoiding hip replacement; forever painless; age reversing workouts; full body mobility; strength; flexibility; weight loss; PBS; classical stretch; mobility; dance; ballet; olympian; olympic athlete; sedentary; longterm fitness; aging; pain; chronic pain; joint health; lifestyle; lifestyle books; books for athletes; athlete lifestyle; athlete performance; fitness books; getting in shape; how to get in shape; getting healthy; how to be healthier; training books; athlete training; sleep books; longevity; strength and conditioning; professional athlete fitness regime; pliability; stretching exercises;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<b>Gain strength and mobility while living a pain-free life at any age using this revolutionary technique created by former ballerina, <i>New York Times</i> bestselling author, and star of PBS&rsquo;s <i>Classical Stretch</i> Miranda Esmonde-White. </b><BR><BR>The fields of sports and fitness are presently dominated by injury and chronic pain. Scientific studies are proving that the old philosophy of &ldquo;No Pain, No Gain&rdquo; is false and that pain and injuries are unnecessary biproducts of physical activity. For decades, former ballerina and <i>New York Times </i>bestselling author of <i>Aging Backwards</i>, Miranda Esmonde-White, has been developing a solution to the chronic pain produced by a lifetime of injuries and ageing, leaving her as spry later in life as most of us would dream to be in our twenties.<BR> <BR>The secret to mobility, strength, flexibility, good posture, and peak fitness is a daily Essentrics workout. Miranda&rsquo;s revolutionary technique is paving the way to create younger, stronger more mobile bodies without injury or pain. This trailblazing program rooted in science has delivered world champions and Olympic medalists by preventing injuries and healing pain. Now, for the first time, it is available in book form offering:<BR> -A large range of motion sequences to strengthen the entire musculoskeletal system<BR> -Bonus posture workouts tailored for athletes, peak performers, and users who want to minimize back and joint pain<BR> -Information and strategies to completely restore the body<BR> -And much more.<BR> <BR><i>The Miracle of Flexibility</i> offers a blueprint for using this revolutionary range-of-motion-strengthening technique in your own home. With no equipment required, this method has been successfully taught around the world by thousands of certified instructors. It builds strength, increases range of motion, and assists in recovering from chronic pain and injuries.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Miranda Esmonde-White&nbsp;is a&nbsp;former&nbsp;ballerina&nbsp;with the National Ballet of Canada;&nbsp;owner of&nbsp;Essentrics,&nbsp;a&nbsp;fitness company; and&nbsp;host&nbsp;of the long-running&nbsp;PBS&nbsp;fitness TV shows,&nbsp;<i>Classical Stretch&nbsp;</i>and The Aging Backwards<i> </i>series<i>.</i> She is&nbsp;the&nbsp;<i>New York Times&nbsp;</i>bestselling&nbsp;author of&nbsp;<i>Aging Backwards</i>&nbsp;and other books, <i>Forever Painless</i>, <i>Aging&nbsp;Backwards: Fast&nbsp;Track</i>, and&nbsp;<i>The&nbsp;Miracle&nbsp;of Flexibility</i>.&nbsp;She is the creator of&nbsp;Essentrics,&nbsp;which&nbsp;has helped thousands of devoted&nbsp;followers&nbsp;worldwide&nbsp;gain&nbsp;strength and mobility while healing old wounds and relieving chronic pain.&nbsp;She is a successful author,&nbsp;teacher,&nbsp;and TV Host.&nbsp;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/d8433d55-4ce6-4fc7-8845-af830036a004</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230228</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2022</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2022 Miranda Esmonde-White. All rights reserved<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX MY NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230206</ExpectedShipDate>
+      <OnSaleDate>20230228</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>14.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230214</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

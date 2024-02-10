@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230214</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398526976</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398526975</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398526976</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398526976</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398526976</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Pele: The Autobiography</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>39078629</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Pel&#233;</PersonName>
+      <PersonNameInverted>Pel&#233;</PersonNameInverted>
+      <KeyNames>Pel&#233;</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Paul Mendez</PersonName>
+      <PersonNameInverted>Mendez, Paul</PersonNameInverted>
+      <NamesBeforeKey>Paul</NamesBeforeKey>
+      <KeyNames>Mendez</KeyNames>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0081110</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO000000</BASICMainSubject>
+    <BICMainSubject>BGA</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Even people who don't know football know Pel&#233;. The best of a generation of Brazilian players universally acknowledged as the most accomplished and attractive group of footballers ever to play the game, he won the World Cup three times and is Brazil's all-time record goalscorer. <BR><BR>But how did this man -- a sportsman, a mere footballer, like many others -- become a global icon? Was it just by being the best at what he did, or do people respond to some other quality? <BR><BR>The world's greatest footballer now gives us the full story of his incredible life and career. Told with his characteristic grace and modesty, but covering all aspects of his playing days and his subsequent careers as politician, international sporting ambassador and cultural icon, PELE: THE AUTOBIOGRAPHY is an essential volume for all sports fans, and anyone who admires true rarity of spirit.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/ef7bad84-b6eb-4085-ae23-af98007ebb6c</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20230316</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2006</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[<DIV> &copy; 2006 Pele.&#160;All rights reserved.<BR /> (P) 2023&#160;Simon &amp; Schuster, UK. All Rights Reserved. </DIV>]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>IP</AvailabilityCode>
+      <ProductAvailability>20</ProductAvailability>
+      <OnSaleDate>20230316</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230213</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

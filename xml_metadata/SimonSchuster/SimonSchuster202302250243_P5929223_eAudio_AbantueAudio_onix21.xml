@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230225</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398516083</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398516082</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398516083</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398516083</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398516083</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Chaos Theory</TitleText>
+      <Subtitle>The brand-new novel from the bestselling author of Dear Martin</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>186632128</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Nic Stone</PersonName>
+      <PersonNameInverted>Stone, Nic</PersonNameInverted>
+      <NamesBeforeKey>Nic</NamesBeforeKey>
+      <KeyNames>Stone</KeyNames>
+      <BiographicalNote><![CDATA[<DIV><P>Nic Stone&#160;is a native of Atlanta and a Spelman College graduate. After working extensively in teen mentoring and living in Israel for a few years, she returned to the United States to write full-time.&#160;<I>Dear Martin,&#160;</I>her first novel, is loosely based on a series of true events involving the shooting deaths of unarmed African American teenagers. Shaken by the various responses to these incidents--and to the pro-justice movement that sprang up as a result--Stone began the project in an attempt to examine current affairs through the lens of Dr. Martin Luther King Jr.&#39;s teachings.</P><P>You can find her fangirling over her husband and sons on Twitter and Instagram at @getnicced or on her website nicstone.info.</P></DIV>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Nic Stone</PersonName>
+      <PersonNameInverted>Stone, Nic</PersonNameInverted>
+      <NamesBeforeKey>Nic</NamesBeforeKey>
+      <KeyNames>Stone</KeyNames>
+      <BiographicalNote><![CDATA[<DIV><P>Nic Stone&#160;is a native of Atlanta and a Spelman College graduate. After working extensively in teen mentoring and living in Israel for a few years, she returned to the United States to write full-time.&#160;<I>Dear Martin,&#160;</I>her first novel, is loosely based on a series of true events involving the shooting deaths of unarmed African American teenagers. Shaken by the various responses to these incidents--and to the pro-justice movement that sprang up as a result--Stone began the project in an attempt to examine current affairs through the lens of Dr. Martin Luther King Jr.&#39;s teachings.</P><P>You can find her fangirling over her husband and sons on Twitter and Instagram at @getnicced or on her website nicstone.info.</P></DIV>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Dion Graham</PersonName>
+      <PersonNameInverted>Graham, Dion</PersonNameInverted>
+      <NamesBeforeKey>Dion</NamesBeforeKey>
+      <KeyNames>Graham</KeyNames>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0054200</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>JUV039190</BASICMainSubject>
+    <BICMainSubject>YFM</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV011010</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV026000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF058140</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF058050</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF052070</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF011000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YXJ</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YXG</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFS</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YXN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YXS</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>The Hate U Give; Odd One Out; John Green; Angie Thomas; Patrice Lawrence; Becky Albertalli; Jason Reynolds; Adam Silvera; race;&#160;America; poverty; Nicola Yoon; teenagers; adventure; racism; Black Lives Matter; Atlanta; YA; teens; books for teenagers; prison; prison industrial complex; America; justice; police brutality; high school; prejudice; Malorie Blackman; books like; social injustice; Dear Martin; and the stars were burning brightly; New York Times; bestseller; Top Boy; Small Axe; Blackout; Excuse me While I Ugly Cry; Joya Goffney; Honey and Spice; Gayle Forman; Jennifer Niven; Black love stories;&#160;</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+      <SubjectCode>E3F79</SubjectCode>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>03</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>14</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>99</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>The #1&#160;<I>New York Times</I>&#160;bestselling author of&#160;<I>Dear Martin</I>&#160;delivers a gripping romance about two teens: a certified genius living with a diagnosed mental illness and a politician&#39;s son who is running from his own addiction and grief. Don&#39;t miss this gut punch of a novel about mental illness, loss, and discovering you are worthy of love. The next read for fans of</B>&#160;<B>Angie Thomas, Danielle Jawando and Jason Reynolds</B><BR><BR><B>Scars exist to remind us of what we&rsquo;ve survived . . .</B><BR> &#160;<BR> Since <B>Shelbi</B> enrolled at Windward Academy as a senior and won&rsquo;t be there very long, she hasn&rsquo;t bothered making friends. What her classmates don&rsquo;t know about her can&rsquo;t be used to hurt her &ndash; you know, like it did at her last school.<BR> &#160;<BR><B>Andy Criddle</B> is not okay. At all.<BR> He&rsquo;s had far too much to drink.<BR> Again. Which is bad.<BR> And things are about to get worse.<BR> &#160;<BR> When Shelbi sees Andy at his lowest, she can relate. So she doesn&rsquo;t resist reaching out. And there&rsquo;s no doubt their connection has them both seeing stars . . . but the closer they get, the more the past threatens to pull their universes apart.<BR> &#160;<BR><B>#1&#160;<I>New York Times</I>&#160;bestselling author Nic Stone delivers a tour de force about living with grief, prioritizing mental health, and finding love amid the chaos.<BR><BR> Praise for&#160;<I>Dear Martin</I>:</B><BR> &quot;Powerful, wrenching&quot;&#160;<B>John Green</B><BR> &quot;A must-read&quot;&#160;<B>Angie Thomas</B><BR> &quot;Raw and Gripping&quot;&#160;<B>Jason Reynolds</B><BR> &quot;Deeply moving&quot;&#160;<B>Jodi Picoult</B><BR><BR> Also by Nic Stone:<BR><I>Dear Martin<BR> Odd One Out<BR> Jackpot</I><BR><I>Dear Justyce</I><BR> &#160;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/66108a30-8451-4782-9e2d-afb1003a1672</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20230228</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Nic Stone. All rights reserved<BR /> (P)2023 Penguin Random House LLC. All Rights Reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MK ML MM MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PS PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>IP</AvailabilityCode>
+      <ProductAvailability>20</ProductAvailability>
+      <OnSaleDate>20230228</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>13.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797150789</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797150782</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797150789</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797150789</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797150789</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Once There Was</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>194309225</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Kiyash Monsef</PersonName>
+      <PersonNameInverted>Monsef, Kiyash</PersonNameInverted>
+      <NamesBeforeKey>Kiyash</NamesBeforeKey>
+      <KeyNames>Monsef</KeyNames>
+      <BiographicalNote><![CDATA[Kiyash Monsef is an Emmy Award&ndash;nominated producer and director; a writer of short stories, videos, comic books, and games; and a designer of innovative&nbsp;conversational and voice interface experiences.&nbsp;<i>Once There Was</i>&nbsp;is his first novel.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Nikki Massoud</PersonName>
+      <PersonNameInverted>Massoud, Nikki</PersonNameInverted>
+      <NamesBeforeKey>Nikki</NamesBeforeKey>
+      <KeyNames>Massoud</KeyNames>
+    </Contributor>
+    <ContributorStatement>Kiyash Monsef</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0112808</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>JUV012030</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV001000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV002270</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>debut; fairy tales; animal companions; animals; mythical creatures; mythological; mythology; origins; crossover; dragons; griffons; animal doctor; veterinarian; supernatural; fantasy; middle grade novel for 10 11 12 13 14 grades 5 6 7 8 9; father-daughter relationship; dead parent; friendship; magic; exotic animal trade; griffin; manticore; simurgh; yokai; poc protagonist; Iranian American; Persian; movie; Fantastic Beasts and Where to Find Them; All Creatures Great and Small; harry potter; skandar and the unicorn thief; eragon; neil gaiman; philip pullman; the goldan compass;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>02</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>5</AudienceRangeValue>
+    </AudienceRange>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>10</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>99</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><I>Fantastic Beasts and Where to Find Them</I> meets Neil Gaiman in this thrilling novel about an Iranian American girl who discovers that her father was secretly a veterinarian to magical creatures&#8212;and that she must take up his mantle, despite the many dangers.</B><BR><BR><I>Once was, once wasn&rsquo;t.</I><BR> <BR>So began the stories Marjan&rsquo;s father told her as a little girl&#8212;fables like the story of the girl who sprung a unicorn from a hunter&rsquo;s snare, or the nomad boy who rescued a baby shirdal. Tales of mythical beasts that filled her with curiosity and wonder.<BR> <BR>But Marjan&rsquo;s not a little girl anymore. In the wake of her father&rsquo;s sudden death, she is trying to hold it all together: her schoolwork, friendships, and keeping her dad&rsquo;s shoestring veterinary practice from going under. Then, one day, she receives a visitor who reveals something stunning: Marjan&rsquo;s father was no ordinary veterinarian. The creatures out of the stories he told her were real&#8212;and he traveled the world to care for them. And now that he&rsquo;s gone, she must take his place.<BR> <BR>Marjan steps into a secret world hidden in plain sight, where magical creatures are bought and sold, treasured and trapped. She finds friends she never knew she needed&#8212;a charming British boy who grew up with a griffon, a runaway witch seeking magic and home&#8212;while trying to hide her double life from her old friends and classmates. <BR> <BR>The deeper Marjan gets into treating these animals, the closer she comes to finding who killed her father&#8212;and to a shocking truth that will reawaken her sense of wonder and put humans and beasts in the gravest of danger.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Kiyash Monsef is an Emmy Award&ndash;nominated producer and director; a writer of short stories, videos, comic books, and games; and a designer of innovative&nbsp;conversational and voice interface experiences.&nbsp;<i>Once There Was</i>&nbsp;is his first novel.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/1d96f621-cb82-4ffc-85ff-af02012d106b</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230404</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[(c)2023 Kiyash Monsef. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CK CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SG SI SJ SK SM SN SR SS ST SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230306</ExpectedShipDate>
+      <OnSaleDate>20230404</OnSaleDate>
+      <PackQuantity>24</PackQuantity>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>23.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797153537</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797153536</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797153537</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797153537</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797153537</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Levee</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Levee</TitleWithoutPrefix>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>198047527</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>William Kent Krueger</PersonName>
+      <PersonNameInverted>Krueger, William Kent</PersonNameInverted>
+      <NamesBeforeKey>William Kent</NamesBeforeKey>
+      <KeyNames>Krueger</KeyNames>
+      <BiographicalNote><![CDATA[William Kent Krueger&nbsp;is the&nbsp;<i>New York Times</i>&nbsp;bestselling author of&nbsp;<i>The River We Remember</i>, <i>This Tender Land</i>,&nbsp;<i>Ordinary Grace&nbsp;</i>(winner of the Edgar Award for best novel), and the original audio novella <I>The Levee</I>, as well as nineteen acclaimed books in the Cork O&rsquo;Connor mystery series, including&nbsp;<i>Lightning Strike</i>&nbsp;and&nbsp;<i>Fox Creek</i>. He lives in the Twin Cities with his family. Learn more at WilliamKentKrueger.com.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>JD Jackson</PersonName>
+      <PersonNameInverted>Jackson, JD</PersonNameInverted>
+      <NamesBeforeKey>JD</NamesBeforeKey>
+      <KeyNames>Jackson</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>William Kent Krueger</PersonName>
+      <PersonNameInverted>Krueger, William Kent</PersonNameInverted>
+      <NamesBeforeKey>William Kent</NamesBeforeKey>
+      <KeyNames>Krueger</KeyNames>
+      <BiographicalNote><![CDATA[William Kent Krueger&nbsp;is the&nbsp;<i>New York Times</i>&nbsp;bestselling author of&nbsp;<i>The River We Remember</i>, <i>This Tender Land</i>,&nbsp;<i>Ordinary Grace&nbsp;</i>(winner of the Edgar Award for best novel), and the original audio novella <I>The Levee</I>, as well as nineteen acclaimed books in the Cork O&rsquo;Connor mystery series, including&nbsp;<i>Lightning Strike</i>&nbsp;and&nbsp;<i>Fox Creek</i>. He lives in the Twin Cities with his family. Learn more at WilliamKentKrueger.com.]]></BiographicalNote>
+    </Contributor>
+    <ContributorStatement>William Kent Krueger</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0033913</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC019000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC014000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC070000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>where the crawdads sing; Ordinary Grace; This Tender Land; Mississippi River; great depression; huck finn; historical audiobooks; best audiobooks; best short audiobooks; mark twain; tom sawyer; river novels; storm novels; book club fiction; edgar award; life on the mississippi; cork o&#39;connor; cork; o&#39;conner; o connor; desolation mountain; historical fiction; lightening strike; fox creek; historical books about america; American history; american history novels; books like crawdads; delia owens; books like where the crawdads sing</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>An audio original novella from the bestselling author of <I>Ordinary Grace</I> and <I>This Tender Land</I>, <I>The Levee</I> is a powerful, captivating story of a family, a storm, a complicated rescue, and the true cost of survival. </B><b> </b><BR><BR>It&rsquo;s 1927, and the most devastating flood in American history has swelled the Mississippi River to a width of eighty miles. In an attempt to save a family trapped by the rising water, four men in a tiny rowboat battle the treacherous flow: three are convicts, on loan from the local prison and pressed into service; the fourth, the leader of the team, is driven by his own hidden motives. But to their surprise upon arrival at Ballymore, an ancestral home protected by a high, circular levee, not everyone in the family feels the need to be saved. Pride, greed, loyalty, and even love create their own complex currents behind the massive wall. As the threat from the flood increases and time ticks away, the crew and the family must decide on a course of action, and a desperate plan is hatched to save the weakening levee and all it was built to protect.<BR> <BR><I>The Levee</I> is a propulsive, heartfelt tale of courage, cowardice, and sacrifice in a historic moment when the indomitable human spirit is pitted against the awesome and destructive power of nature.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[William Kent Krueger&nbsp;is the&nbsp;<i>New York Times</i>&nbsp;bestselling author of&nbsp;<i>The River We Remember</i>, <i>This Tender Land</i>,&nbsp;<i>Ordinary Grace&nbsp;</i>(winner of the Edgar Award for best novel), and the original audio novella <I>The Levee</I>, as well as nineteen acclaimed books in the Cork O&rsquo;Connor mystery series, including&nbsp;<i>Lightning Strike</i>&nbsp;and&nbsp;<i>Fox Creek</i>. He lives in the Twin Cities with his family. Learn more at WilliamKentKrueger.com.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&quot;Golden Voice narrator JD Jackson acts out Krueger&rsquo;s dramatic audio-original novella, which is about the potential breach of a levee, the only thing holding back torrents of water during the unprecedented flooding of the lower Mississippi River in 1927. Four men &mdash; three convicts temporarily released and a man named Quince Mobley &mdash; arrive by boat and work tirelessly to save the high, circular levee and rescue the obstinate stranded residents of an estate called Ballymore. Jackson&rsquo;s deep, gravelly voice pervades the performance, shifting subtly to reflect the stiff-necked women and the strong-backed, sometimes bellicose, men. The raging river&rsquo;s inexorable attacks are reflected in Jackson&rsquo;s cadence as he adds emotional energy to the exhausting fight between men and the mighty Mississippi.&quot;]]></Text>
+      <TextSourceTitle>Winner of an AudioFile Earphones Award, AudioFile Magazine</TextSourceTitle>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>08</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[&quot;The Great Mississippi Flood of 1927 engulfed tens of thousands of square miles, across ten states, with up to 30 feet of water. Krueger sets his first original audiobook in this moment of crisis, as desperation pushes people, passions, and levees to their breaking points. The Ballymore estate is surrounded by one of those levees, built to protect the home and its people. But when a rowboat arrives at the estate, carrying work-release convicts who will help rescue the residents, the convicts are met with a surprising situation: not everyone wants their assistance. Jackson crafts consistent voices for many of the characters, softening his gravelly voice for women and making judicious use of accents. As the waters rise, the levee weakens, and the tension increases, Jackson&#39;s soothing, rhythmic narration is lulling. This allows for panicked dialogue to rise up and grip the listener like a cresting wave. His voice creates a cocoon around the listener like the levee itself, which seems protective but could ultimately mask great danger. This tense and satisfying tale has a historical setting eerily relevant to modern climate fears.&quot;]]></Text>
+      <TextAuthor>Heather Booth</TextAuthor>
+      <TextSourceTitle>Booklist</TextSourceTitle>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/d65afa1b-a849-4504-884f-af4d013094f4</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio Originals</NameCodeTypeName>
+      <NameCodeValue>SIMO901</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio Originals</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio Originals</NameCodeTypeName>
+      <NameCodeValue>SIMO901</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio Originals</PublisherName>
+    </Publisher>
+    <PublishingStatus>04</PublishingStatus>
+    <PublicationDate>20230228</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>IP</AvailabilityCode>
+      <ProductAvailability>20</ProductAvailability>
+      <OnSaleDate>20230228</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797154152</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>179715415X</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797154152</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797154152</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797154152</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Camp Zero</TitleText>
+      <Subtitle>A Novel</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>193638234</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Michelle Min Sterling</PersonName>
+      <PersonNameInverted>Sterling, Michelle Min</PersonNameInverted>
+      <NamesBeforeKey>Michelle Min</NamesBeforeKey>
+      <KeyNames>Sterling</KeyNames>
+      <BiographicalNote><![CDATA[Michelle Sterling was born in British Columbia, Canada, and now lives in Cambridge, Massachusetts, where she teaches literature and writing at Berklee College of Music. She has an MFA from Boston University and has held writing fellowships at Akademie Schloss Solitude, Vermont Studio Center, Virginia Center for the Creative Arts, and the Banff Centre for the Arts and Creativity. Her writing has appeared in publications such as <I>The Baffler</I>, <I>VICE</I>, and <I>Joyland</I>. <I>Camp Zero</I> is her first novel.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Graham Halstead</PersonName>
+      <PersonNameInverted>Halstead, Graham</PersonNameInverted>
+      <NamesBeforeKey>Graham</NamesBeforeKey>
+      <KeyNames>Halstead</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Greta Jung</PersonName>
+      <PersonNameInverted>Jung, Greta</PersonNameInverted>
+      <NamesBeforeKey>Greta</NamesBeforeKey>
+      <KeyNames>Jung</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>4</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Emily Tremaine</PersonName>
+      <PersonNameInverted>Tremaine, Emily</PersonNameInverted>
+      <NamesBeforeKey>Emily</NamesBeforeKey>
+      <KeyNames>Tremaine</KeyNames>
+    </Contributor>
+    <ContributorStatement>Michelle Sterling</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0110743</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC055000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC028070</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC019000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>speculative; feminist; climate change; dystopia; adventure; future; thriller; mystery; epic; fantasy; time; history; Station Eleven; the power; Emily St. John Mandel; beach read; diverse reads; bipoc author; graduation gifts for her; graduation gifts; Canada; arctic circle; society; love; art; novel; novels; mom; gifts for mom; girlfriend gifts; gifts for women; mothers day gifts; books; climate change; saga; women; usa; science fiction; post apocalyptic; the road; cormac mccarthy; korea; south korea; korean american; female soldiers; elite soldier; soviet union; the stand; stephen king; appleseed; matt bell</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>In a near-future northern settlement, a handful of climate change survivors find their fates intertwined in this mesmerizing and transportive novel in the vein of <I>Station Eleven</I> and <I>The Power</I>.</B><BR><BR>In the far north of Canada sits Camp Zero, an American building project hiding many secrets.<BR> <BR>Desperate to help her climate-displaced Korean immigrant mother, Rose agrees to travel to Camp Zero and spy on its architect in exchange for housing. She arrives at the same time as another newcomer, a college professor named Grant who is determined to flee his wealthy family&rsquo;s dark legacy. Gradually, they realize that there is more to the architect than previously thought, and a disturbing mystery lurks beneath the surface of the camp. At the same time, rumors abound of an elite group of women soldiers living and working at a nearby Cold War-era climate research station. What are they doing there? And who is leading them?<BR> <BR>An electrifying page-turner where nothing is as it seems, <I>Camp Zero</I> cleverly explores how the intersection of gender, class, and migration will impact who and what will survive in a warming world.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Michelle Sterling was born in British Columbia, Canada, and now lives in Cambridge, Massachusetts, where she teaches literature and writing at Berklee College of Music. She has an MFA from Boston University and has held writing fellowships at Akademie Schloss Solitude, Vermont Studio Center, Virginia Center for the Creative Arts, and the Banff Centre for the Arts and Creativity. Her writing has appeared in publications such as <I>The Baffler</I>, <I>VICE</I>, and <I>Joyland</I>. <I>Camp Zero</I> is her first novel.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/fb9d2e20-507a-48ef-8055-aebf00246070</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230404</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230313</ExpectedShipDate>
+      <OnSaleDate>20230404</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>23.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797156224</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797156225</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797156224</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797156224</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797156224</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>Waxways</TitleOfSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>A Door in the Dark</TitleText>
+      <TitlePrefix>A</TitlePrefix>
+      <TitleWithoutPrefix>Door in the Dark</TitleWithoutPrefix>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>190476006</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Scott Reintgen</PersonName>
+      <PersonNameInverted>Reintgen, Scott</PersonNameInverted>
+      <NamesBeforeKey>Scott</NamesBeforeKey>
+      <KeyNames>Reintgen</KeyNames>
+      <BiographicalNote><![CDATA[Scott Reintgen&nbsp;is a former public school teacher and still spends summers teaching middle schoolers dark fiction and fantasy at Duke Young Writers&rsquo; Camp. The birth of his children has convinced him that magic is actually real. He lives in North Carolina, surviving mostly on cookie dough and the love of his wife, Katie. Scott is the author of the Nyxia Triad and&nbsp;Ashlords&nbsp;series and&nbsp;<I>A Door in the Dark</I>&nbsp;for young adults, as well as the&nbsp;Talespinners series and&nbsp;the Celia Cleary series&nbsp;for middle graders. You can follow him on Facebook, Instagram, and Twitter at @Scott_Thought.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Jesse Vilinsky</PersonName>
+      <PersonNameInverted>Vilinsky, Jesse</PersonNameInverted>
+      <NamesBeforeKey>Jesse</NamesBeforeKey>
+      <KeyNames>Vilinsky</KeyNames>
+    </Contributor>
+    <ContributorStatement>Scott Reintgen</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0111219</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>YAF019020</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF037000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF001020</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>ya fantasy; thriller; survival; magic; wizards; magic school; dark academia; the problem with prophecies; celia cleary; ensemble cast; class difference; scholarship kids; secrets; One of Us Is Lying; Yellowjackets; The Wilds; all of us villains; a deadly education; naomi novik; spells; witches; dark; monsters; the gilded wolves; six of crows; leigh bardugo; ace of spades; 12 13 14 15 16 17 18 year olds ninth tenth eleventh twelfth grade;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>03</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>9</AudienceRangeValue>
+    </AudienceRange>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>14</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>99</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><I>One of Us is Lying </I>meets <I>A Deadly Education</I> in this fantasy thriller that follows six teenage wizards as they fight to make it home alive after a malfunctioning spell leaves them stranded in the wilderness.</B><BR><BR>Ren Monroe has spent four years proving she&rsquo;s one of the best wizards in her generation. But top marks at Balmerick University will mean nothing if she fails to get recruited into one of the major houses. Enter Theo Brood. If being rich were a sin, he&rsquo;d already be halfway to hell. After a failed and disastrous party trick, fate has the two of them crossing paths at the public waxway portal the day before holidays&#8212;Theo&rsquo;s punishment is to travel home with the scholarship kids. Which doesn&rsquo;t sit well with any of them.<BR> <BR>A fight breaks out. In the chaos, the portal spell malfunctions. All six students are snatched from the safety of the school&rsquo;s campus and set down in the middle of nowhere. And one of them is dead on arrival.<BR> <BR>If anyone can get them through the punishing wilderness with limited magical reserves it&rsquo;s Ren. She&rsquo;s been in survival mode her entire life. But no magic could prepare her for the tangled secrets the rest of the group is harboring, or for what&rsquo;s following them through the dark woods&hellip;]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Scott Reintgen&nbsp;is a former public school teacher and still spends summers teaching middle schoolers dark fiction and fantasy at Duke Young Writers&rsquo; Camp. The birth of his children has convinced him that magic is actually real. He lives in North Carolina, surviving mostly on cookie dough and the love of his wife, Katie. Scott is the author of the Nyxia Triad and&nbsp;Ashlords&nbsp;series and&nbsp;<I>A Door in the Dark</I>&nbsp;for young adults, as well as the&nbsp;Talespinners series and&nbsp;the Celia Cleary series&nbsp;for middle graders. You can follow him on Facebook, Instagram, and Twitter at @Scott_Thought.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/ba2953cb-20da-4dcc-945f-aef70026a79d</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230328</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Scott Reintgen. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230306</ExpectedShipDate>
+      <OnSaleDate>20230328</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797160962</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797160966</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797160962</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797160962</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797160962</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Polter-Ghost Problem</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Polter-Ghost Problem</TitleWithoutPrefix>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>188753558</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Betsy Uhrig</PersonName>
+      <PersonNameInverted>Uhrig, Betsy</PersonNameInverted>
+      <NamesBeforeKey>Betsy</NamesBeforeKey>
+      <KeyNames>Uhrig</KeyNames>
+      <BiographicalNote><![CDATA[Betsy Uhrig is the author of&nbsp;<i>The Polter-Ghost Problem</i>,&nbsp;<i>Double the Danger and Zero Zucchini</i>,&nbsp;and<i>&nbsp;Welcome to Dweeb Club.&nbsp;</i>She&nbsp;was born and raised in Greater Boston, where she lives with her family and way more books than you are picturing. She graduated from Smith College with a degree in English and has worked in publishing ever since. She writes books for children instead of doing things that aren&rsquo;t as fun. Visit her at BetsyUhrig.com.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Mark Sanderlin</PersonName>
+      <PersonNameInverted>Sanderlin, Mark</PersonNameInverted>
+      <NamesBeforeKey>Mark</NamesBeforeKey>
+      <KeyNames>Sanderlin</KeyNames>
+    </Contributor>
+    <ContributorStatement>Betsy Uhrig</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0051538</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>JUV069000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV019000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>JUV039060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>middle grade adventure; ghosts; books for eight nine ten eleven twelve year olds; books about boys; friendship; haunted orphanage; sci-fi; fantasy; horror; funny; humorous; spoopy; spooky books; grades 3 4 5 6 7 ; katherine arden; small spaces; spirit hunters; best nerds forever; lindsay currie; the jumbies; school project; inheritance; family history; witty; funny; mystery; abandoned building; exploring; neighborhood; librarian; poltergeist; hijinks; shenanigans;breaking the fourth wall; library research; one crazy summer; shipwreck; bickering; poltergeist; Whispering Pines; The Peculiar Incident on Shady Street; Fear Street; Goosebumps; meta-narrative</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>02</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>11</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>3</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>7</AudienceRangeValue>
+    </AudienceRange>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>8</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>12</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>Three best friends discover a haunted orphanage and get swept up in ghoulish shenanigans in this &ldquo;laugh-out-loud, high-action read&rdquo; (<I>Kirkus Reviews</I>, starred review) for fans of <I>Best Nerds Forever</I> and the Fear Street series<I>.</I></B><BR><BR>One haunted orphanage + two types of ghosts + three freaked-out friends = plenty of trouble.<BR> <BR>Best friends Aldo, Pen, and Jasper are braced for a boring summer. And equally dull summer journal writing assignments. That is, until they see a slightly transparent boy with a bad haircut appear by the soccer field and then disappear into the woods beyond. The boys follow him and discover the long-abandoned Grauche Orphanage for Orphans, a house in the woods that is most <i>definitely</i> haunted.<BR> <BR>But the ghosts are not the problem. They have been trapped at the orphanage by a cranky poltergeist who erupts into violent tantrums if they put even a spectral toe across the property line. The ghosts ask the boys to help free them&#8212;but who is the angry poltergeist and what does it want? To solve the mystery, the trio must investigate the orphanage&rsquo;s dark past, evade Aldo&rsquo;s ghastly older brother, borrow a skeptical librarian, and duck lots of flying furniture, all while failing to agree on almost anything. Can they defeat the evil entity and rescue the ghosts before their parents catch on and ground them for eternity?]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Betsy Uhrig is the author of&nbsp;<i>The Polter-Ghost Problem</i>,&nbsp;<i>Double the Danger and Zero Zucchini</i>,&nbsp;and<i>&nbsp;Welcome to Dweeb Club.&nbsp;</i>She&nbsp;was born and raised in Greater Boston, where she lives with her family and way more books than you are picturing. She graduated from Smith College with a degree in English and has worked in publishing ever since. She writes books for children instead of doing things that aren&rsquo;t as fun. Visit her at BetsyUhrig.com.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/764a2293-c06d-4f44-bd44-af720034dfab</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230321</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2022</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2022 Betsy Uhrig. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX MY NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230227</ExpectedShipDate>
+      <OnSaleDate>20230321</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>17.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230224</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

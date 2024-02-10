@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ONIXMessage release="3.0">
+  <Header>
+    <Sender>
+      <SenderName>Simon &amp; Schuster</SenderName>
+      <EmailAddress>eloquencefeeds@firebrandtech.com</EmailAddress>
+    </Sender>
+    <SentDateTime>20210529</SentDateTime>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceType>01</DefaultPriceType>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+  </Header>
+  <Product>
+    <RecordReference>9780743561945</RecordReference>
+    <NotificationType>03</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>0743561945</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9780743561945</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9780743561945</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09780743561945</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <NoCollection/>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Lisey&#39;s Story</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Stephen King</PersonName>
+        <PersonNameInverted>King, Stephen</PersonNameInverted>
+        <NamesBeforeKey>Stephen</NamesBeforeKey>
+        <KeyNames>King</KeyNames>
+        <BiographicalNote><![CDATA[Stephen King is the author of more than sixty books, all of them worldwide bestsellers.&nbsp;His recent work includes&nbsp;<i>If It Bleeds</i>,&nbsp;<i>The Institute</i>,&nbsp;<i>Elevation</i>,&nbsp;<i>The Outsider</i>,&nbsp;<i>Sleeping Beauties</i>&nbsp;(cowritten with his son Owen King), and the Bill Hodges trilogy:&nbsp;<i>End of Watch</i>,&nbsp;<i>Finders&nbsp;Keepers</i>,&nbsp;and&nbsp;<i>Mr. Mercedes</i>&nbsp;(an Edgar Award winner&nbsp;for Best Novel and a television series streaming on Peacock). His novel&nbsp;<i>11/22/63</i>&nbsp;was named a&nbsp;top ten book of 2011 by&nbsp;<i>The&nbsp;New York Times&nbsp;Book Review</i>&nbsp;and won the&nbsp;<i>Los Angeles Times</i>&nbsp;Book Prize for Mystery/Thriller. His epic works&nbsp;<i>The Dark Tower</i>,&nbsp;<i>It</i>,&nbsp;<i>Pet Sematary</i>, and&nbsp;<i>Doctor Sleep</i>&nbsp;are the basis for&nbsp;major motion pictures, with&nbsp;<i>It&nbsp;</i>now the highest-grossing horror film of all time. He is the recipient&nbsp;of the 2020 Audio Publishers Association Lifetime Achievement Award, the 2018 PEN America Literary Service Award, the&nbsp;2014 National Medal of Arts, and the&nbsp;2003 National Book Foundation Medal for&nbsp;Distinguished Contribution to American Letters.&nbsp;He lives in Bangor, Maine, with his wife,&nbsp;novelist Tabitha King.]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Mare Winningham</PersonName>
+        <PersonNameInverted>Winningham, Mare</PersonNameInverted>
+        <NamesBeforeKey>Mare</NamesBeforeKey>
+        <KeyNames>Winningham</KeyNames>
+        <BiographicalNote><![CDATA[<b>Mare Winningham</b> has appeared in more than fifty film and television projects, garnering an Academy Award nomination for <I>Georgia</i> and Emmy Awards for the telefilms <I>George Wallace</i> and <I>Amber Waves</i>. She is also an accomplished singer-songwriter.]]></BiographicalNote>
+      </Contributor>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0192100</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC031070</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC021000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC015000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC030000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>FIC019000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Castle Rock; best stephen king; best horror; horror; bestselling; best selling; horror best sellers; clive owen; Julianne moore; steven king; doctor sleep; mr. mercedes; under the dome; revival; finders keepers; edgar award; new york times; bestseller; 11/22/63; end of watch; bazaar of bad dreams; classic; IT; dark tower; the outsider; sleeping beauties; jj abrams; bad robot; apple tv; Pablo Larrain; Apple TV series; Billy Summers excerpt; Billy Summers;</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<b>*Soon to be an Apple TV+ limited series starring Julianne Moore and Clive Owen*</b><BR> <BR><b>The &ldquo;haunting&hellip;tender, intimate book that makes an epic interior journey&rdquo; (<i>The New York Times</i>), <i>Lisey&rsquo;s Story</i> is a literary masterpiece&#8212;an extraordinarily moving and haunting portrait of a marriage and its aftermath.</b><BR><BR>Lisey lost her husband Scott two years ago, after a twenty-five year marriage of profound and sometimes frightening intimacy. Scott was an award-winning, bestselling novelist and a very complicated man. Early in their relationship, before they married, Lisey knew there was a place Scott went&#8212;a place that both terrified and healed him, could eat him alive or give him the ideas he needed in order to live. Now it&rsquo;s Lisey&rsquo;s turn to face Scott&rsquo;s demons, to go to that terrifying place known as Boo&rsquo;ya Moon. What begins as a widow&rsquo;s effort to sort through the papers of her celebrated husband becomes a nearly fatal journey into the darkness he inhabited.<BR> <BR> &ldquo;Intricate...exhilarating&rdquo; (<i>The New Yorker</i>), perhaps Stephen King&rsquo;s most personal and powerful novel ever, Lisey&rsquo;s Story is about the wellsprings of creativity, the temptations of madness, and the secret language of love. It is a beautiful, &ldquo;rich portrait of a marriage, and the complicated affection that outlives death&rdquo; (<i>The Washington Post</i>).]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[Stephen King is the author of more than sixty books, all of them worldwide bestsellers.&nbsp;His recent work includes&nbsp;<i>If It Bleeds</i>,&nbsp;<i>The Institute</i>,&nbsp;<i>Elevation</i>,&nbsp;<i>The Outsider</i>,&nbsp;<i>Sleeping Beauties</i>&nbsp;(cowritten with his son Owen King), and the Bill Hodges trilogy:&nbsp;<i>End of Watch</i>,&nbsp;<i>Finders&nbsp;Keepers</i>,&nbsp;and&nbsp;<i>Mr. Mercedes</i>&nbsp;(an Edgar Award winner&nbsp;for Best Novel and a television series streaming on Peacock). His novel&nbsp;<i>11/22/63</i>&nbsp;was named a&nbsp;top ten book of 2011 by&nbsp;<i>The&nbsp;New York Times&nbsp;Book Review</i>&nbsp;and won the&nbsp;<i>Los Angeles Times</i>&nbsp;Book Prize for Mystery/Thriller. His epic works&nbsp;<i>The Dark Tower</i>,&nbsp;<i>It</i>,&nbsp;<i>Pet Sematary</i>, and&nbsp;<i>Doctor Sleep</i>&nbsp;are the basis for&nbsp;major motion pictures, with&nbsp;<i>It&nbsp;</i>now the highest-grossing horror film of all time. He is the recipient&nbsp;of the 2020 Audio Publishers Association Lifetime Achievement Award, the 2018 PEN America Literary Service Award, the&nbsp;2014 National Medal of Arts, and the&nbsp;2003 National Book Foundation Medal for&nbsp;Distinguished Contribution to American Letters.&nbsp;He lives in Bangor, Maine, with his wife,&nbsp;novelist Tabitha King.<BR><BR><b>Mare Winningham</b> has appeared in more than fifty film and television projects, garnering an Academy Award nomination for <I>Georgia</i> and Emmy Awards for the telefilms <I>George Wallace</i> and <I>Amber Waves</i>. She is also an accomplished singer-songwriter.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA["Stephen King at his finest . . . a dazzling novel." -- Nicholas Sparks]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA["In <i>Lisey's Story</i>, Stephen King makes bold, brilliant use of his satanic storytelling gift, his angelic ear for language, and above all his incomparable ability to find the epic in the ordinary. . . ." -- Michael Chabon]]></Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/4c49d7f8-9d4f-4e3c-a60b-a1fc00bfe89f</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+      </Publisher>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20061024</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20061024</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2006</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[© 2006 Stephen King. All Rights Reserved.<BR>(P) 2006 Simon & Schuster Inc. All rights reserved.]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BN BO BQ BR BT BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW GY HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TO TR TW UA UM US UY UZ VA VE VI VN WF WS YT</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+      <ROWSalesRightsType>00</ROWSalesRightsType>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>35461727</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+      <RelatedProduct>
+        <ProductRelationCode>31</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9781508219255</IDValue>
+        </ProductIdentifier>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>20</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20061024</Date>
+        </SupplyDate>
+        <SupplyDate>
+          <SupplyDateRole>08</SupplyDateRole>
+          <Date dateformat="00">20061002</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>02</DiscountCodeType>
+            <DiscountCode>096</DiscountCode>
+          </DiscountCoded>
+          <PriceAmount>29.95</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781398509092</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398509094</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398509092</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398509092</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398509092</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <TitleText>Supertato</TitleText>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Supertato: Bubbly Troubly</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Sue Hendra</PersonName>
+        <PersonNameInverted>Hendra, Sue</PersonNameInverted>
+        <NamesBeforeKey>Sue</NamesBeforeKey>
+        <KeyNames>Hendra</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Sue&#160;Hendra</B> grew up in Wimbledon and has always loved making up stories and drawing pictures. Her favourite book as a child was <I>Mr Silly</I>. She graduated from Brighton University in 1994 and has been creating picture books ever since. In 2006 she met&#160;Paul&#160;Linnet and could instantly see that she&rsquo;d met a fellow nitwit who liked talking nonsense. They went on to create many bestselling books together, working in a small room in their house in Brighton.&#160;Sue&#160;loves swimming, and can swim up and down for a very long time. Her favourite book is still <I>Mr Silly</I>.</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Paul Linnet</PersonName>
+        <PersonNameInverted>Linnet, Paul</PersonNameInverted>
+        <NamesBeforeKey>Paul</NamesBeforeKey>
+        <KeyNames>Linnet</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Paul&#160;Linnet </B>was born in Brighton and grew up in the Midlands, reading Tintin and playing classic 80s video games, before becoming obsessed with scribbling, writing, guitars and motorcycles. He studied Graphic Design at Derby University, and later moved back to Brighton where he met&#160;Sue&#160;Hendra. They made up a story about a fish with fingers and then a slug with a doughnut for a shell, and now no one can stop them from writing more and more frankly ridiculous books. They live in Brighton &ndash; and&#160;Paul&#160;still loves scribbling, writing, guitars and motorcycles.<BR /> &#160;</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>3</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Sue Hendra</PersonName>
+        <PersonNameInverted>Hendra, Sue</PersonNameInverted>
+        <NamesBeforeKey>Sue</NamesBeforeKey>
+        <KeyNames>Hendra</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Sue&#160;Hendra</B> grew up in Wimbledon and has always loved making up stories and drawing pictures. Her favourite book as a child was <I>Mr Silly</I>. She graduated from Brighton University in 1994 and has been creating picture books ever since. In 2006 she met&#160;Paul&#160;Linnet and could instantly see that she&rsquo;d met a fellow nitwit who liked talking nonsense. They went on to create many bestselling books together, working in a small room in their house in Brighton.&#160;Sue&#160;loves swimming, and can swim up and down for a very long time. Her favourite book is still <I>Mr Silly</I>.</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>4</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Paul Linnet</PersonName>
+        <PersonNameInverted>Linnet, Paul</PersonNameInverted>
+        <NamesBeforeKey>Paul</NamesBeforeKey>
+        <KeyNames>Linnet</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Paul&#160;Linnet </B>was born in Brighton and grew up in the Midlands, reading Tintin and playing classic 80s video games, before becoming obsessed with scribbling, writing, guitars and motorcycles. He studied Graphic Design at Derby University, and later moved back to Brighton where he met&#160;Sue&#160;Hendra. They made up a story about a fish with fingers and then a slug with a doughnut for a shell, and now no one can stop them from writing more and more frankly ridiculous books. They live in Brighton &ndash; and&#160;Paul&#160;still loves scribbling, writing, guitars and motorcycles.<BR /> &#160;</DIV>]]></BiographicalNote>
+      </Contributor>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0001523</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV000000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV050000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JNF024060</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV019000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV039060</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV001000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV071000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>CKB085000</SubjectCode>
+      </Subject>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>YBCH</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>YBCS</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>YFQ</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>YFB</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Supertato; Veggies Assemble;&#160;Barry the Fish with Fingers; Keith the Cat with the Magic Hat; Norman the Slug with a Silly Shell; vegetables; superhero; supermarket; potatoes; evil pea; No-Bot the Robot with No Bottom; Doug the Bug that Went Boing;&#160;laugh-out-loud; easy to read; funny; Slug Needs a Hug; world book day; sue hendra; Gordon&#39;s Great Escape; run veggies run; evil pea rules; veggies in the valley of doom; Supertato Sticker Book; Books Are Rubbish; Supertato Sticker Skills</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+        <SubjectCode>A3F79</SubjectCode>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>02</AudienceCodeValue>
+      </Audience>
+      <AudienceRange>
+        <AudienceRangeQualifier>17</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>3</AudienceRangeValue>
+        <AudienceRangePrecision>04</AudienceRangePrecision>
+        <AudienceRangeValue>99</AudienceRangeValue>
+      </AudienceRange>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<B>A bath time adventure in the bestselling, blockbuster Supertato series, created and read by Sue Hendra and Paul Linnet! Perfect for even the most reluctant of bathers - and, of course, Supertato fans EVERYWHERE!</B><BR><BR> It is night-time in the supermarket, and it&rsquo;s the veggies&rsquo; weekly bath. But&hellip;what&rsquo;s this? SOMEONE has been meddling with the bubble bath and that can only lead to one thing: BUBBLY TROUBLY!<BR> &#160;<BR> Are Supertato and the veggies all washed up? Or can they clear the aisles and POP that pea back where he belongs?<BR> &#160;<BR> Find out in Supertato&#39;s newest, irresistible laugh-out-loud adventure!<BR><BR><B>Other Supertato stories:</B><BR><I>Supertato<BR> Supertato: Veggies Assemble<BR> Supertato: Run, Veggies, Run!<BR> Supertato: Evil Pea Rules<BR> Supertato: Veggies in the Valley of Doom<BR> Supertato: Carnival Catastro-Pea</I><BR><BR><B>Other Supertato books:</B><BR><I>Supertato Sticker Activity Book</I><BR><I>Supertato Super Squad</I>&#160;<BR><I>Supertato Sticker Skills</I> (coming May 2021)<BR><BR><B>Selected other titles by Sue Hendra &amp; Paul Linnet:</B><BR><I>Barry the Fish with Fingers<BR> Norman the Slug with the Silly Shell<BR> Keith the Cat with the Magic Hat<BR> Doug the Bug that went Boing!<BR> I Need a Wee!<BR> No-Bot the Robot with No Bottom<BR> No-Bot the Robot&#39;s New Bottom</I><BR><BR> &#160;]]></Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/e815ff00-de43-49c7-b4c4-ad36012679ac</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio UK</IDTypeName>
+          <IDValue>SIMO435</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio UK</IDTypeName>
+          <IDValue>SIMO435</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster UK</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210708</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210708</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&copy;2021 Sue Hendra and Paul Linnet. All rights reserved<BR /> (P)2021 Simon &amp; Schuster, UK. All Rights Reserved.]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>163843782</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210708</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>5.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781398510401</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398510408</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398510401</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398510401</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398510401</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <TitleText>I Spy Island</TitleText>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <PartNumber>Volume 1</PartNumber>
+          <TitleText>I Spy Island</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Sue Hendra</PersonName>
+        <PersonNameInverted>Hendra, Sue</PersonNameInverted>
+        <NamesBeforeKey>Sue</NamesBeforeKey>
+        <KeyNames>Hendra</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Sue&#160;Hendra</B> grew up in Wimbledon and has always loved making up stories and drawing pictures. Her favourite book as a child was <I>Mr Silly</I>. She graduated from Brighton University in 1994 and has been creating picture books ever since. In 2006 she met&#160;Paul&#160;Linnet and could instantly see that she&rsquo;d met a fellow nitwit who liked talking nonsense. They went on to create many bestselling books together, working in a small room in their house in Brighton.&#160;Sue&#160;loves swimming, and can swim up and down for a very long time. Her favourite book is still <I>Mr Silly</I>.</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Paul Linnet</PersonName>
+        <PersonNameInverted>Linnet, Paul</PersonNameInverted>
+        <NamesBeforeKey>Paul</NamesBeforeKey>
+        <KeyNames>Linnet</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Paul&#160;Linnet </B>was born in Brighton and grew up in the Midlands, reading Tintin and playing classic 80s video games, before becoming obsessed with scribbling, writing, guitars and motorcycles. He studied Graphic Design at Derby University, and later moved back to Brighton where he met&#160;Sue&#160;Hendra. They made up a story about a fish with fingers and then a slug with a doughnut for a shell, and now no one can stop them from writing more and more frankly ridiculous books. They live in Brighton &ndash; and&#160;Paul&#160;still loves scribbling, writing, guitars and motorcycles.<BR /> &#160;</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>3</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Sue Hendra</PersonName>
+        <PersonNameInverted>Hendra, Sue</PersonNameInverted>
+        <NamesBeforeKey>Sue</NamesBeforeKey>
+        <KeyNames>Hendra</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Sue&#160;Hendra</B> grew up in Wimbledon and has always loved making up stories and drawing pictures. Her favourite book as a child was <I>Mr Silly</I>. She graduated from Brighton University in 1994 and has been creating picture books ever since. In 2006 she met&#160;Paul&#160;Linnet and could instantly see that she&rsquo;d met a fellow nitwit who liked talking nonsense. They went on to create many bestselling books together, working in a small room in their house in Brighton.&#160;Sue&#160;loves swimming, and can swim up and down for a very long time. Her favourite book is still <I>Mr Silly</I>.</DIV>]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>4</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Paul Linnet</PersonName>
+        <PersonNameInverted>Linnet, Paul</PersonNameInverted>
+        <NamesBeforeKey>Paul</NamesBeforeKey>
+        <KeyNames>Linnet</KeyNames>
+        <BiographicalNote><![CDATA[<DIV><B>Paul&#160;Linnet </B>was born in Brighton and grew up in the Midlands, reading Tintin and playing classic 80s video games, before becoming obsessed with scribbling, writing, guitars and motorcycles. He studied Graphic Design at Derby University, and later moved back to Brighton where he met&#160;Sue&#160;Hendra. They made up a story about a fish with fingers and then a slug with a doughnut for a shell, and now no one can stop them from writing more and more frankly ridiculous books. They live in Brighton &ndash; and&#160;Paul&#160;still loves scribbling, writing, guitars and motorcycles.<BR /> &#160;</DIV>]]></BiographicalNote>
+      </Contributor>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0001711</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV000000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JNF000000</SubjectCode>
+      </Subject>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectCode>YBC</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+        <SubjectCode>A3F79</SubjectCode>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>02</AudienceCodeValue>
+      </Audience>
+      <AudienceRange>
+        <AudienceRangeQualifier>17</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>3</AudienceRangeValue>
+        <AudienceRangePrecision>04</AudienceRangePrecision>
+        <AudienceRangeValue>99</AudienceRangeValue>
+      </AudienceRange>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/71158a33-304f-41a6-b5a6-ad3601267c11</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio UK</IDTypeName>
+          <IDValue>SIMO435</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio UK</IDTypeName>
+          <IDValue>SIMO435</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster UK</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210708</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210708</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&copy;2021 Sue Hendra and Paul Linnet.&#160; All rights reserved<BR /> (P)2021 Simon &amp; Schuster, UK. All Rights Reserved.]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>173101721</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210708</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <PriceAmount>5.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781644114827</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1644114828</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781644114827</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781644114827</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781644114827</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormDetail>A103</ProductFormDetail>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <NoCollection/>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Ghosts of Atlantis</TitleText>
+          <Subtitle>How the Echoes of Lost Civilizations Influence Our Modern World</Subtitle>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>J. Douglas Kenyon</PersonName>
+        <PersonNameInverted>Kenyon, J. Douglas</PersonNameInverted>
+        <NamesBeforeKey>J. Douglas</NamesBeforeKey>
+        <KeyNames>Kenyon</KeyNames>
+        <BiographicalNote><![CDATA[For almost a quarter-century, J. Douglas Kenyon was the editor and publisher of Atlantis Rising magazine. He is the author and editor of several books, including <I>Forbidden History</I> and <I>Forbidden Science</I>, and the writer, producer, and narrator of several documentary films, including <I>Technologies of the Gods</I>, <I>Clash of the Geniuses</I>, and <I>The Atlantis Connection</I>. He lives in Georgia.]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Micah Hanks</PersonName>
+        <PersonNameInverted>Hanks, Micah</PersonNameInverted>
+        <NamesBeforeKey>Micah</NamesBeforeKey>
+        <KeyNames>Hanks</KeyNames>
+      </Contributor>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0102520</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>OCC031000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>HIS039000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>OCC020000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>ANCIENT MYSTERIES;ANCIENT CIVILIZATION;ICE AGE;ATLANTIS;ANCIENT TECHNOLOGIES;ANCIENT MAPS;CRYSTAL SCIENCE;TIME TRAVEL;ANCIENT AMAGEDDON;THE BIBLE;THE SPHINX;THE STONE AGE;GOBEKLI TEPE;RAPA RUI;EASTER ISLAND;ZEP TEPI MONUMENTS OF EGYPT;THE GULF OF CAMBAY;WHAT LIES BENEATH THE ICE OF ANTARCTICA;ADVANCED KNOWLEDGE;LOST WORLDS;ANCIENT ALIENS;LOST SOULD OF HUMANITY;MYTHOLOGY;LEMURIA;LOST WORLD ARCHETYPES;ADVANCED CIVILIZATIONS;MILLENNIA;FOUNTAINHEAD OF CIVILIZATION;EXTRATERRESTRIAL INFLUENCE</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&bull; Reveals evidence of advanced ancient technology, anomalous ancient maps, time travel, crystal science, ancient Armageddon, and Atlantis in the Bible <BR><BR>&bull; Explores the true age of the Sphinx, the Stone Age high-tech found at Gobekli Tepe, the truth of Rapa Nui (Easter Island), the Zep Tepi monuments of Egypt, the mysteries of the Gulf of Cambay, and what lies beneath the ice of Antarctica <BR><BR>&bull; Examines the advanced knowledge of the ancients and how the search for Atlantis and other lost worlds reflects the search for the lost soul of humanity <BR><BR>We live within the ruins of an ancient civilization whose vast size has rendered it invisible. Remembered in myth as Atlantis, Lemuria, or other lost world archetypes, the remains of this advanced civilization have lain buried for millennia beneath the deserts and oceans of the world, leaving us many mysterious and inexplicable clues. <BR><BR>Investigating the perennial myth of a forgotten fountainhead of civilization, J. Douglas Kenyon presents extensive physical and spiritual evidence of a lost great culture, the collective amnesia that wiped it from planetary memory, and the countless ways ancient catastrophes still haunt modern civilization. He explores evidence of advanced ancient technology, anomalous ancient maps, extraterrestrial influence, time travel, crystal science, and the true age of the Sphinx. He examines evidence of Atlantis in the Bible and ancient Armageddon, the Stone Age high-tech found at Gobekli Tepe, the truth of Rapa Nui (Easter Island), the Zep Tepi monuments of Egypt, the mysteries of the Gulf of Cambay, and what lies beneath the ice of Antarctica. He looks at extinction events, Earth&rsquo;s connection with Mars, and how our DNA reveals that humanity has had enough time to evolve civilization and lose it more than once. <BR><BR>Exploring the advanced esoteric and spiritual knowledge of the ancients, Kenyon shows that the search for Atlantis and other lost worlds reflects the search for the lost soul of humanity. Drawing upon Velikovsky&rsquo;s notion of a species-wide amnesia caused by the trauma of losing an entire civilization, he reveals how the virtual ruins of a lost history are buried deep in our collective unconscious, constantly tugging at our awareness. As Kenyon reveals, by overcoming &ldquo;the Great Forgetting,&rdquo; humanity can find its way out of the haunted labyrinth in which we find ourselves lost today and rediscover the heights of spiritual and technological advancement of our ancient ancestors.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[For almost a quarter-century, J. Douglas Kenyon was the editor and publisher of Atlantis Rising magazine. He is the author and editor of several books, including <I>Forbidden History</I> and <I>Forbidden Science</I>, and the writer, producer, and narrator of several documentary films, including <I>Technologies of the Gods</I>, <I>Clash of the Geniuses</I>, and <I>The Atlantis Connection</I>. He lives in Georgia.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>14</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<B>From Chapter 1. <BR><BR>The Atlantis of Our Dreams</B> <BR><BR>In the Atlantis myth itself we are left with a persistent tale that, while widely shared, is seldom taken seriously. Yet, no matter how much it is dismissed by academic authorities as nothing more than a kind of cartoon, its deep effect on our culture is undeniable. And while legitimate debate over the facts may rage, some of us believe that deep in the ocean of humanity&rsquo;s unconscious are the virtual remains of a lost history that still makes its demands on our thoughts and sensibilities. <BR><BR>The notion of a great lost civilization and our society&rsquo;s demonstrable amnesia on the subject eventually inspired me to launch a bi-monthly magazine focusing on ancient mysteries, unexplained anomalies, and future science, which I dubbed Atlantis Rising. After 25 years of continuous publication and several spin-off books and videos, in the spring of 2019 we closed our doors. But I continue to believe that the echoes of long forgotten worlds still reverberate and if we could only translate their siren songs we might exorcise some of the strange ghosts that trouble us yet. <BR><BR><B>Planetary Amnesia</B> <BR><BR>Probably no one in the past seventy years is more directly linked with the notion that Earth&rsquo;s forgotten history has been punctuated by memory-destroying catastrophic events than Immanuael Velikovsky. <BR><BR>When the late Russian/American scientist&rsquo;s <I>Worlds in Collision</I> was published in 1950 it caused a sensation. His subsequent titles <I>Earth in Upheaval and Ages in Chaos</I> further elaborated his ideas and expanded the controversy. Here was a scientist of considerable authority suggesting, among other things, that Earth and Venus might once have collided, leaving a vast chaotic aftermath that could have done much to explain our peculiar history. For such arguments, Velikovsky was, ever afterward, roundly ridiculed. Surprisingly, though, many of his predictions have now been verified, and some of his critics, including the late Carl Sagan, have since been forced to concede that he might, after all, in some ways, have been on to something. <BR><BR>Velikovsky, a psychoanalyst and associate of Sigmund Freud and Carl Jung, offered great insight into the psycho/sociological impacts of cataclysmic events. The psychological condition and case history of planet Earth is, he said, one of &ldquo;amnesia.&rdquo; The planet, he believed, is in a near-psychotic state, left so by traumatic events of an almost unimaginable magnitude. We must now wonder: have we compulsively closed our eyes to certain painful realities? Have we, moreover, cloaked that intentional blindness with an aura of authority, thus, effectively turning things upside down? <BR><BR>The victim of a near-fatal trauma is driven, apparently by fear, both conscious and unconscious, to exorcise the record of such experiences, lest he be overwhelmed. To fully forget such an experience, though, it turns out, is not such an easy thing. There are heavy consequences. Much more than the record of the trauma can be lost. In fact the very identity--what some would call the soul--can be a casualty. <BR><BR>What is true on an individual level, Velikovsky believed, was also true on a collective level. The process might move more slowly and allow for personal exceptions, but the institutions of society would, in time, come to reflect and to enforce a deep collective subconscious wish that, for the good of all, certain doors stay closed and certain inconvenient, and terrifying, facts stay forgotten.<BR><BR>Along the way the incoherent fragments of a lost identity--the artifacts of forgotten worlds--haunt our dreams. Whispering sadly of a lost state of grace, we spin tragic tales of a &ldquo;Garden of Eden&rdquo; from which we have been ejected by some cruel and heartless god. Driven by ancient longings, we have carried on--often blindly--in the attempt to penetrate at last the darkness and to learn the secret of our birth--our origin. <BR><BR><B>The Mythic Records</B><BR><BR>Until we uncover something more concrete, some wonder if the guidance we need could be found in our myths, legends, and dreams--also termed the universal unconscious. Could our planet&rsquo;s tragic history be unraveled from such subjective records? <BR><BR>Giorgio de Santillana, an authority on the history of science at M.I.T., hypothesized in his great work <I>Hamlet's Mill</I> that an advanced scientific knowledge had been encoded into ancient myth and star lore. Clearly written into the mythology of many societies are stories of cataclysmic destruction.<BR><BR>If we accept that mythology may have originated with highly advanced people, then we have to think about what the myths are saying, that a great cataclysm struck the world and destroyed an advanced civilization and a golden age of mankind. And, moreover, the bad cataclysm may be a recurrent feature in the life of the Earth. The messages from many ancient sources, including the Bible, some believe point to a recurrence of such a cataclysm in our lifetime. <BR><BR>When the violent death of an entire civilization has proved too painful to deal with consciously, society has often suppressed the memory--by force of inquisition or academic sanction, depending on your historic period. Nevertheless we are driven by irresistible subconscious forces to reenact the ancient tragedy again and again until the spell is broken and at last we awaken from our coma.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>04</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<B>Acknowledgments <BR>Introduction</B> <BR><BR>The Great Forgetting <BR><I>The consequence of collective trauma</I><BR><BR><B>1</B> The Atlantis of Our Dreams <BR><I>Searching for clues in the unconscious mind</I> <BR><BR><B>2</B> Memory under Assault <BR><I>To whom do we owe our condition?</I> <BR><BR><B>3</B> The Search for Lost Records <BR><I>Could Atlantis have left us a library? <BR></I><BR><B>Artifacts of Knowledge</B><BR><I>Evidence of the superior technology of the past</I><BR><BR><B>4</B> The Crystal Planet<BR><I>What might the ancients have known that we don&rsquo;t? </I><BR><BR><B>5</B> Wisdom of the Ancients <BR><I>Following the clues to a lost science</I> <BR><BR><B>6</B> Secrets of the Portolans <BR><I>Where could the sailors of the Middle Ages have learned their tricks?</I><BR><BR><B>7</B> Ciphers of the Initiated <BR><I>How much can the rest of us expect to learn?</I> <BR><BR><B>Untaught History</B> <BR><I>What might really have happened</I> <BR><BR><B>8</B> Time Line Tangles<BR><I>How ancient is human history in the Americas, really?</I> <BR><BR><B>9</B> The Neanderthal Connection<BR><I>Has civilization&rsquo;s missing link been found?</I> <BR><BR><B>10</B> Biblical Proportions <BR><I>Is Plato supported by the Good Book?</I> <BR><BR><B>11</B> Jesus and the Gnostics <BR><I>Is there an Atlantis connection to the story? <BR></I><BR><B>12</B> The Gods of Atlantis Where do heroes come from? <BR><I>Domains of the Lost Forgotten civilizations from around the globe</I> <BR><BR><B>13</B> The Great Atlantis Hunt <BR><I>Is new research getting us any closer to an actual location?</I> <BR><BR><B>14</B> The Polar Continent <BR><I>What still lies buried beneath miles of ice? <BR></I><BR><B>15</B> Egypt and Zep Tepi<BR><I>The search for monuments of the First Time</I> <BR><BR><B>16</B> The Redemption of Rapa Nui <BR><I>New evidence rules out &ldquo;ecocide&rdquo;</I><BR><BR><B>17</B> The Pillars of Mu <BR><I>What does a hill in Java say about prediluvian civilization?</I> <BR><BR><B>18</B> Tales of the Saraswati <BR><I>Clues from a lost culture emerge from the Gulf of Cambay</I> <BR><BR><B>19</B> G&#246;bekli Tepe and Stone Age High-Tech <BR><I>Could history be due for some serious rewriting?</I> <BR><BR><B>Inner Connections</B> <BR><I>How advanced civilizations have left their mark on our bodies</I> <BR><BR><B>20</B> The DNA Chase<BR><I>Have our genes had enough time to evolve civilization and to lose it, more than once? <BR><BR></I><B>21</B> Mind Fields <BR><I>Consciousness and reality <BR></I><BR><B>22</B> Return Engagements <BR><I>Could humans get more than one crack at the challenges of life on Earth? <BR></I><BR><B>23</B> The Battle of Light and Darkness<BR><I>Tracking the ancient struggle for control of the self <BR><BR></I><B>Other Worlds</B> <BR><I>Lost civilizations from outer space</I><BR><BR><B>24</B> The Nukes of Mars <BR><I>Is there an ancient connection with Earth?</I> <BR><BR><B>25</B> Searching for ET <BR><I>New research aims to find an elusive quarry<BR></I><BR><B>26</B> The Planet X Conjecture <BR>Are we close to finding Nibiru?<BR><BR><B>27</B> Ancient Astronaut Theory <BR><I>Reality or science fiction? <BR></I><BR><B>Signs of a Crime</B> <BR><I>Cover-ups and conspiracies to bury the truth <BR></I><BR><B>28</B> Once and Future Psychos <BR><I>Considering the pathological factor</I> <BR><BR><B>29</B> Dark Genetics and the Nazis <BR><I>Has ancient evil come back to haunt us?</I> <BR><BR><B>30</B> The Trouble with Peer Review <BR><I>Are the authorities of science to be trusted?</I> <BR><BR><B>31</B> Twisting Wikipedia <BR><I>Slanting the facts on the online encyclopedia</I> <BR><BR><B>Ancient Doom</B> <BR><I>The end of civilizations past and present</I><BR><BR><B>32</B> Cosmic Collisions <BR><I>Science takes a new look at threats from space <BR></I><BR><B>33</B> Extinction Event <BR><I>New light on the mystery of the Younger Dryas <BR></I><BR><B>34</B> Fires of the Underworld<BR><I>What history can be found beneath the surface? </I><BR><BR><B>Stellar Dimensions </B><BR><I>How we might rediscover our history--and avoid destruction</I> <BR><BR><B>35</B> Archaeology from Space<BR><I>Could satellite imagery fill in the blanks of the Atlantis story?</I> <BR><BR><B>36</B> Paranormal Portals <BR><I>The role of special senses in the quest for lost knowledge <BR></I><BR><B>37</B> Tunneling through Time <BR><I>Could visitors from the past and future be here after all?</I> <BR><BR><B>38</B> Wheel of the Ages <BR><I>Is the story of Atlantis written in the stars?</I>]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;A great new addition to the world of ancient mysteries, opening a fascinating chapter in the mysteries of Atlantis.&rdquo;]]></Text>
+        <SourceTitle>Andrew Collins, author of G&#246;bekli Tepe: Genesis of the Gods</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;<I>Ghosts of Atlantis</I> introduces a thought-provoking sampling of Atlantean themes and their ramifications. With his inviting style, Kenyon explores Atlantis in popular culture and our subconscious, archaeological and scientific evidence for forgotten civilizations, religious implications, conspiracy theories, extraterrestrials, time travel, cosmic catastrophes, and much more. <I>Ghosts of Atlantis</I> provides numerous insights and a fascinating path to navigate through the Atlantis phenomena.&rdquo;]]></Text>
+        <SourceTitle>Robert M. Schoch, Ph.D., author of Forgotten Civilization</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Kenyon has a superior perspective on the history and progress of alternative viewpoints. <I>Ghosts of Atlantis</I> is a valuable and timely contribution to the field--it brilliantly elucidates how similar the fundamental ideological forces in the world play out, regardless of the period of time or culture we live in. Beautifully written.&rdquo;]]></Text>
+        <SourceTitle>Chris Dunn, author of Lost Technologies of Ancient Egypt</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;<I>Ghosts of Atlantis</I> takes the reader on a magical mystery tour through many of the great puzzles and enigmas of our world, expertly weaving them together into a cohesive and alternative picture of our most ancient past. A deeply thought-provoking compendium that updates and reenergizes this long-running debate and will surely keep alive the age-old question of humanity&rsquo;s lost past and its true origins. A tour de force that delivers a timely wake-up call to scientism in all its forms; a work that will surely be discussed and debated for many years to come.&rdquo;]]></Text>
+        <SourceTitle>Scott Creighton, author of The Great Pyramid Void Enigma</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Kenyon has written the widest-ranging, most comprehensive, and most convincing argument that a prehistoric civilization actually existed and was all but erased from human memory by a natural catastrophe. A must-read.&rdquo;]]></Text>
+        <SourceTitle>Gregory L. Little, Ed.D., coauthor of Denisovan Origins</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;No one handles the mysteries of protohistory more deftly than Doug Kenyon. He has done more than any single individual in recent time to uncover the secrets of planet Earth, once and for all dispelling the orthodox myth of a barbaric &lsquo;Stone Age.&rsquo; His new book is a magnificent synopsis of our knowledge of the advanced arts and sciences of lost civilizations.&rdquo;]]></Text>
+        <SourceTitle>Susan Martinez, Ph.D., author of The Mysterious Origins of Hybrid Man</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Skillful writing guides us smoothly through complex subjects toward an exciting place where mysticism and materialism might intersect to provide a greater understanding of the universe. An exciting book, wrapping deep subjects in a fascinating style that invites you to delve into the writer&rsquo;s intriguing multiverse vision.&rdquo;]]></Text>
+        <SourceTitle>Rand Flem-Ath, coauthor of Atlantis beneath the Ice</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Kenyon offers us a thorough, up-to-date survey of the current state of the world of alternative science. He&rsquo;s an accomplished researcher and author, as is convincingly demonstrated by this book. May the ghosts of Atlantis continue to haunt a world gone astray!&rdquo;]]></Text>
+        <SourceTitle>Michael A. Cremo, author of Forbidden Archeology</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Ghost of Atlantis is a fascinating read, integrating many threads of research. This book allows for hope--we&rsquo;ve collectively forgotten much wisdom, yet it&rsquo;s not too late to recognize our spiritual nature and choose to build a higher civilization.&rdquo;]]></Text>
+        <SourceTitle>Jeane Manning, author of The Coming Energy Revolution</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;A riveting read. Kenyon presents nonstop and impossible-to-ignore evidence for humanity&rsquo;s amnesia and offers compelling arguments for what lost memory means to humanity--we ignore the truth of the past at our peril.&rdquo;]]></Text>
+        <SourceTitle>Julie Loar, author of Goddesses for Every Day</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[&ldquo;Kenyon has an ability no one else has--to pull in the fullness of place, timeframe, story, and fact so a larger view emerges. Ghost of Atlantis is his capstone. This one book ties together how the many worlds of the past reveal the singular path we humans have taken since the beginnings of all beginnings. I give Doug a huge thank-you for what he has done in this incredible book.&rdquo;]]></Text>
+        <SourceTitle>P. M. H. Atwater, L.H.D., author of The Forever Angels</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA["J. Douglas Kenyon, former editor and publisher of <I>Atlantis Rising</I> magazine and the author and editor of several books, such as <I>Forbidden History</I> and <I>Forbidden Science</I>, sifts through the global evidence mixed with inexplicable clues that may suggest how once upon a time, long, long ago, there existed remarkable ancient civilizations that were destroyed by catastrophes. He explores the myths of Atlantis, Lemuria and other legends for their possible clues. He casts a wide net in his determined search for the forgotten truth of these ancient worlds and their inhabitants, from archaeological findings, referencing anomalous ancient maps and technology, to crystal science, and, alas, he even explores the possibilities of time travel and ET influences."]]></Text>
+        <SourceTitle>Brent Raynes, Alternate Perceptions Magazine</SourceTitle>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA["A crucial and topical thread running through this new book is how many researchers seeking genuine scientific advancement are thwarted by the reductionist-materialist paradigm of the establishment."]]></Text>
+        <SourceTitle>Geoff Ward, writer, poet, tutor and mentor in literature and creative writing</SourceTitle>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/2fdac4b2-7f58-4fc0-9fd9-ad2c00d6de47</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210518</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Inner Traditions Audio</IDTypeName>
+          <IDValue>SIMO616</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Inner Traditions Audio</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Inner Traditions Audio</IDTypeName>
+          <IDValue>SIMO616</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Inner Traditions/Bear &amp; Company</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210608</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210608</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&#169; 2021 by J. Douglas Kenyon. All Rights Reserved.<BR> (P)2021 Inner Traditions Audio. All Rights Reserved.]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+      <ROWSalesRightsType>00</ROWSalesRightsType>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>178862701</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210608</Date>
+        </SupplyDate>
+        <SupplyDate>
+          <SupplyDateRole>08</SupplyDateRole>
+          <Date dateformat="00">20210608</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>02</DiscountCodeType>
+            <DiscountCode>096</DiscountCode>
+          </DiscountCoded>
+          <PriceAmount>21.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781797123691</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797123696</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797123691</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797123691</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797123691</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <Collection>
+        <CollectionType>10</CollectionType>
+        <TitleDetail>
+          <TitleType>01</TitleType>
+          <TitleElement>
+            <TitleElementLevel>02</TitleElementLevel>
+            <TitleText>The Islanders</TitleText>
+          </TitleElement>
+        </TitleDetail>
+      </Collection>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitlePrefix>The</TitlePrefix>
+          <TitleWithoutPrefix>Islanders</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Mary Alice Monroe</PersonName>
+        <PersonNameInverted>Monroe, Mary Alice</PersonNameInverted>
+        <NamesBeforeKey>Mary Alice</NamesBeforeKey>
+        <KeyNames>Monroe</KeyNames>
+        <BiographicalNote><![CDATA[Mary Alice Monroe is the&nbsp;<i>New York Times</i>&nbsp;bestselling author of twenty-seven books, including her newest novel,&nbsp;<i>The Summer of Lost and Found</i>, and her first middle grade book,&nbsp;<i>The Islanders</i>. Monroe&rsquo;s books have been published worldwide.<i>&nbsp;</i>She&rsquo;s earned numerous accolades and awards, including: induction into the South Carolina Academy of Authors&rsquo; Hall of Fame; the Southwest Florida Author of Distinction Award; the South Carolina Award for Literary Excellence; the RT Lifetime Achievement Award; the International Book Award for Green Fiction; and the Southern Book Prize for Fiction. Her bestselling novel&nbsp;<i>The Beach House</i>&nbsp;is also a Hallmark Hall of Fame movie. She is the cofounder of the hit Web show and podcast&nbsp;<i>Friends &amp;&nbsp;Fiction</i>. An active conservationist, she lives in the Lowcountry of South Carolina. Visit her at MaryAliceMonroe.com and at Facebook.com/MaryAliceMonroe.]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>A02</ContributorRole>
+        <PersonName>Angela May</PersonName>
+        <PersonNameInverted>May, Angela</PersonNameInverted>
+        <NamesBeforeKey>Angela</NamesBeforeKey>
+        <KeyNames>May</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>3</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Michael Crouch</PersonName>
+        <PersonNameInverted>Crouch, Michael</PersonNameInverted>
+        <NamesBeforeKey>Michael</NamesBeforeKey>
+        <KeyNames>Crouch</KeyNames>
+      </Contributor>
+      <ContributorStatement>Mary Alice Monroe</ContributorStatement>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0072858</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV039060</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV029010</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>JUV002240</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>first in series; turtles; Dewees; South Carolina; summer reads; conservation; loggerhead; military; military families; Army; army families; Hallmark Channel; Hallmark movie; The Beach House; Summer Girls; environment; animal stories; ocean; dolphins; jellyfish; alligators; nesting grounds; nature preserve; animal activism; endangered species; Afghanistan;</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>02</AudienceCodeValue>
+      </Audience>
+      <AudienceRange>
+        <AudienceRangeQualifier>11</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>3</AudienceRangeValue>
+        <AudienceRangePrecision>04</AudienceRangePrecision>
+        <AudienceRangeValue>7</AudienceRangeValue>
+      </AudienceRange>
+      <AudienceRange>
+        <AudienceRangeQualifier>17</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>8</AudienceRangeValue>
+        <AudienceRangePrecision>04</AudienceRangePrecision>
+        <AudienceRangeValue>12</AudienceRangeValue>
+      </AudienceRange>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<b>From <i>New York Times</i> bestselling author Mary Alice Monroe comes a beautiful story of friendship, loss, and the healing power of nature in her first book for middle grade readers.</b><BR><BR>Eleven-year-old Jake&rsquo;s life has just turned upside-down. His father was wounded in Afghanistan, and his mother is going to leave to care for him. That means Jake&rsquo;s spending the summer on tiny Dewees Island with his grandmother. The island is a nature sanctuary&#8212;no cars or paved roads, no stores or restaurants. To make matters worse, Jake&rsquo;s grandmother doesn&rsquo;t believe in cable or the internet. Which means Jake has no cell phone, no video games...and no friends. This is going to be the worst summer ever!<BR> <BR>He&rsquo;s barely on the island before he befriends two other kids&#8212;Macon, another &ldquo;summer kid,&rdquo; and Lovie, know-it-all who lives there and shows both Jake and Macon the ropes of life on the island. All three are struggling with their own family issues and they quickly bond, going on adventures all over Dewees Island. Until one misadventure on an abandoned boat leads to community service. Their punishment? Mandatory duty on the Island Turtle Team. The kids must do a daily dawn patrol of the beach on the hunt for loggerhead sea turtle tracks. When a turtle nest is threatened by coyotes, the three friends must find a way to protect it. Can they save the turtle nest from predators? Can Jake&rsquo;s growing love for the island and its inhabitants (be they two-legged, four-legged, feathered, or finned) help to heal his father?]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[Mary Alice Monroe is the&nbsp;<i>New York Times</i>&nbsp;bestselling author of twenty-seven books, including her newest novel,&nbsp;<i>The Summer of Lost and Found</i>, and her first middle grade book,&nbsp;<i>The Islanders</i>. Monroe&rsquo;s books have been published worldwide.<i>&nbsp;</i>She&rsquo;s earned numerous accolades and awards, including: induction into the South Carolina Academy of Authors&rsquo; Hall of Fame; the Southwest Florida Author of Distinction Award; the South Carolina Award for Literary Excellence; the RT Lifetime Achievement Award; the International Book Award for Green Fiction; and the Southern Book Prize for Fiction. Her bestselling novel&nbsp;<i>The Beach House</i>&nbsp;is also a Hallmark Hall of Fame movie. She is the cofounder of the hit Web show and podcast&nbsp;<i>Friends &amp;&nbsp;Fiction</i>. An active conservationist, she lives in the Lowcountry of South Carolina. Visit her at MaryAliceMonroe.com and at Facebook.com/MaryAliceMonroe.]]></Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/16aab60f-acac-449b-a715-ac49002bfb32</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210615</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210615</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&copy;2021 Mary Alice Monroe. All rights reserved.<BR /> &#160;(P)2021 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>138089032</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210615</Date>
+        </SupplyDate>
+        <SupplyDate>
+          <SupplyDateRole>08</SupplyDateRole>
+          <Date dateformat="00">20210524</Date>
+        </SupplyDate>
+        <PackQuantity>44</PackQuantity>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>02</DiscountCodeType>
+            <DiscountCode>096</DiscountCode>
+          </DiscountCoded>
+          <PriceAmount>17.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781797126296</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797126296</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797126296</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797126296</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797126296</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormFeature>
+        <ProductFormFeatureType>09</ProductFormFeatureType>
+        <ProductFormFeatureValue>10</ProductFormFeatureValue>
+        <ProductFormFeatureDescription>PREVIEW_PERMITTED_01</ProductFormFeatureDescription>
+      </ProductFormFeature>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <NoCollection/>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText>Changes</TitleText>
+          <Subtitle>An Oral History of Tupac Shakur</Subtitle>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Sheldon Pearce</PersonName>
+        <PersonNameInverted>Pearce, Sheldon</PersonNameInverted>
+        <NamesBeforeKey>Sheldon</NamesBeforeKey>
+        <KeyNames>Pearce</KeyNames>
+        <BiographicalNote><![CDATA[Sheldon Pearce is the music writer and editor for <i>The New Yorker</i>. Previously, he was a contributing writer at <i>Pitchfork</i>. He has worked for NPR Music, and his writing has appeared in <i>The</i> <i>Guardian</i>, <i>Rolling Stone</i>, <i>The Fader</i>, <i>Spin</i>, <i>Dazed</i>, <i>Complex</i>, <i>Deadspin</i>, and others.]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Ashton Grooms</PersonName>
+        <PersonNameInverted>Grooms, Ashton</PersonNameInverted>
+        <NamesBeforeKey>Ashton</NamesBeforeKey>
+        <KeyNames>Grooms</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>3</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Aden Hakimi</PersonName>
+        <PersonNameInverted>Hakimi, Aden</PersonNameInverted>
+        <NamesBeforeKey>Aden</NamesBeforeKey>
+        <KeyNames>Hakimi</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>4</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Cary Hite</PersonName>
+        <PersonNameInverted>Hite, Cary</PersonNameInverted>
+        <NamesBeforeKey>Cary</NamesBeforeKey>
+        <KeyNames>Hite</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>5</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>JD Jackson</PersonName>
+        <PersonNameInverted>Jackson, JD</PersonNameInverted>
+        <NamesBeforeKey>JD</NamesBeforeKey>
+        <KeyNames>Jackson</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>6</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Guy Lockard</PersonName>
+        <PersonNameInverted>Lockard, Guy</PersonNameInverted>
+        <NamesBeforeKey>Guy</NamesBeforeKey>
+        <KeyNames>Lockard</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>7</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Robin Miles</PersonName>
+        <PersonNameInverted>Miles, Robin</PersonNameInverted>
+        <NamesBeforeKey>Robin</NamesBeforeKey>
+        <KeyNames>Miles</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>8</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Leon Nixon</PersonName>
+        <PersonNameInverted>Nixon, Leon</PersonNameInverted>
+        <NamesBeforeKey>Leon</NamesBeforeKey>
+        <KeyNames>Nixon</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>9</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Fred Sanders</PersonName>
+        <PersonNameInverted>Sanders, Fred</PersonNameInverted>
+        <NamesBeforeKey>Fred</NamesBeforeKey>
+        <KeyNames>Sanders</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>10</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Jackie Sanders</PersonName>
+        <PersonNameInverted>Sanders, Jackie</PersonNameInverted>
+        <NamesBeforeKey>Jackie</NamesBeforeKey>
+        <KeyNames>Sanders</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>11</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Heather Alicia Simms</PersonName>
+        <PersonNameInverted>Simms, Heather Alicia</PersonNameInverted>
+        <NamesBeforeKey>Heather Alicia</NamesBeforeKey>
+        <KeyNames>Simms</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>12</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Pete Simonelli</PersonName>
+        <PersonNameInverted>Simonelli, Pete</PersonNameInverted>
+        <NamesBeforeKey>Pete</NamesBeforeKey>
+        <KeyNames>Simonelli</KeyNames>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>13</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Landon Woodson</PersonName>
+        <PersonNameInverted>Woodson, Landon</PersonNameInverted>
+        <NamesBeforeKey>Landon</NamesBeforeKey>
+        <KeyNames>Woodson</KeyNames>
+      </Contributor>
+      <ContributorStatement>Sheldon Pearce</ContributorStatement>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0073618</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>BIO004000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>BIO005000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>MUS031000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Books about Tupac; Snoop Dogg; Dr. Dre; Suge Knight; Puff Daddy; Biggie Smalls; Digital Underground; Poetic Justice; Juice; Above the Rim; protest; police brutality; Black Panthers; Afeni Shakur; George Floyd; shooting; murder; sexual assault; prison; Maya Angelou; Brenda’s Got a Baby; Holler If Ya Hear Me; Death Row Records; California Love; Digital Underground; Changes; Pitchfork; Chuck D; Ernest Dickerson; oral history books; Dear Mama; Keep Ya Head Up; I Get Around; Hit ‘Em Up;</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<b>A <i>New Yorker</i> writer&rsquo;s intimate, revealing account of Tupac Shakur&rsquo;s life and legacy, timed to the fiftieth anniversary of his birth and twenty-fifth anniversary of his death.</b><BR><BR>In the summer of 2020, Tupac Shakur&rsquo;s single &ldquo;Changes&rdquo; became an anthem for the worldwide protests against the murder of George Floyd. The song became so popular, in fact, it was vaulted back onto the iTunes charts more than twenty years after its release&#8212;making it clear that Tupac&rsquo;s music and the way it addresses systemic racism, police brutality, mass incarceration, income inequality, and a failing education system is just as important now as it was back then.<BR> <BR>In <i>Changes</i>, published to coincide with the fiftieth anniversary of Tupac&rsquo;s birth and twenty-fifth anniversary of his death, Sheldon Pearce offers one of the most thoughtful and comprehensive accounts yet of the artist&rsquo;s life and legacy. Pearce, an editor and writer at <i>The New Yorker</i>, interviews dozens who knew Tupac throughout various phases of his life. While there are plenty of bold-faced names, the book focuses on the individuals who are lesser known and offer fresh stories and rare insight. Among these are the actor who costarred with him in a Harlem production of <i>A Raisin in the Sun </i>when he was twelve years old, the high school drama teacher who recognized and nurtured his talent, the music industry veteran who helped him develop a nonprofit devoted to helping young artists, the Death Row Records executive who has never before spoken on the record, and dozens of others. Meticulously woven together by Pearce, their voices combine to portray Tupac in all his complexity and contradiction.<BR> <BR>This remarkable book illustrates not only how he changed during his brief twenty-five years on this planet, but how he forever changed the world.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[Sheldon Pearce is the music writer and editor for <i>The New Yorker</i>. Previously, he was a contributing writer at <i>Pitchfork</i>. He has worked for NPR Music, and his writing has appeared in <i>The</i> <i>Guardian</i>, <i>Rolling Stone</i>, <i>The Fader</i>, <i>Spin</i>, <i>Dazed</i>, <i>Complex</i>, <i>Deadspin</i>, and others.]]></Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/81343a3b-8b72-40ce-ae08-ac73003bf849</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210608</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210608</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&copy;2021 Sheldon Pearce. All rights reserved.<BR /> (P)2021 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>178744527</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210608</Date>
+        </SupplyDate>
+        <SupplyDate>
+          <SupplyDateRole>08</SupplyDateRole>
+          <Date dateformat="00">20210517</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>02</DiscountCodeType>
+            <DiscountCode>096</DiscountCode>
+          </DiscountCoded>
+          <PriceAmount>19.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+  <Product>
+    <RecordReference>9781797131559</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797131559</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797131559</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797131559</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797131559</IDValue>
+    </ProductIdentifier>
+    <Barcode>
+      <BarcodeType>00</BarcodeType>
+    </Barcode>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>AJ</ProductForm>
+      <ProductFormFeature>
+        <ProductFormFeatureType>09</ProductFormFeatureType>
+        <ProductFormFeatureValue>10</ProductFormFeatureValue>
+        <ProductFormFeatureDescription>PREVIEW_PERMITTED_01</ProductFormFeatureDescription>
+      </ProductFormFeature>
+      <ProductFormDescription>eAudio</ProductFormDescription>
+      <PrimaryContentType>01</PrimaryContentType>
+      <NoCollection/>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitlePrefix>The</TitlePrefix>
+          <TitleWithoutPrefix>Afrominimalist&#39;s Guide to Living with Less</TitleWithoutPrefix>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <PersonName>Christine Platt</PersonName>
+        <PersonNameInverted>Platt, Christine</PersonNameInverted>
+        <NamesBeforeKey>Christine</NamesBeforeKey>
+        <KeyNames>Platt</KeyNames>
+        <BiographicalNote><![CDATA[Christine Platt is a modern-day Renaissance woman. From serving as an advocate for policy reform to using the power of storytelling as a tool for social change, Christine&rsquo;s work reflects her practice of living with intention. She holds a BA&nbsp;in Africana Studies, MA&nbsp;in African-American Studies, and a JD&nbsp;in General Law. Christine has written over two dozen literary works for people of all ages. When she&rsquo;s not writing, Christine spends her time curating <i>The Afrominimalist</i>&mdash;a creative platform chronicling her journey to minimalism. Visit her online at TheAfrominimalist.com.]]></BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>E07</ContributorRole>
+        <PersonName>Christine Platt</PersonName>
+        <PersonNameInverted>Platt, Christine</PersonNameInverted>
+        <NamesBeforeKey>Christine</NamesBeforeKey>
+        <KeyNames>Platt</KeyNames>
+        <BiographicalNote><![CDATA[Christine Platt is a modern-day Renaissance woman. From serving as an advocate for policy reform to using the power of storytelling as a tool for social change, Christine&rsquo;s work reflects her practice of living with intention. She holds a BA&nbsp;in Africana Studies, MA&nbsp;in African-American Studies, and a JD&nbsp;in General Law. Christine has written over two dozen literary works for people of all ages. When she&rsquo;s not writing, Christine spends her time curating <i>The Afrominimalist</i>&mdash;a creative platform chronicling her journey to minimalism. Visit her online at TheAfrominimalist.com.]]></BiographicalNote>
+      </Contributor>
+      <ContributorStatement>Christine Platt</ContributorStatement>
+      <EditionType>UBR</EditionType>
+      <EditionStatement>Unabridged</EditionStatement>
+      <Language>
+        <LanguageRole>01</LanguageRole>
+        <LanguageCode>eng</LanguageCode>
+      </Language>
+      <Extent>
+        <ExtentType>09</ExtentType>
+        <ExtentValue>0053541</ExtentValue>
+        <ExtentUnit>16</ExtentUnit>
+      </Extent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>HOM019000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>SEL016000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectCode>HOM022000</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+        <SubjectHeadingText>Minimalism;marie kondo;interior design;organization;Book;living;home;tiny house;Self care;self help;self improvement;personal development;Lifestyle;Inspiration;indfulness;intentional;happiness;motivation;women;hoarding;joy;anxiety;Cleaning;decorating;decor;Feng shui;home;essentialism;declutter;clutter;hygge;kon marie;simple;downsizing;homeowner;apartment;Black;African American;Author;heritage;ancestor;traditional;Tidying up;death cleaning;Goodbye things;Joshua becker;Minimalist home;joy of less;</SubjectHeadingText>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>01</AudienceCodeValue>
+      </Audience>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[<b>Forget the aesthetics of mainstream minimalism and discover a life of authenticity and intention with this practical guide to living with less&hellip;your way.</b><BR><BR>When Christine Platt set out on her journey to live with less, she never intended to become The Afrominimalist. She just wanted to tame the chaos in her closet! But after struggling with the austerity and whiteness of mainstream minimalism, Christine realized why minimalism often seems unattainable for so many: the emphasis on all-white, barren aesthetics distracts from the practice of living with intention. And so, she decided to do things <i>her way</i> by curating a life of less influenced by the African diaspora.<BR> <BR>In <i>The Afrominimalist&rsquo;s Guide to Living With Less</i>, Christine gets right to the heart of how childhood experiences and expectations manifest in adulthood, the delicate dance between needs and wants, and the complicated weight of familial and societal pressures. A far cry from Konmaried closets, capsule wardrobes, and conspicuous consumption, Christine&rsquo;s brand of &ldquo;living with less&rdquo; is more than a decluttering regimen. Inspired by her personal journey, Christine presents a radical revisioning of minimalism, one that celebrates the importance of history and heritage, and gives you permission to make space for what really matters&hellip;your way. <BR> <BR>Beautifully illustrated with original black-and-white prints and line drawings, <i>The Afrominimalist&rsquo;s Guide to Living With Less</i> is a testament to the idea that anyone can be a minimalist and a warm invitation to a life curated with intention, perfect for readers of Joshua Fields Millburn and Ryan Nicodemus (The Minimalists), Marie Kondo, Joshua Becker, and Courtney Carver.]]></Text>
+      </TextContent>
+      <TextContent>
+        <TextType>12</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02"><![CDATA[Christine Platt is a modern-day Renaissance woman. From serving as an advocate for policy reform to using the power of storytelling as a tool for social change, Christine&rsquo;s work reflects her practice of living with intention. She holds a BA&nbsp;in Africana Studies, MA&nbsp;in African-American Studies, and a JD&nbsp;in General Law. Christine has written over two dozen literary works for people of all ages. When she&rsquo;s not writing, Christine spends her time curating <i>The Afrominimalist</i>&mdash;a creative platform chronicling her journey to minimalism. Visit her online at TheAfrominimalist.com.]]></Text>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>01</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>http://cloud.firebrandtech.com/api/v2/hostedcover/16cb2bd7-f98f-4c9c-9a9b-acce003d3369</ResourceLink>
+          <ContentDate>
+            <ContentDateRole>17</ContentDateRole>
+            <Date dateformat="00">20210528</Date>
+          </ContentDate>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintIdentifier>
+          <ImprintIDType>01</ImprintIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </ImprintIdentifier>
+        <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherIdentifier>
+          <PublisherIDType>01</PublisherIDType>
+          <IDTypeName>Simon &amp; Schuster Audio</IDTypeName>
+          <IDValue>SIMO282</IDValue>
+        </PublisherIdentifier>
+        <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+      </Publisher>
+      <PublishingStatus>02</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date dateformat="00">20210615</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>02</PublishingDateRole>
+        <Date dateformat="00">20210615</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2021</CopyrightYear>
+        <CopyrightOwner>
+          <PersonName><![CDATA[&copy;2021 Christine Platt. All rights reserved.<BR /> (P)2021 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+        </CopyrightOwner>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDValue>177477794</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>00</SupplierRole>
+          <SupplierName>Simon &amp; Schuster</SupplierName>
+        </Supplier>
+        <ReturnsConditions>
+          <ReturnsCodeType>02</ReturnsCodeType>
+          <ReturnsCode>N</ReturnsCode>
+        </ReturnsConditions>
+        <ProductAvailability>10</ProductAvailability>
+        <SupplyDate>
+          <SupplyDateRole>02</SupplyDateRole>
+          <Date dateformat="00">20210615</Date>
+        </SupplyDate>
+        <SupplyDate>
+          <SupplyDateRole>08</SupplyDateRole>
+          <Date dateformat="00">20210524</Date>
+        </SupplyDate>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>02</DiscountCodeType>
+            <DiscountCode>096</DiscountCode>
+          </DiscountCoded>
+          <PriceAmount>17.99</PriceAmount>
+          <CurrencyCode>USD</CurrencyCode>
+          <PriceDate>
+            <PriceDateRole>14</PriceDateRole>
+            <Date dateformat="00">20210528</Date>
+          </PriceDate>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>
+</ONIXMessage>

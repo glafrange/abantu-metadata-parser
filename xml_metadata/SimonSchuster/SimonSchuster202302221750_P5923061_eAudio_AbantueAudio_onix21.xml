@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230222</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398500655</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398500658</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398500655</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398500655</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398500655</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>More Perfect</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>101034128</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Temi Oh</PersonName>
+      <PersonNameInverted>Oh, Temi</PersonNameInverted>
+      <NamesBeforeKey>Temi</NamesBeforeKey>
+      <KeyNames>Oh</KeyNames>
+      <BiographicalNote><![CDATA[Temi Oh graduated from King&rsquo;s College London in 2015 with a BSci in Neuroscience. While at KCL, Temi founded and ran a book club called &ldquo;Neuroscience-fiction&rdquo;, where she led discussions about science fiction books which focus on the brain. In 2016, she received an MA in creative writing from the University of Edinburgh.]]></BiographicalNote>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <BASICMainSubject>FIC028000</BASICMainSubject>
+    <BICMainSubject>FL</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>FDM</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>FLP</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>FLPB</SubjectCode>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<P><B>&#39;A spectacular exploration of the power of technology. Upon finishing the final page I was left breathless and bereft. A feat of creativity, written with great heart, this is science fiction at its best&#39; Saara El-Arifi, Sunday Times bestselling author of <I>The Final Strife</I></B><BR /><BR /><B><I>&quot;What does it feel like to wake up in the Panopticon? It&rsquo;s like waking up for the first time ever. It&rsquo;s like waking up with a third eye.&quot;</I></B></P><P> When<B> Moremi</B> connects her brain to the Panopticon, a network which allows you to see inside the minds and dreams of others, she believes that it&#160;will save her from depression, loneliness and, eventually, death. That is until she meets Orpheus.&#160; </P><P><B>Orpheus </B>was brought up in isolation by a Neo-luddite father. He was raised to question everything, including the government who plan to make the connection procedure compulsory.&#160; </P><P> They promise that connecting everyone to the Panopticon will end human suffering and usher in a more perfect world. But when Orpheus and Moremi uncover the dark side of the technology, they find themselves on opposite sides of a radical divide, between those who believe that the Panopticon will save humanity, and those who will stop at nothing to destroy it. </P><P><B><I>More Perfect is The Circle</I> meets<I> Inception</I> in an immersive and futuristic story that explores love, loneliness and the limits of technology&rsquo;s ability to save a humanity who might not want to be saved.&#160;</B></P><BR /> &#160;<B>Praise for Temi Oh&#160;</B><BR /><BR /> &#39;A major new voice.&#160; Read Temi Oh today. Everybody will be reading her tomorrow&#39; <B>Stephen Baxter, author of&#160;<I>World Engines</I></B><BR /><BR /> &#39;An ambitious 500-page coming-of-age&#160;blockbuster&#160;. . .Oh is excellent at portraying the&#160;aching sense of loss&#160;on a one-way trip to the stars&#39;&#160;<B><I>Guardian</I></B><BR /><BR /> &#39;A&#160;tightly wound,&#160;emotional epic&#160;that asks important questions . . . This novel is a&#160;brilliant,&#160;beautiful debut.&#160;Reading it will change your heart&#39;&#160; <B>Christian Kiefer, author of&#160;<I>Phantoms</I></B><BR /> &#160;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/432699dd-da7a-49af-9cd5-afb10123ae11</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230525</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <OnSaleDate>20230525</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

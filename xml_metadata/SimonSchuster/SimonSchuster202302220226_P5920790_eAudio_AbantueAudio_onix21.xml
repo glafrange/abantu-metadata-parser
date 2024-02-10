@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230222</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398522565</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398522562</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398522565</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398522565</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398522565</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Passion of Private White</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Passion of Private White</TitleWithoutPrefix>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>168751694</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Don Watson</PersonName>
+      <PersonNameInverted>Watson, Don</PersonNameInverted>
+      <NamesBeforeKey>Don</NamesBeforeKey>
+      <KeyNames>Watson</KeyNames>
+      <BiographicalNote><![CDATA[<DIV>&#160;Don Watson&#39;s bestselling titles include&#160;<I>Recollections of a Bleeding Heart: Paul Keating Prime Minister</I>,&#160;<I>Death Sentence </I>and&#160;<I>The Bush</I>, which won the Indie Book of the Year and the NSW Premier&#39;s Literary Award. An acclaimed speechwriter and screenwriter, he is also beloved for his columns and essays on Australian and American politics.<BR />&#160;</DIV>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Don Watson</PersonName>
+      <PersonNameInverted>Watson, Don</PersonNameInverted>
+      <NamesBeforeKey>Don</NamesBeforeKey>
+      <KeyNames>Watson</KeyNames>
+      <BiographicalNote><![CDATA[<DIV>&#160;Don Watson&#39;s bestselling titles include&#160;<I>Recollections of a Bleeding Heart: Paul Keating Prime Minister</I>,&#160;<I>Death Sentence </I>and&#160;<I>The Bush</I>, which won the Indie Book of the Year and the NSW Premier&#39;s Literary Award. An acclaimed speechwriter and screenwriter, he is also beloved for his columns and essays on Australian and American politics.<BR />&#160;</DIV>]]></BiographicalNote>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0091738</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO000000</BASICMainSubject>
+    <BICMainSubject>BG</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Don Watson; The Passion of Private White; Australia; Neville White; Australian Aboriginal History; First Nations; colonisation; anthropology; white settlement; outback; Arnhem Land; Aboriginal tribes; clans; Vietnam veterans; war; PTSD; post traumatic stress disorder; resilience; Indigenous Studies; Paul Keating; Redfern Speech; Weasel Words; Chloe Hooper; The Tall Man; Dark Emu; Bruce Pascoe; The Biggest Estate on Earth; Bill Gammage; Paul Ham</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[The story of a fifty-year relationship between a Vietnam veteran and a remote Aboriginal tribe: a miniature epic of human adaptation, suffering and resilience.<BR><BR><I>The Passion of Private White</I> describes the meeting of two worlds: the world of the fiercely driven biologist and anthropologist Neville White, and the world of the hunter-gatherer clans of remote northern Australia he studied and lived with. As White tried to understand the world as it was understood on the other side of the vast cultural divide, he was also trying to transcend the mental scars he suffered on the battlefields of Vietnam. The clans had their own injuries to deal with, as they tried to adapt to modernity, live down their losses and yet hold onto their ancient lands, customs, laws and language.<BR><BR> Over five decades, White mapped in astonishing detail the culture and history of the Yolgnu clans at Donydji in north-east Arnhem Land. But eventually presence meant involvement, and White became advocate more than anthropologist in the clan&rsquo;s struggle to survive when everything &ndash; from the ambitions of mining companies and a zombie bureaucracy, to feuds, sorcery and magic, despair and dysfunction &ndash; conspired to destroy them.<BR><BR> And the fifty-year endeavour served another purpose for White and the members of his old platoon he took there. Working to help the community at Donydji became a kind of antidote for the psychic wounds of Vietnam. While for the clans, from the old warriors to the children, their fanatical benefactor offered a few rays of meaning and hope. There was no cure in this meeting of two worlds, both suffering their own form of PTSD, but they helped each other survive.<BR> This is a miniature epic of human adaptation, suffering and resilience, an astonishing window into both our recent and our deep history, the coloniser and colonised &ndash; indeed into the human condition itself.<BR> &#160;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/069f17a3-c283-447a-802a-af8e0034ca6b</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230316</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2022</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[<DIV> &copy; 2022 Don Watson. All rights reserved. (P) 2022 Simon &amp; Schuster Australia. All rights reserved. </DIV>]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AL AM AQ AR AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MK ML MM MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PF PG PK PL PM PN PS PT PY QA RE RO RS RU RW SA SB SC SD SE SH SI SJ SK SL SM SN SO SR ST SV SY SZ TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <OnSaleDate>20230316</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797150949</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797150944</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797150949</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797150949</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797150949</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Generations</TitleText>
+      <TitlePrefix>The</TitlePrefix>
+      <TitleWithoutPrefix>Generations</TitleWithoutPrefix>
+      <Subtitle>The Real Differences between Gen Z, Millennials, Gen X, Boomers, and Silents—and What They Mean for America&#39;s Future</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>182928872</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Jean M. Twenge</PersonName>
+      <PersonNameInverted>Twenge, Jean M.</PersonNameInverted>
+      <NamesBeforeKey>Jean M.</NamesBeforeKey>
+      <KeyNames>Twenge</KeyNames>
+      <LettersAfterNames>PhD</LettersAfterNames>
+      <BiographicalNote><![CDATA[Jean M. Twenge, PhD, a professor of psychology at San Diego State University, is the author of more than a hundred scientific publications and several books based on her research, including <I>Generations</I>, <I>iGen</I>, and <I>Generation Me</I>. Her research has been covered in <I>Time</I>, <I>The Atlantic,</I> <I>Newsweek</I>, <I>The New York Times</I>, <I>USA TODAY</I>, and <I>The Washington Post</I>. She has also been featured on <I>Today</I>, <I>Good Morning America</I>, <I>Fox and Friends</I>, CBS <I>This Morning</I>, and NPR. She lives in San Diego with her husband and three daughters.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Madeleine Maby</PersonName>
+      <PersonNameInverted>Maby, Madeleine</PersonNameInverted>
+      <NamesBeforeKey>Madeleine</NamesBeforeKey>
+      <KeyNames>Maby</KeyNames>
+    </Contributor>
+    <ContributorStatement>Jean M. Twenge PhD</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0164924</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>SOC006000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>SOC024000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>SOC002000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Gen X; baby boomers; Greatest Generations; Silents; Gen Z; reality bites; millenials; generation gap; millenials vs boomers; okay boomer; generational conflict; old people; young people; millennial parents; generation x; generation y; generation z; kids and technology; generation me; iGen; iPhone kids; Social media; mental health; Atlantic smartphone article; smartphone; post-millennial; depression and teens; smartphones and teens; smartphone dangers; parenting and technology; generation after millennials; generation me; the narcissism epidemic; generation gap; the generation myth; a generation of sociopaths; generation of change; the trayvon generation; generation z unfiltered; tiktok; so the next generation will know; american culture; american society</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>A groundbreaking, revelatory portrait of the six generations that currently live in the United States and how they connect, conflict, and compete with one another&#8212;from the acclaimed author of <I>Generation Me </I>and <I>iGen.</I></B><BR><BR>The United States is currently home to six generations of people:<BR> <BR> -the Silents, born 1925&#8211;1945<BR> -Baby Boomers, born 1946&#8211;1964<BR> -Gen X, born 1965&#8211;1979<BR> -Millennials, born 1980&#8211;1994<BR> -Gen Z, born 1995&#8211;2012<BR> -and the still-to-be-named cohorts born after 2012.<BR> <BR> They have had vastly different life experiences and thus, one assumes, they must have vastly diverging beliefs and behaviors. But what are those differences, what causes them, and how deep do they actually run?<BR> <BR> Professor of psychology and &ldquo;reigning expert on generational change&rdquo; (Lisa Wade, PhD, author of <i>American Hookup</i>), Jean Twenge does a deep dive into a treasure trove of long-running, government-funded surveys and databases to answer these questions. Are we truly defined by major historical events, such as the Great Depression for the Silents and September 11 for Millennials? Or, as Twenge argues, is it the rapid evolution of technology that differentiates the generations?<BR> <BR> With her clear-eyed and insightful voice, Twenge explores what the Silents and Boomers want out of the rest of their lives; how Gen X-ers are facing middle age; the ideals of Millennials as parents and in the workplace; and how Gen Z has been changed by COVID, among other fascinating topics.<BR> <BR> Surprising, engaging, and informative, <i>Generations</i> will forever change the way you view your parents, peers, coworkers, and children, no matter which generation you call your own.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Jean M. Twenge, PhD, a professor of psychology at San Diego State University, is the author of more than a hundred scientific publications and several books based on her research, including <I>Generations</I>, <I>iGen</I>, and <I>Generation Me</I>. Her research has been covered in <I>Time</I>, <I>The Atlantic,</I> <I>Newsweek</I>, <I>The New York Times</I>, <I>USA TODAY</I>, and <I>The Washington Post</I>. She has also been featured on <I>Today</I>, <I>Good Morning America</I>, <I>Fox and Friends</I>, CBS <I>This Morning</I>, and NPR. She lives in San Diego with her husband and three daughters.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/4c4888a1-c7ad-4512-8335-aeb1002c1806</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230425</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230403</ExpectedShipDate>
+      <OnSaleDate>20230425</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>29.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797151465</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797151460</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797151465</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797151465</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797151465</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Thrillville, USA</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>172805573</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Taylor Koekkoek</PersonName>
+      <PersonNameInverted>Koekkoek, Taylor</PersonNameInverted>
+      <NamesBeforeKey>Taylor</NamesBeforeKey>
+      <KeyNames>Koekkoek</KeyNames>
+      <BiographicalNote><![CDATA[Taylor Koekkoek received his MFA from Johns Hopkins University and was a Carol Houck Smith Fiction Fellow at the University of Wisconsin, Madison. His work has been supported by the Bread Loaf Writer&rsquo;s Conference and Oregon Literary Arts, and has appeared in&nbsp;<I>The </I><I>Paris Review</I>,&nbsp;<I>Tin House</I>, <I>Glimmer Train</I>,&nbsp;<I>Ploughshares</I>,&nbsp;<I>The Iowa Review</I>, and elsewhere.&nbsp;He lives in Portland, Oregon.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Stephen Graybill</PersonName>
+      <PersonNameInverted>Graybill, Stephen</PersonNameInverted>
+      <NamesBeforeKey>Stephen</NamesBeforeKey>
+      <KeyNames>Graybill</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>3</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Lisa Larsen</PersonName>
+      <PersonNameInverted>Larsen, Lisa</PersonNameInverted>
+      <NamesBeforeKey>Lisa</NamesBeforeKey>
+      <KeyNames>Larsen</KeyNames>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>4</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Andr&#233; Santana</PersonName>
+      <PersonNameInverted>Santana, Andr&#233;</PersonNameInverted>
+      <NamesBeforeKey>Andr&#233;</NamesBeforeKey>
+      <KeyNames>Santana</KeyNames>
+    </Contributor>
+    <ContributorStatement>Taylor Koekkoek</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0063514</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC029000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC066000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC019000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>stories; short story; Ernest Hemingway; Charles Bukowski; Jack Kerouac; Denis Johnson; Mary Gaitskill; Adam Johnson; Wells Tower; Jesus&#39; Son; On the Road; drugs; drug addiction; opioids; fentanyl; alcoholism; rehab; alienation; malaise; road trip; Portland; Oregon; Los Angeles: California; Seattle; Washington; The Paris Review; Tin House; Ploughshares; The Iowa Review; Johns Hopkins University; University of Wisconsin-Madison;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>A raw and remarkable debut story collection concerning substance abuse, societal alienation, and doomed romance from a writer whose work has appeared in prestigious literary journals including <I>The Paris Review</I>.</B><BR><BR>An amusement park employee overdoses after eating the gel of a fentanyl patch. Two homeless men discover the body of a drowned woman. A sister encounters a dangerous stranger while driving her brother to rehab. Ex-lovers seek to rekindle their relationship with the aid of an earthquake.<BR> <BR>In the nine masterful stories that comprise <I>Thrillville, USA</I>, debut author Taylor Koekkoek depicts Americans living on the margins of society, seeking escape from isolation and underemployment in drugs, booze, and self-destructive relationships. While the action is set largely in the rural Pacific Northwest, the characters&rsquo; malaise and disaffectedness is endemic of the country as a whole. The title takes its name from the aforementioned amusement park, but Thrillville is as much a state of mind as an actual place&#8212;a sardonic commentary on contemporary America consumed by opioid addiction, social media obsession, wealth inequality and political polarization.<BR> <BR>Yet as haunting as these stories are, they are not hopeless. Gorgeously written, they share a transcendental quality&#8212;an acknowledgment of and appreciation for the beauty in all things, even the most profane and grotesque.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Taylor Koekkoek received his MFA from Johns Hopkins University and was a Carol Houck Smith Fiction Fellow at the University of Wisconsin, Madison. His work has been supported by the Bread Loaf Writer&rsquo;s Conference and Oregon Literary Arts, and has appeared in&nbsp;<I>The </I><I>Paris Review</I>,&nbsp;<I>Tin House</I>, <I>Glimmer Train</I>,&nbsp;<I>Ploughshares</I>,&nbsp;<I>The Iowa Review</I>, and elsewhere.&nbsp;He lives in Portland, Oregon.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/d56856db-8b0b-439c-8fd6-aeb1002c1bfe</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230321</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Taylor Koekkoek. All rights reserved.<BR /> The following stories were previously published: &ldquo;Dirtnap&rdquo; in the <I>Paris Review</I>; &ldquo;Thrillville, USA&rdquo; in <I>Glimmer Train</I>; &ldquo;The Drowned Woman&rdquo; in <I>Witness</I>; &ldquo;The Wedding Party&rdquo; in the <I>Iowa Review</I>; &ldquo;Emergency Maneuvers&rdquo; in <I>Ploughshares</I>; and &ldquo;The Flight Instructor&rdquo; in the <I>Southampton Review</I>.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230227</ExpectedShipDate>
+      <OnSaleDate>20230321</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>17.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797153032</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>179715303X</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797153032</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797153032</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797153032</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Wolf Trap</TitleText>
+      <Subtitle>A Thriller</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>176997769</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Connor Sullivan</PersonName>
+      <PersonNameInverted>Sullivan, Connor</PersonNameInverted>
+      <NamesBeforeKey>Connor</NamesBeforeKey>
+      <KeyNames>Sullivan</KeyNames>
+      <BiographicalNote><![CDATA[Connor Sullivan, the acclaimed author of <i>Sleeping Bear</i>,&nbsp;attended the University of Southern California, where he was the recipient of the Edward W. Moses Award for Creative Writing. During college, he worked for Warner Brothers reading screenplays before relocating with his family to the Gallatin Valley in Montana.&nbsp;<i>Wolf Trap </i>is his second novel. Visit his website at ConnorSullivanAuthor.com.&nbsp;]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Will Damron</PersonName>
+      <PersonNameInverted>Damron, Will</PersonNameInverted>
+      <NamesBeforeKey>Will</NamesBeforeKey>
+      <KeyNames>Damron</KeyNames>
+    </Contributor>
+    <ContributorStatement>Connor Sullivan</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0155030</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC006000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC031060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC030000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>wolf trap sullivan; new connor sullivan; sleeping bear thriller; kyle mills; vince Flynn; jack carr; best debut thrillers; best new thrillers; authors like mark sullivan; mark sullivan author; beneath a scarlet sky; the last green valley; the purification ceremony; the second woman; writers like vince flynn; writers like brad thor; writers like jason matthews; writers like chris hauty; writers like jack carr; books like red war; books like spymaster; books like red sparrow; books like deep state; books like terminal list; espionage thrillers; Saudi Arabia; Montana; Jamal Khashoggi; Jamal Khashoggi murder; paramilitary; cover missions; deep cover; special mission units; covert agents; secret agents; tess Gerritsen; Gregg Hurwitz; chris hauty; Hayley chill; Hayley chill thrillers; brad thor; clive Cussler; Jason bourne;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<b>&ldquo;A must-read thriller from a brilliant new talent in the genre.&rdquo; &#8212;Jack Carr, #1 <i>New York Times</i> bestselling author</b><BR> <BR><b>This &ldquo;adrenaline rush of a novel&rdquo; (Lisa Gardner, #1 <i>New York Times</i> bestselling author) follows </b><b>a shadow operative in the midst of a conspiracy with worldwide implications from the author of the &ldquo;fast-paced international thriller&rdquo; (<i>New York Journal of Books</i>) <i>Sleeping Bear</i>.</b><BR><BR>Set a trap&hellip; See who comes.<BR> <BR>Under the direction of the Special Activities Center in the Operations Directorate of the CIA, over three hundred highly trained agents operate in the darkest shadows of the country&rsquo;s covert wars. Plucked from the highest echelons of America&rsquo;s special mission units, these individuals go through rigorous training by the Agency to perfect the arts of assassination, sabotage, infiltration, and guerrilla warfare.<BR> <BR>According to the United States government, this Ground Branch of the CIA does not exist. But when diplomacy and military intervention fails, the President of the United States calls upon it to solve America&rsquo;s most dangerous crises.<BR> <BR>Brian Rhome, a former Ground Branch paramilitary officer, thought his time within this elite group was over. But now, he&rsquo;s on a desperate race against time around the globe as he confronts the traumas of his past and unravels a deadly conspiracy that threatens the highest levels of American democracy.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Connor Sullivan, the acclaimed author of <i>Sleeping Bear</i>,&nbsp;attended the University of Southern California, where he was the recipient of the Edward W. Moses Award for Creative Writing. During college, he worked for Warner Brothers reading screenplays before relocating with his family to the Gallatin Valley in Montana.&nbsp;<i>Wolf Trap </i>is his second novel. Visit his website at ConnorSullivanAuthor.com.&nbsp;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/fee7f8ff-c8f2-436f-8c21-aeb50025a1d8</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230314</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2023</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2023 Connor Sullivan. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230220</ExpectedShipDate>
+      <OnSaleDate>20230314</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>29.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797153094</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797153099</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797153094</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797153094</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797153094</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Brown Boy</TitleText>
+      <Subtitle>A Memoir</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>164962672</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Omer Aziz</PersonName>
+      <PersonNameInverted>Aziz, Omer</PersonNameInverted>
+      <NamesBeforeKey>Omer</NamesBeforeKey>
+      <KeyNames>Aziz</KeyNames>
+      <BiographicalNote><![CDATA[Omer Aziz&nbsp;is a lawyer, writer, and former foreign policy advisor in the administration of the Canadian Prime Minister. He was born to working-class parents of Pakistani origin in Toronto, Canada, and with the help of scholarships, became the first in his family to go to college in the West, later studying in Paris, at Cambridge University, and Yale Law School. Aziz has clerked for the United Nations Special Envoy for Syria and served as a foreign policy advisor in the government of Justin Trudeau. He has held residencies at Yaddo and MacDowell and has written for <I>The</I>&nbsp;<I>New York Times</I>, <I>The Atlantic</I>, <I>New York </I>magazine, <I>The</I> <I>Washington Post</I>, <I>The New Republic</I>,&nbsp;and many other publications. He is currently a Radcliffe Fellow at Harvard University and lives in Cambridge, Massachusetts. &nbsp;<I>Brown Boy&nbsp;</I>is his first book.]]></BiographicalNote>
+      <CountryCode>CA</CountryCode>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Omer Aziz</PersonName>
+      <PersonNameInverted>Aziz, Omer</PersonNameInverted>
+      <NamesBeforeKey>Omer</NamesBeforeKey>
+      <KeyNames>Aziz</KeyNames>
+      <BiographicalNote><![CDATA[Omer Aziz&nbsp;is a lawyer, writer, and former foreign policy advisor in the administration of the Canadian Prime Minister. He was born to working-class parents of Pakistani origin in Toronto, Canada, and with the help of scholarships, became the first in his family to go to college in the West, later studying in Paris, at Cambridge University, and Yale Law School. Aziz has clerked for the United Nations Special Envoy for Syria and served as a foreign policy advisor in the government of Justin Trudeau. He has held residencies at Yaddo and MacDowell and has written for <I>The</I>&nbsp;<I>New York Times</I>, <I>The Atlantic</I>, <I>New York </I>magazine, <I>The</I> <I>Washington Post</I>, <I>The New Republic</I>,&nbsp;and many other publications. He is currently a Radcliffe Fellow at Harvard University and lives in Cambridge, Massachusetts. &nbsp;<I>Brown Boy&nbsp;</I>is his first book.]]></BiographicalNote>
+      <CountryCode>CA</CountryCode>
+    </Contributor>
+    <ContributorStatement>Omer Aziz</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0081810</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>BIO026000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>BIO002020</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>BIO010000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Memoir; best memoir; memoirs by brown writers; immigrant memoir; upward mobility memoir; inspiring memoirs; books by pakistani writers; political memoirs; lawyer memoir; BLM; yale university; oxford university; Toronto; black boy; richard wright; assimilation; pakistan writer; pakistan; immigrant; bipoc; diverse stories; Canada; coming of age; muslim; books by muslims</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><I>Brown Boy</I></B><B> is an uncompromising interrogation of identity, family, religion, race, and class, told through Omer Aziz&rsquo;s incisive and luminous prose.</B><BR><BR>In a tough neighborhood on the outskirts of Toronto, miles away from wealthy white downtown, Omer Aziz struggles to find his place as a first-generation Pakistani Muslim boy. He fears the violence and despair of the world around him, and sees a dangerous path ahead, succumbing to aimlessness, apathy, and rage. <BR> <BR>In his senior year of high school, Omer quickly begins to realize that education can open up the wider world. But as he falls in love with books, and makes his way to Queen&rsquo;s University in Ontario, Sciences Po in Paris, Cambridge University in England, and finally Yale Law School, he continually confronts his own feelings of doubt and insecurity at being an outsider, a brown-skinned boy in an elite white world. He is searching for community and identity, asking questions of himself and those he encounters, and soon finds himself in difficult situations&#8212;whether in the suburbs of Paris or at the Temple Mount in Jerusalem. Yet the more books Omer reads and the more he moves through elite worlds, his feelings of shame and powerlessness only grow stronger, and clear answers recede further away.<BR> <BR>Weaving together his powerful personal narrative with the books and friendships that move him, Aziz wrestles with the contradiction of feeling like an Other and his desire to belong to a Western world that never quite accepts him. He poses the questions he couldn&rsquo;t have asked in his youth: Was assimilation ever really an option? Could one transcend the perils of race and class? And could we&#8212;the collective West&#8212;ever honestly confront the darker secrets that, as Aziz discovers, still linger from the past?<BR> <BR>In <I>Brown Boy,</I> Omer Aziz has written a book that eloquently describes the complex process of creating an identity that fuses where he&rsquo;s from, what people see in him, and who he knows himself to be.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Omer Aziz&nbsp;is a lawyer, writer, and former foreign policy advisor in the administration of the Canadian Prime Minister. He was born to working-class parents of Pakistani origin in Toronto, Canada, and with the help of scholarships, became the first in his family to go to college in the West, later studying in Paris, at Cambridge University, and Yale Law School. Aziz has clerked for the United Nations Special Envoy for Syria and served as a foreign policy advisor in the government of Justin Trudeau. He has held residencies at Yaddo and MacDowell and has written for <I>The</I>&nbsp;<I>New York Times</I>, <I>The Atlantic</I>, <I>New York </I>magazine, <I>The</I> <I>Washington Post</I>, <I>The New Republic</I>,&nbsp;and many other publications. He is currently a Radcliffe Fellow at Harvard University and lives in Cambridge, Massachusetts. &nbsp;<I>Brown Boy&nbsp;</I>is his first book.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/847a36c0-141a-4d18-ba26-aeb1002c41fb</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230404</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AL AM AO AQ AR AS AT AW AX AZ BA BE BF BG BH BI BJ BL BO BQ BR BV BY CA CD CF CH CI CL CN CO CR CU CV CW CZ DE DJ DK DO DZ EC EE EG EH ER ES ET FI FM FO FR GA GE GF GL GN GP GQ GR GT GU GW HK HN HR HT HU ID IL IR IS IT JP KG KH KM KP KR KZ LA LB LI LR LT LU LV LY MA MC MD ME MF MG MH MK ML MN MO MP MQ MR MX MY NC NE NI NL NO NP OM PA PE PF PH PL PR PS PT PW PY QA RO RS RU RW SA SE SG SI SJ SK SM SN SR SS SV SX SY TD TF TG TH TJ TL TM TN TR TW UA UM US UY UZ VA VE VI VN WF YT</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230313</ExpectedShipDate>
+      <OnSaleDate>20230404</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>19.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781797161884</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1797161881</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781797161884</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781797161884</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781797161884</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <Series>
+      <TitleOfSeries>Hacks</TitleOfSeries>
+    </Series>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Life Hacks</TitleText>
+      <Subtitle>Any Procedure or Action That Solves a Problem, Simplifies a Task, Reduces Frustration, Etc. in One&#39;s Everyday Life</Subtitle>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>205471874</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Keith Bradford</PersonName>
+      <PersonNameInverted>Bradford, Keith</PersonNameInverted>
+      <NamesBeforeKey>Keith</NamesBeforeKey>
+      <KeyNames>Bradford</KeyNames>
+      <BiographicalNote><![CDATA[Keith Bradford is the sole owner and webmaster of Bradford Media, which publishes <i>1000 Life Hacks</i>, <i>Yup That Exists</i>, and many other blogs/sites. Since its launch at the beginning of 2013, Bradford Media has gained a collective readership of more than 200,000, and continues to grow each and every day. He&rsquo;s the author of&nbsp;<i>Life Hacks</i>,<i> College Hacks</i>, and&nbsp;<i>Holiday Hacks</i>. Keith lives in Aurora, Canada, and loves hockey, making music, and reading comic books.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Matt Stango</PersonName>
+      <PersonNameInverted>Stango, Matt</PersonNameInverted>
+      <NamesBeforeKey>Matt</NamesBeforeKey>
+      <KeyNames>Stango</KeyNames>
+    </Contributor>
+    <ContributorStatement>Keith Bradford</ContributorStatement>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0031055</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>REF015000</BASICMainSubject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>REF023000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>REF000000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>what is a life hack; Redbook; how to make life easier; simplify your life; how to fold a fitted sheet; free Krispy Kreme; adulting; hack my life; best life hacks; graduation gifts; life hacks; college grad gifts; how to adult; gifts for college graduates; self help books; self improvement; personal growth; creativity; beauty guide; problem solving; get organized; self care; mindfulness; creative solutions;</SubjectHeadingText>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>01</AudienceCodeValue>
+    </Audience>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<b>As seen in <i>Redbook Magazine</i>, discover 1,000 simple, easy solutions to everyday problems!</b><BR><BR>Wouldn&rsquo;t it be nice if there were a way to make life easier? With<i> Life Hacks</i>, you&rsquo;ll find hundreds of methods that you can start using right now to simplify your life. From folding a fitted sheet to removing scuffs from furniture, this book offers simple solutions to a variety of everyday problems. Each informative entry helps you discover quicker, more efficient techniques for completing ordinary tasks around the home, at the office, and just about anywhere. You&rsquo;ll also learn how to make the most out of any situation with fun, problem-solving tricks like creating an impromptu iPod speaker from toilet paper rolls or snagging a free doughnut at your local Krispy Kreme shop.<BR> <BR>Filled with 1,000 valuable life hacks, this book proves that you don&rsquo;t have to search very far for the perfect solution to everyday problems.]]></Text>
+    </OtherText>
+    <OtherText>
+      <TextTypeCode>13</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[Keith Bradford is the sole owner and webmaster of Bradford Media, which publishes <i>1000 Life Hacks</i>, <i>Yup That Exists</i>, and many other blogs/sites. Since its launch at the beginning of 2013, Bradford Media has gained a collective readership of more than 200,000, and continues to grow each and every day. He&rsquo;s the author of&nbsp;<i>Life Hacks</i>,<i> College Hacks</i>, and&nbsp;<i>Holiday Hacks</i>. Keith lives in Aurora, Canada, and loves hockey, making music, and reading comic books.]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/08f85edd-96eb-47d6-b08c-afa6003dad35</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio</NameCodeTypeName>
+      <NameCodeValue>SIMO282</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Audio</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230314</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2014</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2014 Keith Bradford. All rights reserved.<BR /> (P)2023 Simon &amp; Schuster, Inc. All rights reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <ExpectedShipDate>20230220</ExpectedShipDate>
+      <OnSaleDate>20230314</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>14.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20230221</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>

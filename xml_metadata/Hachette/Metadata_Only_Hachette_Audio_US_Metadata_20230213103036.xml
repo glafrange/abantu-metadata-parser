@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+<Header>
+<FromCompany>Ingram Content Group</FromCompany>
+<FromPerson>CoreSource</FromPerson>
+<FromEmail>partnersupport@ingramcontent.com</FromEmail>
+<ToCompany>Abantu Audio - 2.1 No Conversion</ToCompany>
+<SentDate>202302131030</SentDate>
+</Header>
+<Product>
+<RecordReference>9781668621271</RecordReference>
+<NotificationType>02</NotificationType>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781668621271</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>02</ProductIDType>
+<IDValue>1668621274</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>14</ProductIDType>
+<IDValue>09781668621271</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781668621271</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>01</ProductIDType>
+<IDTypeName>Library ISBN</IDTypeName>
+<IDValue>9781668621288</IDValue>
+</ProductIdentifier>
+<ProductForm>AJ</ProductForm>
+<ProductFormDescription>Lossless Format Audio, WAV</ProductFormDescription>
+<ProductContentType>01</ProductContentType>
+<NoSeries/>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Next New Syrian Girl</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Next New Syrian Girl</TitleWithoutPrefix>
+</Title>
+<WorkIdentifier>
+<WorkIDType>01</WorkIDType>
+<IDValue>9780316432634</IDValue>
+</WorkIdentifier>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Ream Shukairy</PersonName>
+<PersonNameInverted>Shukairy, Ream</PersonNameInverted>
+<NamesBeforeKey>Ream</NamesBeforeKey>
+<KeyNames>Shukairy</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>E07</ContributorRole>
+<PersonName>Victoria Nassif</PersonName>
+<PersonNameInverted>Nassif, Victoria</PersonNameInverted>
+<NamesBeforeKey>Victoria</NamesBeforeKey>
+<KeyNames>Nassif</KeyNames>
+</Contributor>
+<EditionTypeCode>UBR</EditionTypeCode>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>eng</LanguageCode>
+</Language>
+<Extent>
+<ExtentType>09</ExtentType>
+<ExtentValue>650</ExtentValue>
+<ExtentUnit>05</ExtentUnit>
+</Extent>
+<BASICMainSubject>YAF058120</BASICMainSubject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>YAF067000</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>YAF018040</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>YAF046160</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>YAF058060</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+<SubjectHeadingText>ya;young adult;teen book;novel;boy;girl;fiction;age 14 15 16 17 18 year old;high school;family;diverse;friendship;pressure;refugee;Detroit;panic attack;truth;self love;contemporary</SubjectHeadingText>
+</Subject>
+<AudienceCode>03</AudienceCode>
+<Audience>
+<AudienceCodeType>01</AudienceCodeType>
+<AudienceCodeValue>03</AudienceCodeValue>
+</Audience>
+<AudienceRange>
+<AudienceRangeQualifier>17</AudienceRangeQualifier>
+<AudienceRangePrecision>03</AudienceRangePrecision>
+<AudienceRangeValue>12</AudienceRangeValue>
+<AudienceRangePrecision>04</AudienceRangePrecision>
+<AudienceRangeValue>99</AudienceRangeValue>
+</AudienceRange>
+<AudienceRange>
+<AudienceRangeQualifier>18</AudienceRangeQualifier>
+<AudienceRangePrecision>03</AudienceRangePrecision>
+<AudienceRangeValue>12</AudienceRangeValue>
+<AudienceRangePrecision>04</AudienceRangePrecision>
+<AudienceRangeValue>99</AudienceRangeValue>
+</AudienceRange>
+<AudienceRange>
+<AudienceRangeQualifier>11</AudienceRangeQualifier>
+<AudienceRangePrecision>03</AudienceRangePrecision>
+<AudienceRangeValue>7</AudienceRangeValue>
+<AudienceRangePrecision>04</AudienceRangePrecision>
+<AudienceRangeValue>17</AudienceRangeValue>
+</AudienceRange>
+<OtherText>
+<TextTypeCode>01</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<B><I>Furia </I>meets<I> I Am Not Your Perfect Mexican Daughter</I> about the unlikely friendship between two very different Syrian girls, the pressures and expectations of the perfect Syrian daughter, and the repercussions of the Syrian Revolution both at home and abroad.<BR /><BR /> Khadija Shami</B> is a Syrian American high school senior raised on boxing and football. Saddled with a monstrous ego and a fierce mother to test it, she dreams of escaping her sheltered life to travel the world with her best friend.<BR /> &#160;<BR /><B>Leene Tahir</B> is a Syrian refugee, doing her best to adjust to the wildly unfamiliar society of a suburban Detroit high school while battling panic attacks and family pressures.<BR /> &#160;<BR /> When their worlds collide the result is catastrophic. To Khadija, Leene embodies the tame, dutiful Syrian ideal she&#39;s long rebelled against. And to Leene, Khadija is the strong-willed, closed-off American who makes her doubt her place in the world.<BR /> &#160;<BR /> But as Khadija digs up Leene&rsquo;s past, a startling and life-changing discovery forces the two of them closer together. As the girls secretly race to unravel the truth, a friendship slowly and hesitantly begins blooming. Doubts are cast aside as they realize they have more in common than they each expected. What they find takes them on a journey all the way to Jordan, challenging what each knows about the other and herself.&#160;<BR /> &#160;<BR /> Fans of Samira Ahmed&rsquo;s <I>Love, Hate, and Other Filters </I>and Tahereh Mafi&rsquo;s <I>A Very Large Expanse Of</I>&#160;<I>Sea</I> will love Khadija and Leene&rsquo;s sharp-witted voices in this dual POV narrative. <I>The Next New Syrian Girl</I>&#160;is a poignant and timely blend of guilt, nostalgia, devotion, and bad-ass hijabees.<BR /> &#160;]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[<B>Ream Shukairy</B> is a Syrian American born and raised full-time in Orange County, California and part-time over summers in Syria. Whether in California or Syria, she feels at home where her family is and wherever there&rsquo;s a beach. She has a talent for learning languages and is always on the search for the next place she can travel and flex her words. The daughter of immigrants, there isn&rsquo;t a stereotype she won&rsquo;t try her hardest to defy. She can be found reading at the beach, with her sisters watching anime, or playing volleyball really anywhere. She currently resides in Boston for graduate school.&#160;<I>The Next New Syrian Girl</I>&#160;is her debut novel.]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&quot;<I>The Next New Syrian Girl&#160;</I>captures the importance of friendship and the complicated journey one undertakes in the present to reconcile both past and future.<B> A heartfelt and multifaceted&#160;novel that sings of hope</B>.&quot;&#160;—<i><b>Laila Sabreen, author of You Truly Assumed</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&ldquo;<I>The Next New Syrian Girl</I> finds <B>empathy, light, and&#160;connections </B>in a&#160;story that&#160;sheds insight into war, trauma, and loss. Khadija and Leene&rsquo;s journey <B>will stay with you long after the last page</B>.&rdquo;—<i><b>Adiba Jaigirdar, award-winning author of Hani and Ishu&#39;s Guide to Fake Dating</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&quot;<I>The Next New Syrian Girl</I> is a powerful and (sadly) relevant story...<B>a testament to the power of young girls</B> to change the world when they stand with one another instead of competing like society wants them to. <B>Unputdownable, heart-breaking, and heart-healing all at once</B>.&quot;—<i><b>Yamile Saied M&#233;ndez, Pura Belpr&#233; medalist author of FURIA, a Reese’s Book Club selection</b></i>]]></Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<TextFormat>02</TextFormat>
+<Text><![CDATA[&ldquo;<I>The Next New Syrian Girl</I> is <B>an engrossing, crackling debut</B>. Shukairy kept me tearing through the pages with <B>masterfully executed twists</B>, fraught family dynamics, and the blossoming friendship between Khadija and Leene. <B>Heart-wrenching, heartwarming, and altogether healing</B>.&rdquo;—<i><b>Allison Saft, New York Times bestselling author of A Far Wilder Magic</b></i>]]></Text>
+</OtherText>
+<Imprint>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>010408</NameCodeValue>
+<ImprintName>Little, Brown Young Readers</ImprintName>
+</Imprint>
+<Publisher>
+<PublishingRole>01</PublishingRole>
+<NameCodeType>01</NameCodeType>
+<NameCodeValue>Hachette Audio</NameCodeValue>
+<PublisherName>Hachette Audio</PublisherName>
+</Publisher>
+<CountryOfPublication>US</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20230314</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780316432634</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+<SupplyDetail>
+<SupplierName>Hachette Book Group USA</SupplierName>
+<SupplierRole>00</SupplierRole>
+<SupplyToTerritory>WORLD</SupplyToTerritory>
+<ReturnsCodeType>02</ReturnsCodeType>
+<ReturnsCode>N</ReturnsCode>
+<AvailabilityCode>NP</AvailabilityCode>
+<ProductAvailability>11</ProductAvailability>
+<OnSaleDate>20230314</OnSaleDate>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>27.99</PriceAmount>
+<CurrencyCode>USD</CurrencyCode>
+<Territory>WORLD</Territory>
+<PriceEffectiveFrom>20230112</PriceEffectiveFrom>
+</Price>
+<Price>
+<PriceTypeCode>01</PriceTypeCode>
+<DiscountCoded>
+<DiscountCodeType>02</DiscountCodeType>
+<DiscountCodeTypeName>HBG</DiscountCodeTypeName>
+<DiscountCode>XL</DiscountCode>
+</DiscountCoded>
+<PriceAmount>35.99</PriceAmount>
+<CurrencyCode>CAD</CurrencyCode>
+<Territory>WORLD</Territory>
+<PriceEffectiveFrom>20230112</PriceEffectiveFrom>
+</Price>
+</SupplyDetail>
+<MarketRepresentation>
+<AgentName>Hachette Audio</AgentName>
+<AgentRole>07</AgentRole>
+<MarketTerritory>WORLD</MarketTerritory>
+<MarketPublishingStatus>02</MarketPublishingStatus>
+<MarketDate>
+<MarketDateRole>01</MarketDateRole>
+<DateFormat>00</DateFormat>
+<Date>20230314</Date>
+</MarketDate>
+</MarketRepresentation>
+</Product>
+</ONIXMessage>

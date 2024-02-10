@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd" >
+<ONIXMessage release="2.1">
+  <Header>
+    <FromCompany>Simon &amp; Schuster</FromCompany>
+    <FromEmail>eloquencefeeds@firebrandtech.com</FromEmail>
+    <SentDate>20230218</SentDate>
+    <MessageNote>Title information from Simon &amp; Schuster</MessageNote>
+    <DefaultLanguageOfText>eng</DefaultLanguageOfText>
+    <DefaultPriceTypeCode>01</DefaultPriceTypeCode>
+    <DefaultCurrencyCode>USD</DefaultCurrencyCode>
+    <DefaultLinearUnit>in</DefaultLinearUnit>
+    <DefaultClassOfTrade>General Trade</DefaultClassOfTrade>
+  </Header>
+  <Product>
+    <RecordReference>9781398505162</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1398505161</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781398505162</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781398505162</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781398505162</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>The Love Match</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>182742425</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Priyanka Taslim</PersonName>
+      <PersonNameInverted>Taslim, Priyanka</PersonNameInverted>
+      <NamesBeforeKey>Priyanka</NamesBeforeKey>
+      <KeyNames>Taslim</KeyNames>
+      <BiographicalNote><![CDATA[Priyanka Taslim&nbsp;is a Bangladeshi American writer, teacher, and lifelong New Jersey resident. Having grown up in a bustling Bangladeshi diaspora community, surrounded by her mother&rsquo;s entire clan and many aunties of no relation, her writing often features families, communities, and all the drama therein. Currently, Priyanka teaches English by day and tells all kinds of stories about Bangladeshi characters by night. Her writing usually stars spunky Bangladeshi heroines finding their place in the world&mdash;and a little swoony romance, too. You can connect with her on Twitter and Instagram @BhootBabe and check out her website, PriyankaTaslim.com.]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Reena Dutt</PersonName>
+      <PersonNameInverted>Dutt, Reena</PersonNameInverted>
+      <NamesBeforeKey>Reena</NamesBeforeKey>
+      <KeyNames>Dutt</KeyNames>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0094403</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>YAF052020</BASICMainSubject>
+    <BICMainSubject>YFM</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF052060</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF052070</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF052000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF018000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF018030</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>YAF058200</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YFB</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+      <SubjectCode>YX</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>fake dating; pretend dating; enemies to lovers; friends to lovers; secret prince; cinderella story; love triangle; tropes; fic tropes; swoony romance; romcom; matchmaking; jenny han; to all the boys i&#39;ve loved before; netflix rom com; Sandhya menon; pride and prejudice; jane austen; mr darcy; ya reads; romantic comedy, rom-com, emma lord, beth o&#39;leary, Rachel Lippincott; beth reekles; holly bourne; joya Goffney; john green; Nicola yoon; YA; books for; 12+; 13 year olds; 14 year olds; 15 year olds; 16 year olds; 17 year olds; 18 year olds; young adult books; books for teenagers; young adult romance; bangladesh; bangladeshi; bengali; bollywood; tollywood; own voices; diaspora; community; family; paterson new jersey; new jersey; debut author;&#160;arranged marriage;&#160;</SubjectHeadingText>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+      <SubjectCode>E3F79</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFM</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YFN</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YXHL</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+      <SubjectCode>YXM</SubjectCode>
+    </Subject>
+    <Audience>
+      <AudienceCodeType>01</AudienceCodeType>
+      <AudienceCodeValue>03</AudienceCodeValue>
+    </Audience>
+    <AudienceRange>
+      <AudienceRangeQualifier>17</AudienceRangeQualifier>
+      <AudienceRangePrecision>03</AudienceRangePrecision>
+      <AudienceRangeValue>12</AudienceRangeValue>
+      <AudienceRangePrecision>04</AudienceRangePrecision>
+      <AudienceRangeValue>99</AudienceRangeValue>
+    </AudienceRange>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B><I>To All the Boys I&rsquo;ve Loved Before&#160;</I>meets&#160;<I>Pride and Prejudice&#160;</I>in this&#160;swoony and thoughtful&#160;romantic comedy from debut author Priyanka Taslim. &#160;</B><BR> &#160; <BR><BR> Zahra Khan is basically Bangladeshi royalty &ndash; but being a princess doesn&rsquo;t pay the bills in New Jersey. While Zahra plans to save money for college by working&#160;through the summer&#160;at a tea shop, her meddling mum is convinced that a &ldquo;good match&rdquo; in marriage will solve their family&rsquo;s financial woes. &#160;<BR> &#160; <BR><BR> Enter Harun Emon, the wealthy, devastatingly handsome and . . . aloof boy Zahra is set up with. As soon as they meet, Zahra and Harun&#160;both&#160;know it&rsquo;s not going to work. It&rsquo;s nothing like the connection she has with Nayim Aktar, the new dishwasher at the tea shop, who just&#160;<I>gets</I>&#160;her in a way no one has before. Deciding to slowly sabotage their parents&rsquo; plans, Zahra and Harun pretend to date, while Zahra explores her feelings for Nayim. For once in Zahra&rsquo;s life, she can have her rossomalai and eat it too.&#160; <BR><BR> But life &ndash; and boys &ndash; can be a royal pain. With her feelings all mixed up, will Zahra be a good Bengali kid or can she find her one true love match? &#160; <BR><BR><B>Perfect for fans of Jenny Han, Sandhya Menon, Emma Lord and Beth O&rsquo;Leary.&#160;</B>]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/109973fd-bbfb-4cb9-9f1c-afac01168811</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Audio UK</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Audio UK</NameCodeTypeName>
+      <NameCodeValue>SIMO435</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster UK</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230302</PublicationDate>
+    <CopyrightStatement>
+      <CopyrightYear>2022</CopyrightYear>
+      <CopyrightOwner>
+        <PersonName><![CDATA[&copy;2022 Priyanka Taslim. All rights reserved<BR /> (P)2022 Simon &amp; Schuster, UK. All Rights Reserved.<BR /> &#160;]]></PersonName>
+      </CopyrightOwner>
+    </CopyrightStatement>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AD AE AF AG AI AL AM AQ AR AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MK ML MM MN MO MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PK PL PM PN PS PT PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UY UZ VA VC VE VG VN VU WF WS YE YT ZA ZM ZW</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <OnSaleDate>20230302</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <DiscountCoded>
+          <DiscountCodeType>02</DiscountCodeType>
+          <DiscountCode>096</DiscountCode>
+        </DiscountCoded>
+        <PriceAmount>13.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20180220</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+  <Product>
+    <RecordReference>9781760856861</RecordReference>
+    <NotificationType>02</NotificationType>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>176085686X</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781760856861</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>14</ProductIDType>
+      <IDValue>09781760856861</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781760856861</IDValue>
+    </ProductIdentifier>
+    <Barcode>00</Barcode>
+    <ProductForm>AJ</ProductForm>
+    <ProductFormDescription>eAudio</ProductFormDescription>
+    <NoSeries/>
+    <Title>
+      <TitleType>01</TitleType>
+      <TitleText>Fed to Red Birds</TitleText>
+    </Title>
+    <WorkIdentifier>
+      <WorkIDType>01</WorkIDType>
+      <IDValue>173218652</IDValue>
+    </WorkIdentifier>
+    <Contributor>
+      <SequenceNumber>1</SequenceNumber>
+      <ContributorRole>A01</ContributorRole>
+      <PersonName>Rijn Collins</PersonName>
+      <PersonNameInverted>Collins, Rijn</PersonNameInverted>
+      <NamesBeforeKey>Rijn</NamesBeforeKey>
+      <KeyNames>Collins</KeyNames>
+      <BiographicalNote><![CDATA[<DIV><P> Rijn Collins is an award-winning short story writer,&#160;published in many journals and anthologies, as well as having numerous audio stories produced:&#160;&lsquo;Almost Flamboyant&rsquo; won the inaugural Sarah Awards for International Audio Fiction in New York. She has been a guest at many Australian writers&rsquo; festivals. </P><P> Rijn has also enjoyed two bitterly cold writing residencies:&#160;at Listh&uacute;s in &Oacute;lafsfj&ouml;r&eth;ur, an Icelandic fishing village that inspired this work, and at Haihatus in Joutsa, a rural forest community in central Finland. She currently lives in Melbourne. </P></DIV>]]></BiographicalNote>
+    </Contributor>
+    <Contributor>
+      <SequenceNumber>2</SequenceNumber>
+      <ContributorRole>E07</ContributorRole>
+      <PersonName>Jessica Tovey</PersonName>
+      <PersonNameInverted>Tovey, Jessica</PersonNameInverted>
+      <NamesBeforeKey>Jessica</NamesBeforeKey>
+      <KeyNames>Tovey</KeyNames>
+    </Contributor>
+    <EditionTypeCode>UBR</EditionTypeCode>
+    <EditionStatement>Unabridged</EditionStatement>
+    <Language>
+      <LanguageRole>01</LanguageRole>
+      <LanguageCode>eng</LanguageCode>
+    </Language>
+    <Extent>
+      <ExtentType>09</ExtentType>
+      <ExtentValue>0073845</ExtentValue>
+      <ExtentUnit>16</ExtentUnit>
+    </Extent>
+    <BASICMainSubject>FIC019000</BASICMainSubject>
+    <BICMainSubject>FA</BICMainSubject>
+    <BICVersion>2.1</BICVersion>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC000000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+      <SubjectCode>FIC010000</SubjectCode>
+    </Subject>
+    <Subject>
+      <SubjectSchemeIdentifier>20</SubjectSchemeIdentifier>
+      <SubjectHeadingText>Iceland, Burial Rights, Hannah Kent, Bjork, Reykjavic, ice, snow, winter, OCD, mental illness, obsession, compulsion, psyche, psychology, bookish books, taxidermy, tarot, Norse, gothic, Holly Ringland, Pip Williams, Hans Christian Anderson, Grimm&#39;s fairytales, Where the Wild Things Are, Australian fiction, Aussie novel, art, painting, grief, illness, foreign, Scandinavia, folk tales, legends, mythology, witch, enchantment</SubjectHeadingText>
+    </Subject>
+    <OtherText>
+      <TextTypeCode>01</TextTypeCode>
+      <TextFormat>02</TextFormat>
+      <Text><![CDATA[<B>Prepare to be bewitched by Iceland and the book that has enchanted readers for decades </B>&ndash;<B> and imprisoned one of them.</B><BR> &#160;<BR> Elva loves Iceland for many reasons &ndash; the epic landscape of gods and volcanoes, weather that&rsquo;s the polar opposite of her home in Australia, and the fact that it&rsquo;s where her mother might have gone back to when she disappeared. Iceland is where Elva&rsquo;s beloved grandfather &ndash; the famous children&rsquo;s book author &ndash; lives in a remote village and where the beings that haunt her imagination reside.<BR> &#160;<BR> Elva is interested in the odd things people make &ndash; Victorian collectibles, old spells, taxidermy, fairy tales. The weird, the wonderful and the sometimes macabre. She&rsquo;s got a few quirks of her own that she&rsquo;s (mainly) keeping under control. Except one.<BR> &#160;<BR> Working in a shop of curiosities, studying at an Icelandic language school, Elva begins to explore her obsessions, and when her grandfather suffers a stroke, they threaten to overtake her. Then she meets Remy, a painter who&rsquo;s got some secrets of his own &hellip;<BR> &#160;<BR> In her captivating debut, Rijn Collins has created a beautifully evocative portrait of an enchanted mind in an enchanting place &ndash; a story of everyday magic, both dark and light; of families and the shadows they can cast; of the delights and dangers of the imagination. <I>Fed to Red Birds</I> will transport you to remote corners of both the world and the human heart.<BR><BR> &lsquo;<I>Fed to Red Birds</I>&#160;is dreamy and immersive &hellip; both travelogue and beautifully written literary fiction. It is for readers who loved the insightful prose and armchair travel of&#160;<I>Cold Enough for Snow</I>&#160;by Jessica Au and the brooding, fairytale-esque feelings of&#160;<I>Hydra</I>&#160;by Adrianne Howell.&rsquo; <I><B>Books + Publishing</B></I><BR><BR> &#160;]]></Text>
+    </OtherText>
+    <MediaFile>
+      <MediaFileTypeCode>04</MediaFileTypeCode>
+      <MediaFileFormatCode>03</MediaFileFormatCode>
+      <MediaFileLinkTypeCode>01</MediaFileLinkTypeCode>
+      <MediaFileLink>http://cloud.firebrandtech.com/api/v2/hostedcover/4a5bf524-6b57-48ee-b9ea-af670035fa47</MediaFileLink>
+    </MediaFile>
+    <Imprint>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Australia</NameCodeTypeName>
+      <NameCodeValue>SIMO372</NameCodeValue>
+      <ImprintName>Simon &amp; Schuster Australia</ImprintName>
+    </Imprint>
+    <Publisher>
+      <PublishingRole>01</PublishingRole>
+      <NameCodeType>01</NameCodeType>
+      <NameCodeTypeName>Simon &amp; Schuster Australia</NameCodeTypeName>
+      <NameCodeValue>SIMO372</NameCodeValue>
+      <PublisherName>Simon &amp; Schuster Australia</PublisherName>
+    </Publisher>
+    <PublishingStatus>02</PublishingStatus>
+    <PublicationDate>20230307</PublicationDate>
+    <SalesRights>
+      <SalesRightsType>01</SalesRightsType>
+      <RightsCountry>AU NZ</RightsCountry>
+    </SalesRights>
+    <SupplyDetail>
+      <SupplierName>Simon &amp; Schuster</SupplierName>
+      <ReturnsCodeType>02</ReturnsCodeType>
+      <ReturnsCode>N</ReturnsCode>
+      <AvailabilityCode>NP</AvailabilityCode>
+      <ProductAvailability>10</ProductAvailability>
+      <OnSaleDate>20230307</OnSaleDate>
+      <AudienceRestrictionFlag>R</AudienceRestrictionFlag>
+      <AudienceRestrictionNote>DRM Free</AudienceRestrictionNote>
+      <Price>
+        <PriceTypeCode>01</PriceTypeCode>
+        <PriceAmount>23.99</PriceAmount>
+        <CurrencyCode>USD</CurrencyCode>
+        <PriceEffectiveFrom>20200122</PriceEffectiveFrom>
+      </Price>
+    </SupplyDetail>
+  </Product>
+</ONIXMessage>
