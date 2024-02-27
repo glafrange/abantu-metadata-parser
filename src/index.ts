@@ -65,7 +65,6 @@ function addCellOptions(sheet: xlsx.WorkSheet, columnNames: string[], bookList: 
     }
   } as const
   const entries = entriesFromObject(columnInfo)
-  // entries.forEach(([columnName, colInfo], i) => {
  for (let i = 0; i < entries.length; ++i) {
     const [colName, colInfo] = entries[i]
     if (!sheet["!cols"]) sheet["!cols"] = []
