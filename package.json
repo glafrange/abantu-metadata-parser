@@ -16,7 +16,10 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "csv": "^6.3.6",
     "elementtree": "^0.1.7",
+    "node-xlsx": "^0.23.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.1/xlsx-0.20.1.tgz",
     "zod": "^3.22.4"
   }
 }
