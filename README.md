@@ -1,6 +1,6 @@
 # Installation
 
-- install node
+- install [node](https://nodejs.org/en)
 
 then
 - ```npm install```
