@@ -1,6 +1,8 @@
 import { ColInfo } from "xlsx"
-import { BisacRow, BookMetadata, MetadataParser, additionalBookInfo } from "./metadata-parser"
 import * as xlsx from "xlsx"
+import * as fs from "fs/promises"
+
+import { BisacRow, BookMetadata, MetadataParser } from "./metadata-parser"
 
 const PUBLISHER_DIRECTORIES = ["SimonSchuster", "Hachette"] as const // directories containing the xml files
 const OUTPUT_PATH = "./output/book-metadata.xlsx"
@@ -87,6 +89,7 @@ async function main() {
   let workBook = xlsx.utils.book_new()
   xlsx.utils.book_append_sheet(workBook, metadataSheet)
   xlsx.writeFile(workBook, OUTPUT_PATH, { cellStyles: true })
+  console.log(`File Created: ${OUTPUT_PATH}`)
 }
 
 main()
