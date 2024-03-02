@@ -1,6 +1,6 @@
-# Installation
-
-- install node
+# How to run
+- install [node](https://nodejs.org/en)
+- add folders with xml files to "xml_metadata" directory
 
 then
 - ```npm install```
