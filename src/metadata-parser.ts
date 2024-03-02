@@ -156,8 +156,8 @@ export class MetadataParser {
           runtime: this.formatRuntime(extentUnit, extentValue),
           BISAC: productElement.findtext(".//BASICMainSubject")?.toString(),
           language: productElement.findtext(".//LanguageCode")?.toString(),
-          // primaryCategory,
-          // secondaryCategory,
+          primaryCategory,
+          secondaryCategories: secondaryCategory,
           customCategory: this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join("")),
         }
         const book = BookMetadataSchema.safeParse(partialBook)
@@ -191,6 +191,8 @@ export class MetadataParser {
           runtime: this.formatRuntime(extentUnit, extentValue),
           BISAC: productElement.findall(".//Subject").filter(subjectElem => subjectElem.find("./MainSubject"))[0].findtext("./SubjectCode")?.toString(),
           language: productElement.findtext(".//LanguageCode")?.toString(),
+          primaryCategory,
+          secondaryCategories: secondaryCategory,
           customCategory: this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join("")),
         }
         const book = BookMetadataSchema.safeParse(partialBook)
