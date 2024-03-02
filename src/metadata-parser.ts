@@ -56,9 +56,10 @@ export class MetadataParser {
       productElement: Element,
       originFile: string,
     }
-    const metadataList = await this.pubDirs.reduce(async(accPromise, dir) => {
+    const xmlDirs = await fs.readdir(`xml_metadata`)
+    const metadataList = await xmlDirs.reduce(async(accPromise, dir) => {
       const acc = await accPromise
-      const pathList = await fs.readdir(`xml_metadata/${dir}`)     
+      const pathList = (await fs.readdir(`xml_metadata/${dir}`)).filter(fileName => fileName.endsWith(".xml"))     
       const metadataList = await pathList.reduce(async(accPromise, fileName) => {
         const acc = await accPromise
         const xmlString = await fs.readFile(`xml_metadata/${dir}/${fileName}`, 'utf-8')
