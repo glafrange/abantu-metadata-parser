@@ -10,7 +10,7 @@ type AdditionalBookInfo = {
   originFile: string,
   onixVer: number
 }
-export const additionalBookInfo = new WeakMap<Object, AdditionalBookInfo>()
+export const additionalBookInfoMap = new WeakMap<Object, AdditionalBookInfo>()
 
 export type BisacRow = {
   "BISAC  Code": string,
@@ -39,7 +39,8 @@ export const BookMetadataSchema = z.object({
 export type BookMetadata = z.infer<typeof BookMetadataSchema>
 
 export class MetadataParser {
-  private subjectPhrases: string[]
+  private subjectPhrases: string[][]
+  public additionalBookInfo = additionalBookInfoMap
 
   constructor(
     private pubDirs: Readonly<string[]>, 
@@ -116,16 +117,20 @@ export class MetadataParser {
 
   private getCategories(bisac: string): {
     primaryCategory?: string, 
-    secondaryCategory?: string
+    secondaryCategory?: string,
+    customCategory: string,
   } {
     const bisacRow: BisacRow | undefined = this.bisacSheet.find((row: BisacRow) => {
-      return row["BISAC  Code"] === bisac
+      const rowCode = row["BISAC  Code"]
+      return rowCode.toLowerCase() === bisac.toLowerCase()
     })
-    if (!bisacRow) return { primaryCategory: "", secondaryCategory: "" }
-    const categories = bisacRow.Category.split(" / ")
+    if (!bisacRow) return { primaryCategory: "", secondaryCategory: "", customCategory: "" }
+    const categories = bisacRow.Category.trim().split("/ ")
+    const customCategory = bisacRow['Custom Category']
     return {
       primaryCategory: categories.splice(0, 1)[0],
       secondaryCategory: categories.join(" / "),
+      customCategory: !!customCategory ? customCategory : ""
     }
   }
 
@@ -137,8 +142,10 @@ export class MetadataParser {
       const extentElem = productElement.findall(".//Extent").filter(extentElem => extentElem.find("./ExtentType")?.text?.toString() === '09')[0]
       const extentUnit = extentElem?.findtext("./ExtentUnit")?.toString()
       const extentValue = extentElem?.findtext("./ExtentValue")?.toString()
-      const bisac = productElement.findtext(".//BASICMainSubject")?.toString()
-      const { primaryCategory , secondaryCategory } = this.getCategories(bisac ?? "")
+      const bisacElem2 = productElement.findtext(".//BASICMainSubject")?.toString()
+      const _bisacElem3 = productElement.findall(".//Subject").filter(elem => !!elem.find("./MainSubject"))[0]
+      const bisacElem3 = _bisacElem3 ? _bisacElem3.findtext("./SubjectCode")?.toString() : undefined
+      const { primaryCategory , secondaryCategory, customCategory: customCategories } = this.getCategories(bisacElem2 ?? bisacElem3 ?? "")
       if (onixVer < 3 && onixVer >= 2) {
         const partialBook: Partial<BookMetadata> = {
           isbn: productElement.findall(".//ProductIdentifier").filter(productId => productId.findtext('ProductIDType')?.toString() === '15')[0].find('IDValue')?.text?.toString(),
@@ -165,7 +172,7 @@ export class MetadataParser {
           console.error(book.error.flatten().fieldErrors)
           return acc
         }
-        additionalBookInfo.set(book.data, { originFile: originFile, onixVer: onixVer })
+        additionalBookInfoMap.set(book.data, { originFile: originFile, onixVer: onixVer })
         return [...acc, book.data]
       } 
       else if (onixVer >= 3 && onixVer < 4) {
@@ -193,14 +200,14 @@ export class MetadataParser {
           language: productElement.findtext(".//LanguageCode")?.toString(),
           primaryCategory,
           secondaryCategories: secondaryCategory,
-          customCategory: this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join("")),
+          customCategory: customCategories.concat(this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join(""))),
         }
         const book = BookMetadataSchema.safeParse(partialBook)
         if (!book.success) {
           console.error(book.error.flatten())
           return acc
         }
-        additionalBookInfo.set(book.data, { originFile: originFile, onixVer: onixVer })
+        additionalBookInfoMap.set(book.data, { originFile: originFile, onixVer: onixVer })
         return [...acc, book.data]
       }
       else {

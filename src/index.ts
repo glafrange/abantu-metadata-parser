@@ -2,7 +2,7 @@ import { ColInfo } from "xlsx"
 import * as xlsx from "xlsx"
 import * as fs from "fs/promises"
 
-import { BisacRow, BookMetadata, MetadataParser } from "./metadata-parser"
+import { BisacRow, BookMetadata, MetadataParser, additionalBookInfoMap } from "./metadata-parser"
 
 const PUBLISHER_DIRECTORIES = ["SimonSchuster", "Hachette"] as const // directories containing the xml files
 const OUTPUT_PATH = "./output/book-metadata.xlsx"
@@ -67,7 +67,7 @@ function addCellOptions(sheet: xlsx.WorkSheet, columnNames: string[], bookList: 
     }
   } as const
   const entries = entriesFromObject(columnInfo)
- for (let i = 0; i < entries.length; ++i) {
+  for (let i = 0; i < entries.length; ++i) {
     const [colName, colInfo] = entries[i]
     if (!sheet["!cols"]) sheet["!cols"] = []
     if (!sheet["!cols"][i]) sheet["!cols"][i] = columnInfo[colName]
