@@ -6,11 +6,12 @@ import { WorkSheet } from 'xlsx'
 import * as xlsx from 'xlsx'
 
 // data related to a books parsing
-type AdditionalBookInfo = {
-  originFile: string,
-  onixVer: number
+export type AdditionalBookInfo = {
+  originFilePath: string,
+  originFileName: string,
+  onixVer: number,
+  toCollect: string,
 }
-export const additionalBookInfoMap = new WeakMap<Object, AdditionalBookInfo>()
 
 export type BisacRow = {
   "BISAC  Code": string,
@@ -35,15 +36,22 @@ export const BookMetadataSchema = z.object({
   primaryCategory: z.optional(z.string()),
   secondaryCategories: z.optional(z.string()),
   customCategory: z.optional(z.string()),
+  "To Collect (x)": z.string(),
 })
 export type BookMetadata = z.infer<typeof BookMetadataSchema>
 
+export type RawMetadata = {
+  onixVer: number,
+  productElement: Element,
+  originFilePath: string,
+  originFileName: string,
+}
+
 export class MetadataParser {
   private subjectPhrases: string[][]
-  public additionalBookInfo = additionalBookInfoMap
+  public additionalBookInfo = new Map<string, AdditionalBookInfo>()
 
   constructor(
-    private pubDirs: Readonly<string[]>, 
     subjectHeadingSheet: WorkSheet, 
     private bisacSheet: BisacRow[],
   ) {
@@ -51,12 +59,7 @@ export class MetadataParser {
     this.subjectPhrases.splice(0, 1)
   }
 
-  private async getRawMetadataList() {
-    type RawMetadata = {
-      onixVer: number,
-      productElement: Element,
-      originFile: string,
-    }
+  private async getRawMetadataList(): Promise<RawMetadata[]> {
     const xmlDirs = await fs.readdir(`xml_metadata`)
     const metadataList = await xmlDirs.reduce(async(accPromise, dir) => {
       const acc = await accPromise
@@ -66,13 +69,15 @@ export class MetadataParser {
         const xmlString = await fs.readFile(`xml_metadata/${dir}/${fileName}`, 'utf-8')
         const root = ET.parse(xmlString).getroot()
         const product = root.findall('Product')
+        const filePath = `./xml_metadata/${dir}/${fileName}`
 
         if(product.length > 1) {
           const rawMetadataList: RawMetadata[] = product.map((product) => {
             return {
               onixVer: parseInt(root.get('release') ?? '0'), 
               productElement: product,
-              originFile: fileName
+              originFilePath: filePath,
+              originFileName: fileName,
             }
           })
           return [...acc, ...rawMetadataList]
@@ -80,7 +85,8 @@ export class MetadataParser {
           const rawMetadata: RawMetadata = {
             onixVer: parseInt(root.get('release') ?? '2.1'), //single product files assumed Hachette & ONIX 2.1
             productElement: product[0],
-            originFile: fileName
+            originFilePath: filePath,
+            originFileName: fileName,
           }
           return [...acc, rawMetadata]
         }
@@ -105,7 +111,7 @@ export class MetadataParser {
   }
 
   private matchSubjectText(subjectText: string): string {
-    let customCategoryList: string[] = []
+    const customCategoryList: string[] = []
     this.subjectPhrases.forEach(phrase => {
       const [text, category] = Object.values(phrase)
       if (subjectText.includes(text) && !customCategoryList.includes(category)) {
@@ -135,20 +141,47 @@ export class MetadataParser {
   }
 
   public async parse(): Promise<BookMetadata[]> {
+    let oldBookInfoFile: string | undefined
+    let oldBookInfoMap: Map<string, AdditionalBookInfo> | undefined
+    try{
+      oldBookInfoFile = await fs.readFile("./data/additional-book-info.json", 'utf8')
+      oldBookInfoMap = new Map<string, AdditionalBookInfo>(JSON.parse(oldBookInfoFile))
+    } catch (err) {
+      console.error(err)
+    }
+    
+
+    let curMetadataWorkbook: xlsx.WorkBook | undefined = undefined
+    let curMetadata: BookMetadata[] | undefined = undefined
+    let curSelectedBooks: Map<string, BookMetadata> | undefined = undefined
+    try {
+      curMetadataWorkbook = xlsx.readFile('./output/book-metadata.xlsx') ?? undefined
+      curMetadata = xlsx.utils.sheet_to_json(curMetadataWorkbook.Sheets['Sheet1'])
+      curSelectedBooks = new Map<string, BookMetadata>(curMetadata.filter(book => book["To Collect (x)"]?.length > 0).map(book => [book.isbn, book]))
+    } catch(err) {
+      console.error(err)
+    }
+    
     const rawMetadataList = await this.getRawMetadataList()
     if (!rawMetadataList) return []
-    const parsedMetadata = rawMetadataList.reduce(async (accPromise, { onixVer, productElement, originFile }) => {
+    const parsedMetadata = await rawMetadataList.reduce(async (accPromise, { onixVer, productElement, originFilePath, originFileName }) => {
       const acc = await accPromise
+      
       const extentElem = productElement.findall(".//Extent").filter(extentElem => extentElem.find("./ExtentType")?.text?.toString() === '09')[0]
       const extentUnit = extentElem?.findtext("./ExtentUnit")?.toString()
       const extentValue = extentElem?.findtext("./ExtentValue")?.toString()
       const bisacElem2 = productElement.findtext(".//BASICMainSubject")?.toString()
       const _bisacElem3 = productElement.findall(".//Subject").filter(elem => !!elem.find("./MainSubject"))[0]
       const bisacElem3 = _bisacElem3 ? _bisacElem3.findtext("./SubjectCode")?.toString() : undefined
-      const { primaryCategory , secondaryCategory, customCategory: customCategories } = this.getCategories(bisacElem2 ?? bisacElem3 ?? "")
+      const { primaryCategory, secondaryCategory, customCategory: customCategories } = this.getCategories(bisacElem2 ?? bisacElem3 ?? "")
+      const isbn = productElement.findall(".//ProductIdentifier").filter(productId => productId.findtext('ProductIDType')?.toString() === '15')[0].find('IDValue')?.text?.toString()
+      
+      const oldBookInfo = oldBookInfoMap?.get(isbn ?? "")
+      const curSelectedBook = curSelectedBooks ? curSelectedBooks.get(isbn ?? "") : undefined
+
       if (onixVer < 3 && onixVer >= 2) {
         const partialBook: Partial<BookMetadata> = {
-          isbn: productElement.findall(".//ProductIdentifier").filter(productId => productId.findtext('ProductIDType')?.toString() === '15')[0].find('IDValue')?.text?.toString(),
+          isbn: isbn,
           title: productElement.findtext(".//TitleText")?.toString(),
           subtitle: productElement.findtext(".//Subtitle")?.toString(),
           contributors: productElement.findall(".//Contributor").reduce((acc, contributor) => {
@@ -165,19 +198,20 @@ export class MetadataParser {
           language: productElement.findtext(".//LanguageCode")?.toString(),
           primaryCategory,
           secondaryCategories: secondaryCategory,
-          customCategory: this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join("")),
+          customCategory: [customCategories, this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join(" "))].join(" "),
+          "To Collect (x)": curSelectedBook ? "x" : ""
         }
         const book = BookMetadataSchema.safeParse(partialBook)
         if (!book.success) {
           console.error(book.error.flatten().fieldErrors)
           return acc
         }
-        additionalBookInfoMap.set(book.data, { originFile: originFile, onixVer: onixVer })
+        this.additionalBookInfo.set(book.data.isbn, { originFilePath, originFileName, onixVer: onixVer, toCollect: curSelectedBook ? "x" : "" })
         return [...acc, book.data]
       } 
       else if (onixVer >= 3 && onixVer < 4) {
         const partialBook: Partial<BookMetadata> = {
-          isbn: productElement.findall(".//ProductIdentifier").filter(productId => productId.findtext('ProductIDType')?.toString() === '15')[0].find('IDValue')?.text?.toString(),
+          isbn: isbn,
           title: (() => {
             const titleText = productElement.findtext(".//TitleText")?.toString()
             const titlePrefix = productElement.findtext(".//TitlePrefix")?.toString()
@@ -200,14 +234,15 @@ export class MetadataParser {
           language: productElement.findtext(".//LanguageCode")?.toString(),
           primaryCategory,
           secondaryCategories: secondaryCategory,
-          customCategory: customCategories.concat(this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join(""))),
+          customCategory: [customCategories, this.matchSubjectText(productElement.findtext(".//SubjectHeadingText")?.toString() ?? productElement.findall(".//Text").map(text => text.text?.toString()).join(" "))].join(" "),
+          "To Collect (x)": curSelectedBook ? "x" : "",
         }
         const book = BookMetadataSchema.safeParse(partialBook)
         if (!book.success) {
           console.error(book.error.flatten())
           return acc
         }
-        additionalBookInfoMap.set(book.data, { originFile: originFile, onixVer: onixVer })
+        this.additionalBookInfo.set(book.data.isbn, { originFilePath, originFileName, onixVer, toCollect: curSelectedBook ? "x" : "" })
         return [...acc, book.data]
       }
       else {
@@ -218,6 +253,9 @@ export class MetadataParser {
       console.error(err.stack)
       return []
     })
+    const json = JSON.stringify(Array.from(this.additionalBookInfo.entries()))
+    await fs.writeFile("./data/additional-book-info.json", json)
+
     return parsedMetadata
   }
 }

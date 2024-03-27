@@ -5,8 +5,9 @@
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts",
-    "scrape": "ts-node ./.temp/bisacScrape.ts"
+    "start": "ts-node src/index.ts parse",
+    "collect": "ts-node src/index.ts collect",
+    "scrape": "ts-node ./.temp/scrape.ts"
   },
   "author": "Gabriel Lafrange",
   "license": "ISC",
